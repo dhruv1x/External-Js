@@ -13,7 +13,7 @@ const streamMap = {
     poster: "https://i.ibb.co/dNp10Xf/IMG-20250620-145214.jpg"
   },
   "CLUB": {
-    url: "https://s2.bluecracken.site/pl_138/207480-6534010-1/playlist.m3u8",
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6534010-1/playlist.m3u8",
     poster: ""
   },
 
