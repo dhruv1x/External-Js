@@ -13,7 +13,7 @@ const streamMap = {
     poster: "https://i.ibb.co/dNp10Xf/IMG-20250620-145214.jpg"
   },
   "CLUB": {
-    url: "https://2-fss-2.streamhoster.com/pl_138/207480-6533898-1/playlist.m3u8",
+    url: "https://s2.bluecracken.site/pl_138/207480-6534010-1/playlist.m3u8",
     poster: ""
   },
 
