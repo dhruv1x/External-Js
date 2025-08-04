@@ -13,7 +13,7 @@ const streamMap = {
     poster: "https://i.ibb.co/dNp10Xf/IMG-20250620-145214.jpg"
   },
   "CLUB": {
-    url: "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1753613524-0-0-a9c32e114083b7b36b6e77ba4b73dbaa",
+    url: "https://2-fss-2.streamhoster.com/pl_138/207480-6533898-1/playlist.m3u8",
     poster: ""
   },
 
