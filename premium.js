@@ -8,12 +8,12 @@ const streamMap = {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: "#"
   },
-  "fox501": {
+  "CLUB1": {
     url: "#",
-    poster: "https://i.ibb.co/dNp10Xf/IMG-20250620-145214.jpg"
+    poster: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6540338-1/chunklist.m3u8"
   },
   "CLUB": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6538686-1/playlist.m3u8",
+    url: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6540342-1/chunklist.m3u8",
     poster: ""
   },
 
