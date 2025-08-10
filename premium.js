@@ -16,5 +16,9 @@ const streamMap = {
     url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535790-1/playlist.m3u8",
     poster: ""
   },
+  "CLUB2": {
+    url: "http://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6543036-1/playlist.m3u8",
+    poster: ""
+  },
 
 };
