@@ -9,11 +9,11 @@ const streamMap = {
     poster: "#"
   },
   "CLUB1": {
-    url: "#",
-    poster: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6540338-1/chunklist.m3u8"
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6538686-1/playlist.m3u8",
+    poster: "#"
   },
   "CLUB": {
-    url: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6540342-1/chunklist.m3u8",
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535790-1/playlist.m3u8",
     poster: ""
   },
 
