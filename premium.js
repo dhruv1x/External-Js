@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
     poster: ""
   },
-  "CLUB1": {
-    url: "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
+  "CLUB": {
+    url: "https://dtvxtream.com/sonyliv2/300273.m3u8",
     poster: ""
   },
 
