@@ -11,8 +11,8 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 
 // ✅ Streams list
 const streams = {
-    m1: "https://vivozly.com/canal.php?stream=skypremierleague",
-    m2: "https://cheapmarket.blog/idea/?id=2",
+    m1: "https://la14hd.com/vivo/canal.php?stream=usanetwork",
+    m2: "https://golazohd.com/online/canal.php?stream=tycsports",
     m3: "#",
     m4: "https://streamtp4.com/global1.php?stream=disney10",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
