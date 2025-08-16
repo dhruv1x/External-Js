@@ -11,7 +11,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 
 // ✅ Streams list
 const streams = {
-    m1: "https://la14hd.com/vivo/canal.php?stream=usanetwork",
+    m1: "https://aboutgame.cx/idea/?id=1",
     m2: "https://aboutgame.cx/idea/?id=1",
     m3: "https://goalzlive.xyz/events/stream2/",
     m4: "https://streamtp4.com/global1.php?stream=disney10",
