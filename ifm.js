@@ -13,7 +13,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 const streams = {
     m1: "https://aboutgame.cx/idea/?id=1",
     m2: "https://aboutgame.cx/idea/?id=2",
-    m3: "https://goalzlive.xyz/events/stream2/",
+    m3: "https://aboutgame.cx/idea/?id=ufc",
     m4: "https://streamtp4.com/global1.php?stream=disney10",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
     m6: "https://streamtp4.com/global1.php?stream=disney13",
