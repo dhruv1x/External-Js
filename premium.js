@@ -1,15 +1,15 @@
 // streams.js
 const streamMap = {
-  "PL3": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6552990-1/chunklist.m3u8",
+  "L12": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_120/207480-6553196-1/chunklist.m3u8",
     poster: "#"
   },
   "tencric": {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: "#"
   },
-  "PL2": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6552988-1/chunklist.m3u8",
+  "B1": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_120/207480-6553230-1/chunklist.m3u8",
     poster: "#"
   },
   "willow": {
