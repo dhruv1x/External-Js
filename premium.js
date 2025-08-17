@@ -20,7 +20,7 @@ const streamMap = {
     url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6552888-1/chunklist.m3u8",
     poster: ""
   },
-  "L1": {
+  "L2": {
     url: "https://d115o3s3p4gh4l.cloudfront.net/out/v1/b75a25a0cdea4643aab9e727391872b2/index.m3u8",
     poster: ""
   },
