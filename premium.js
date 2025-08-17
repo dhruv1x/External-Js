@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: "#"
   },
-  "UFC": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_124/207480-6553558-1/chunklist.m3u8",
+  "PL": {
+    url: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6554510-1/chunklist.m3u8",
     poster: "#"
   },
   "willow": {
