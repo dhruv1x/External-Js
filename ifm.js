@@ -11,7 +11,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 
 // ✅ Streams list
 const streams = {
-    m1: "https://aboutgame.cx/idea/?id=3",
+    m1: "https://aboutgame.cx/idea/?id=1",
     m2: "https://aboutgame.cx/idea/?id=4",
     m3: "https://aboutgame.cx/idea/?id=ufc",
     m4: "https://aboutgame.cx/idea/?id=ufc",
