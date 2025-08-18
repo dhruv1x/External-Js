@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "L1": {
-    url: "https://d2dfjutam85rgs.cloudfront.net/out/v1/8ff9c8bfc05e4fa587517611bcda532c/index.m3u8",
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6551168-1/chuncklist.m3u8",
     poster: "#"
   },
   "willow": {
@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "PL1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6552888-1/chunklist.m3u8",
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6555644-1/chunklist.m3u8",
     poster: ""
   },
   "L2": {
