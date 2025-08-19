@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: "#"
   },
-  "SC": {
-    url: "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4859e45d54289e912c1573b71b206364&txTime=68a4bb95",
+  "L1": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6551168-1/chuncklist.m3u8",
     poster: "#"
   },
   "willow": {
