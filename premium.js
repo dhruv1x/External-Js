@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "L1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6551168-1/chuncklist.m3u8",
+    url: "",
     poster: "#"
   },
   "willow": {
