@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "DC": {
-    url: "https://dtvxtream.com/sonyliv2/300273.m3u8",
+  "B1": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6562072-1/chuncklist.m3u8",
     poster: "#"
   },
   "tencric": {
