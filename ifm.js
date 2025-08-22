@@ -1,5 +1,5 @@
 
-const allowedDomain = "cricxfootball.pages.dev";
+const allowedDomain = "cxfootball.pages.dev";
 if (window.top !== window.self || window.location.hostname !== allowedDomain) {
     window.top.location.href = "https://telegram.me/cricxfootball";
 }
