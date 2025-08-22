@@ -17,10 +17,16 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "willow": {
+  "WWE": {
+    url: "http://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6536194-1/chuncklist.m3u8",
+    poster: "#",
+    telegramHandle: "@cricxfootball",
+    popupMessage: "Join Our Telegram Channel @cricxfootball"
+  },
+  "L1": {
     url: "https://example.com/willow.m3u8",
-    poster: "https://i.ibb.co/V0ZxtGjH/IMG-20250706-160925.jpg",
-    telegramHandle: "@WillowCricketTV",
-    popupMessage: "Watch Willow TV Live – Join our Telegram @WillowCricketTV!"
+    poster: "#",
+    telegramHandle: "@cricxfootball",
+    popupMessage: "Join Our Telegram Channel @cricxfootball"
   }
 };
