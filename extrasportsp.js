@@ -11,11 +11,11 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "fox501": {
-    url: "#",
-    poster: "https://i.ibb.co/dNp10Xf/IMG-20250620-145214.jpg",
-    telegramHandle: "@FoxCricketHQ",
-    popupMessage: "Live on Fox Cricket! Join @FoxCricketHQ on Telegram."
+  "PL1": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6555644-1/chunklist.m3u8",
+    poster: "#",
+    telegramHandle: "@cricxfootball",
+    popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "willow": {
     url: "https://example.com/willow.m3u8",
