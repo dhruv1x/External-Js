@@ -17,11 +17,11 @@ const streamMap = {
     poster: ""
   },
   "LG1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6562090-1/chunklist.m3u8",
+    url: "#",
     poster: ""
   },
   "WWE": {
-    url: "http://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6536194-1/chuncklist.m3u8",
+    url: "#",
     poster: ""
   },
 
