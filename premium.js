@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "B1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6562072-1/chuncklist.m3u8",
+  "PL1": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6555644-1/chunklist.m3u8",
     poster: "#"
   },
   "tencric": {
