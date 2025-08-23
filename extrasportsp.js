@@ -17,8 +17,8 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "W1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6536194-1/chuncklist.m3u8",
+  "UFC": {
+    url: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6554510-1/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
