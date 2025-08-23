@@ -12,7 +12,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 // ✅ Streams list
 const streams = {
     m1: "https://aboutgame.cx/idea/?id=1",
-    m2: "https://aboutgame.cx/idea/?id=4",
+    m2: "https://aboutgame.cx/idea/?id=2",
     m3: "https://aboutgame.cx/idea/?id=3",
     m4: "https://aboutgame.cx/idea/?id=ufc",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
