@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "LIG1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6562090-1/chunklist.m3u8",
+    url: "#",
     poster: "#"
   },
   "willow": {
@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "B1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6562072-1/chuncklist.m3u8",
+    url: "#",
     poster: ""
   },
   "L1": {
