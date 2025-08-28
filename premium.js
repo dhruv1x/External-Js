@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
     poster: ""
   },
-  "B1": {
-    url: "#",
+  "UCL": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_120/207480-6572332-1/playlist.m3u8",
     poster: ""
   },
   "L1": {
