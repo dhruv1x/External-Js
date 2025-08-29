@@ -1,6 +1,6 @@
 const streamMap = {
-  "B1": {
-    url: "#",
+  "F1": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6573566-1/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
