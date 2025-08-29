@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "PL1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6555644-1/chunklist.m3u8",
+  "willow": {
+    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6561826-1/chuncklist.m3u8",
     poster: "#"
   },
   "tencric": {
@@ -12,7 +12,7 @@ const streamMap = {
     url: "#",
     poster: "#"
   },
-  "willow": {
+  "willow1": {
     url: "https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
     poster: ""
   },
