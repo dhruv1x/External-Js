@@ -11,7 +11,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 
 // ✅ Streams list
 const streams = {
-    m1: "https://givemereddit.link/soccer/chelsea.html",
+    m1: "https://streamysport.org/part/Ll.php?id=3/56",
     m2: "https://aboutgame.cx/idea/?id=1&utm_source=chatgpt.com",
     m3: "https://aboutgame.cx/idea/?id=3",
     m4: "https://aboutgame.cx/idea/?id=ufc",
