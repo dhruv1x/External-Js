@@ -1,5 +1,5 @@
 const streams = {
-  "WQ1": "https://antenasport.org/sportdigitalde.php",
+  "WQ1": "https://e1link.link/ch?id=19",
   "PL2": "https://goalovo.net/events/stream1/",
   "CC3": "https://sportey.tv/multistream/16/Sky%20Sports%20Football?v=channelFrame_1756320643401_u950dgyxcqrfwp6gp",
   "UCL1": "https://goalovo.net/events/stream3/",
