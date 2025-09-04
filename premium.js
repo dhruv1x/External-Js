@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
     poster: ""
   },
-  "PL1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6578002-1/chuncklist.m3u8",
+  "WQ1": {
+    url: "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8",
     poster: ""
   },
   "S1": {
