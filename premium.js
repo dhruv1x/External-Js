@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6551168-1/chuncklist.m3u8",
     poster: ""
   },
-    "IN": {
-    url: "https://dai.fancode.com/primary/136617_english_hls_015e52addc66511ta-di_h264/index.m3u8",
+    "S2": {
+    url: "https://dtvxtream.com/sonyliv2/300273.m3u8",
     poster: ""
   },
 
