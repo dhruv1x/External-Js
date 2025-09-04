@@ -20,8 +20,8 @@ const streamMap = {
     url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6578002-1/chuncklist.m3u8",
     poster: ""
   },
-  "L1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6551168-1/chuncklist.m3u8",
+  "S1": {
+    url: "https://dtvxtream.com/sonyliv2/300256.m3u8",
     poster: ""
   },
     "S2": {
