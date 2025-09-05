@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "L1": {
-    url: "https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b131769307717666dd4b364958&sid=ba5t1l1xb21925953729666dd4b4dc792&ndvc=0",
+    url: "https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8",
     poster: "#"
   },
   "willow": {
