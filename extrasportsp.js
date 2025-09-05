@@ -1,6 +1,6 @@
 const streamMap = {
   "F1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6573566-1/chunklist.m3u8",
+    url: "https://cors.jugorder.de/https://ovo1.ovogoalz.com/hls/xixsponksf1.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
