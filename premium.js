@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://dtvxtream.com/sonyliv2/300273.m3u8",
     poster: ""
   },
-  "L2": {
-    url: "https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8",
+  "L1": {
+    url: "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1757182489-0-0-18b3cf2f9fa854b50d92a055cdd8730b",
     poster: ""
   },
 
