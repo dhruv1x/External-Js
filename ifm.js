@@ -11,7 +11,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 
 // ✅ Streams list
 const streams = {
-    WWE: "https://veplay.top/stream/2f2d7e70-54a7-4b7f-b059-cb6fd3a1a2cc",
+    WWE: "https://www.sawlivenow.com/embed/ch84_SD/",
     m2: "https://aboutgame.cx/idea/?id=1&utm_source=chatgpt.com",
     m3: "https://aboutgame.cx/idea/?id=3",
     m4: "https://aboutgame.cx/idea/?id=ufc",
