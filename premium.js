@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "willow1": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6561826-1/chuncklist.m3u8",
+  "Fox": {
+    url: "https://media.onestream.studio/content/hls/live/live_4314166_1svufq6i7/hls.m3u8",
     poster: "#"
   },
   "tencric": {
