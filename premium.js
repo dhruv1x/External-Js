@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "S5": {
-    url: "https://dtvxtream.com/sonyliv2/300258.m3u8",
+    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: ""
   },
 
