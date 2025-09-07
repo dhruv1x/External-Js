@@ -21,11 +21,11 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://dtvxtream.com/sonyliv2/300256.m3u8",
+    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: ""
   },
     "S2": {
-    url: "https://dtvxtream.com/sonyliv2/300273.m3u8",
+    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: ""
   },
   "S5": {
