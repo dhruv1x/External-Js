@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "S5": {
-    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
+    url: "https://decllygx6lcl0.cloudfront.net/out/v1/bf402af6567749cf858514ecd136f0f2/index.m3u8",
     poster: ""
   },
 
