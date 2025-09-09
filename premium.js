@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "Fox": {
-    url: "https://media.onestream.studio/content/hls/live/live_4314166_1svufq6i7/hls.m3u8",
+  "U23": {
+    url: "https://pull.niues.live/live/stream-527384_lhd.m3u8",
     poster: "#"
   },
   "tencric": {
