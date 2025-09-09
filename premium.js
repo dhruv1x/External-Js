@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "U1": {
-    url: "https://pull.niues.live/live/stream-527384_lhd.m3u8",
+    url: "https://live.inplyr.com/room/527384.m3u8",
     poster: "#"
   },
   "tencric": {
