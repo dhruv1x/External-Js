@@ -1,6 +1,6 @@
 // streams.js
 const streamMap = {
-  "U23": {
+  "U1": {
     url: "https://pull.niues.live/live/stream-527384_lhd.m3u8",
     poster: "#"
   },
