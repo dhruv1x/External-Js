@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "U": {
-    url: "https://live.inplyr.com/room/527384.m3u8",
+  "FQ2": {
+    url: "https://live.inplyr.com/room/291277.m3u8",
     poster: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8"
   },
   "tencric": {
