@@ -25,7 +25,7 @@ const streamMap = {
     poster: ""
   },
     "S2": {
-    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
+    url: "https://tvsen5.aynaott.com/PtvSports/index.m3u8",
     poster: ""
   },
   "S5": {
