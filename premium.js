@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
     poster: "#"
   },
-  "U2": {
-    url: "https://live.inplyr.com/room/501412.m3u8",
+  "Fox2": {
+    url: "https://hugh.cdn.rumble.cloud/live/r31jzt5k/slot-21/ooua-7wz9/chunklist.m3u8",
     poster: "#"
   },
   "willow": {
