@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "S5": {
-    url: "https://decllygx6lcl0.cloudfront.net/out/v1/bf402af6567749cf858514ecd136f0f2/index.m3u8",
+    url: "https://dai.fancode.com/primary/136732_english_hls_877e5c48d829506ta-di_h264/index.m3u8",
     poster: ""
   },
 
