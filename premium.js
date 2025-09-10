@@ -21,11 +21,11 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
+    url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
     poster: ""
   },
     "S2": {
-    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8",
+    url: "",
     poster: ""
   },
   "S5": {
