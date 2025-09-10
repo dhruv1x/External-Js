@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "Fox2": {
-    url: "https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/crazy-frog/58582ebdda51b171777a15c61e74a089.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU4NTgyZWJkZGE1MWIxNzE3NzdhMTVjNjFlNzRhMDg5IiwidHlwZSI6ImluaXRpYWxfYWNjZXNzIiwiaWF0IjoxNzU3NTE4MDE1LCJleHAiOjE3NTc1MTgwNDV9.dCQkLWRmZGZkMiRv",
+    url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-103/168w-yexl/chunklist.m3u8",
     poster: "#"
   },
   "willow": {
