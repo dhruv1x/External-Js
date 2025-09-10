@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-155/mmil-w7nl/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-79/sqc2-owdr/chunklist.m3u8",
     poster: "#"
   },
   "tencric": {
