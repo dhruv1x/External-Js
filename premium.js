@@ -1,8 +1,8 @@
 // streams.js
 const streamMap = {
-  "FQ2": {
-    url: "https://live.inplyr.com/room/291277.m3u8",
-    poster: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8"
+  "Fox": {
+    url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
+    poster: "#"
   },
   "tencric": {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
