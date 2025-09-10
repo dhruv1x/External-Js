@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "willow": {
-    url: "https://cors.jugorder.de/https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+    url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
     poster: ""
   },
   "FS1": {
