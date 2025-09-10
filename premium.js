@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "Fox": {
-    url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
+    url: "https://sillygg.kornballs.lol/Fox501au.m3u8",
     poster: "#"
   },
   "tencric": {
