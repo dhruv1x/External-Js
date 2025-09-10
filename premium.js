@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
     poster: ""
   },
-  "FS1": {
-    url: "https://cors.jugorder.de/https://ovo1.ovogoalz.com/hls/xixsponks1.m3u8",
+  "TMN": {
+    url: "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8",
     poster: ""
   },
   "S1": {
@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "S5": {
-    url: "https://dai.fancode.com/primary/136732_english_hls_877e5c48d829506ta-di_h264/index.m3u8",
+    url: "#",
     poster: ""
   },
 
