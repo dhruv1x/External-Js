@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "S5": {
-    url: "#",
+    url: "https://dai.google.com/linear/hls/event/inq9igrMQ32gRZqcAKG_3w/master.m3u8",
     poster: ""
   },
 
