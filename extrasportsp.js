@@ -1,9 +1,9 @@
 const streamMap = {
-  "F1": {
-    url: "https://cors.jugorder.de/https://ovo1.ovogoalz.com/hls/xixsponksf1.m3u8",
+  "PKL": {
+    url: "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/stream_0.m3u8?uid=2514280893",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "WWE": {
     url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6536194-1/chuncklist.m3u8",
