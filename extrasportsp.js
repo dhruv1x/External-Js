@@ -5,17 +5,17 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "WWE": {
-    url: "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6536194-1/chuncklist.m3u8",
+  "E1": {
+    url: "https://d1zq5no55rw5ua.cloudfront.net/136736_english_hls_9776118ee542689ta-di_h264/index.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "PL1": {
-    url: "#",
+  "H1": {
+    url: "https://d1zq5no55rw5ua.cloudfront.net/136736_hindi_hls_201f23489044449ta-di_h264/index.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "UFC": {
     url: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6554510-1/chunklist.m3u8",
