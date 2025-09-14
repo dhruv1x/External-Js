@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
     poster: ""
   },
-    "L2": {
-    url: "https://cors.jugorder.de/https://storage.googleapis.com/usertinghuver3/mux_video_ts/index-1.m3u8",
+    "S2": {
+    url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
     poster: ""
   },
   "S5": {
