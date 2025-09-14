@@ -1,5 +1,5 @@
 const streams = {
-  "WWE": "https://veplay.top/stream/2f2d7e70-54a7-4b7f-b059-cb6fd3a1a2cc",
+  "PL1": "https://givemereddit.link/soccer/liverpool.html",
   "WQ2": "https://voodc.com/embed/85818b989c8a9b86847a85959e8a9885887f.html",
   "CC3": "https://sportey.tv/multistream/16/Sky%20Sports%20Football?v=channelFrame_1756320643401_u950dgyxcqrfwp6gp",
   "UCL1": "https://goalovo.net/events/stream3/",
