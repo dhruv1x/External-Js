@@ -6,7 +6,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "E1": {
-    url: "https://d1zq5no55rw5ua.cloudfront.net/136736_english_hls_9776118ee542689ta-di_h264/index.m3u8",
+    url: "https://dai.fancode.com/primary/136737_english_hls_d05d6521f580705ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
