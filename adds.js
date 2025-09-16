@@ -1,6 +1,6 @@
 const streams = {
-  "L1": "https://sportstvnow.org/games/stream2/",
-  "WQ2": "https://voodc.com/embed/85818b989c8a9b86847a85959e8a9885887f.html",
+  "U1": "https://sportstvnow.org/games/stream1/",
+  "U2": "https://sportstvnow.org/games/stream2/",
   "CC3": "https://sportey.tv/multistream/16/Sky%20Sports%20Football?v=channelFrame_1756320643401_u950dgyxcqrfwp6gp",
   "UCL1": "https://goalovo.net/events/stream3/",
   "PL2": "https://goalovo.net/events/stream2/",
