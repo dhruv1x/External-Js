@@ -6,7 +6,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "E1": {
-    url: "https://dai.fancode.com/primary/136737_english_hls_d05d6521f580705ta-di_h264/index.m3u8",
+    url: "",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
@@ -17,8 +17,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "UFC": {
-    url: "https://d26ivh5wwqrfbz.cloudfront.net/pl_122/207480-6554510-1/chunklist.m3u8",
+  "AFC2": {
+    url: "https://dai.fancode.com/primary/136115_english_hls_87be002f1998361ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
