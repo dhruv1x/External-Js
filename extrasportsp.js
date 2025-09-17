@@ -18,7 +18,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "AFC2": {
-    url: "https://dai.fancode.com/primary/136115_english_hls_87be002f1998361ta-di_h264/index.m3u8",
+    url: "https://dai.fancode.com/primary/136127_english_hls_674730bb0377703adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
