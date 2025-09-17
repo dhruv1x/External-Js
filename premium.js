@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_1080p.m3u8",
+    url: "https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream.m3u8",
     poster: ""
   },
     "S2": {
