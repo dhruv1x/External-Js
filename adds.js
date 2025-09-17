@@ -1,6 +1,6 @@
 const streams = {
-  "U1": "https://sportstvnow.org/games/stream1/",
-  "U2": "https://sportstvnow.org/games/stream2/",
+  "U1": "https://sportstvnow.org/games/stream2/",
+  "U2": "https://sportstvnow.org/games/stream1/",
   "U3": "https://sportstvnow.org/games/stream4/",
   "U4": "https://sportstvnow.org/games/stream3/",
   "PL2": "https://goalovo.net/events/stream2/",
