@@ -1,6 +1,6 @@
 const streamMap = {
   "S1": {
-    url: "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/stream_0.m3u8?uid=2514280893",
+    url: "https://dai.fancode.com/primary/136741_english_hls_bd85d9d91112870ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
@@ -17,11 +17,11 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "AFC2": {
-    url: "https://dai.fancode.com/primary/136127_english_hls_674730bb0377703adfreeta-di_h264/index.m3u8",
+  "S2": {
+    url: "https://dai.fancode.com/primary/136741_hindi_hls_cca980f0b755405ta-di_h264/index.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "L1": {
     url: "#",
