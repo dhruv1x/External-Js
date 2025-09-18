@@ -1,8 +1,8 @@
 const streams = {
   "U1": "https://sportstvnow.org/games/stream2/",
   "U2": "https://sportstvnow.org/games/stream1/",
-  "U3": "https://sportstvnow.org/games/stream3/",
-  "U4": "https://sportstvnow.org/games/stream4/",
+  "U3": "https://sportstvnow.org/games/stream4/",
+  "U4": "https://sportstvnow.org/games/stream3/",
   "PL2": "https://goalovo.net/events/stream2/",
   "VC1": "https://voodc.com/embed/1/85818b97a087a186847a8597a48c9885867f.html",
   "SC1": "https://sportzonline.site/channels/bra/br5.php",
