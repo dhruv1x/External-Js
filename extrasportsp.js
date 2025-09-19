@@ -23,8 +23,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "L1": {
-    url: "#",
+  "F1": {
+    url: "https://d2y9l6dt6jxllt.cloudfront.net/out/v1/93e3ab7aafa24463b5d6cfbbe88bcaa2/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
