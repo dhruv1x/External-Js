@@ -6,13 +6,13 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "E1": {
-    url: "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/stream_0.m3u8?uid=2514280893",
+    url: "https://dai.fancode.com/primary/136742_english_hls_cd7ccd163687982adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "H1": {
-    url: "https://live.dinesh29.com.np/stream/jiotvplus/starsportshindi1/stream_0.m3u8?uid=414654418",
+    url: "https://dai.fancode.com/primary/136742_hindi_hls_03dea3461951169adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
