@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-115/2aug-3kyf/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
     poster: "#"
   },
   "tencric": {
@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
     poster: "#"
   },
     "S2": {
