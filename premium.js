@@ -21,9 +21,8 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8
-      ",
-    poster: ""
+    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
+    poster: "#"
   },
     "S2": {
     url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
