@@ -21,7 +21,8 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream.m3u8",
+    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8
+      ",
     poster: ""
   },
     "S2": {
