@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "willow": {
-    url: "https://sillygg.kornballs.lol/WillowCricket.m3u8",
+    url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: ""
   },
   "TMN": {
