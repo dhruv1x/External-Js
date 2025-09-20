@@ -6,13 +6,13 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "E1": {
-    url: "https://dai.fancode.com/primary/136742_english_hls_cd7ccd163687982adfreeta-di_h264/index.m3u8",
+    url: "https://dai.fancode.com/primary/136743_english_hls_36566c378196992ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "H1": {
-    url: "https://dai.fancode.com/primary/136742_hindi_hls_03dea3461951169adfreeta-di_h264/index.m3u8",
+    url: "https://dai.fancode.com/primary/136743_hindi_hls_56a9b0952370585ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
