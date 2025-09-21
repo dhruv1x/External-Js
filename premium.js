@@ -4,7 +4,7 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
     poster: "#"
   },
-  "Will2": {
+  "willow": {
     url: "https://rumble.com/live-hls-dvr/6x2k1i/playlist.m3u8",
     poster: "#"
   },
@@ -12,7 +12,7 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-155/mmil-w7nl/chunklist.m3u8",
     poster: "#"
   },
-  "willow": {
+  "illow": {
     url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: ""
   },
