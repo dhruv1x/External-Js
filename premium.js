@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
     poster: "#"
   },
-  "tencric": {
-    url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
+  "Will2": {
+    url: "https://rumble.com/live-hls-dvr/6x2k1i/playlist.m3u8",
     poster: "#"
   },
   "Fox2": {
