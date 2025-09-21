@@ -1,6 +1,6 @@
 const streamMap = {
-  "S1": {
-    url: "https://dai.fancode.com/primary/136622_english_hls_87e3741e6456891adfreeta-di_h264/index.m3u8",
+  "F1": {
+    url: "https://d259gr1toiupmi.cloudfront.net/out/v1/bc731540280947c5807ec54413bfd5f1/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
