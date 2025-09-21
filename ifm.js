@@ -12,7 +12,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 // ✅ Streams list
 const streams = {
     WWE: "https://www.sawlivenow.com/embed/ch84_SD/",
-    m2: "https://topembed.pw/channel/ex8660279",
+    m2: "https://topembed.pw/channel/SportTV4[Portugal]",
     m3: "https://aboutgame.cx/idea/?id=3",
     m4: "https://aboutgame.cx/idea/?id=ufc",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
