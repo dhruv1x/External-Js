@@ -1,5 +1,5 @@
 const streams = {
-  "L1": "https://sportstvnow.org/games/stream1/",
+  "DR": "https://voodc.com/embed/85818b99a18d9d84847a85979e8c98888b.html",
   "PL1": "https://sportstvnow.org/games/stream3/",
   "PL2": "https://sportstvnow.org/games/stream2/",
   "BD": "https://vivozly.com/canal.php?stream=event1",
