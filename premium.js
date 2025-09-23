@@ -20,12 +20,12 @@ const streamMap = {
     url: "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8",
     poster: ""
   },
-  "S1": {
-    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
+  "CC1": {
+    url: "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1758658157-0-0-0704d2ec6cde5d6a29ad09a8d98380ac",
     poster: "#"
   },
-    "S2": {
-    url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
+    "CC": {
+    url: "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1758658157-0-0-9faebe11fac14064504b660fa6ee92e4",
     poster: ""
   },
   "RSL": {
