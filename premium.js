@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
     poster: ""
   },
-  "S5": {
-    url: "https://dai.google.com/linear/hls/event/inq9igrMQ32gRZqcAKG_3w/master.m3u8",
+  "RSL": {
+    url: "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1758655455-0-0-7be9c123f62f37cd601935c6c62b5b4c",
     poster: ""
   },
 
