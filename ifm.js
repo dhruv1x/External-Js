@@ -1,17 +1,17 @@
 
 const allowedDomain = "cxfootball.pages.dev";
 if (window.top !== window.self || window.location.hostname !== allowedDomain) {
-    window.top.location.href = "https://telegram.me/cricxfootball";
+    window.top.location.href = "https://telegram.me/livecrichdofficial";
 }
 
 // ✅ Telegram prompt
-if (confirm("Join Our Telegram Channel @cricxfootball")) {
-    window.location.href = "https://telegram.me/cricxfootball";
+if (confirm("Join Our Telegram Channel @livecrichdofficial")) {
+    window.location.href = "https://telegram.me/livecrichdofficial";
 }
 
 // ✅ Streams list
 const streams = {
-    WWE: "https://www.sawlivenow.com/embed/ch84_SD/",
+    PB: "https://embedsports.top/embed/echo/pakistan-sri-lanka-t20-asia-cup-cricket2203/1",
     BD: "https://vivozly.com/canal.php?stream=event1",
     m3: "https://topembed.pw/channel/DigiSport2[Romania]",
     m4: "https://aboutgame.cx/idea/?id=ufc",
