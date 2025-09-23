@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: ""
   },
-  "TMN": {
-    url: "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8",
+  "L1": {
+    url: "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a5c9de7715f12b1251893208997dd47a&txTime=68d3483f",
     poster: ""
   },
   "CC1": {
