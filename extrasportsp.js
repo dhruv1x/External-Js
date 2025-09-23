@@ -6,16 +6,16 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "E1": {
-    url: "https://dai.fancode.com/primary/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8",
+    url: "https://dai.fancode.com/primary/130884_english_hls_9c30c72b627427adfreeta-di_h264/index.m3u8",
     poster: "#",
-    telegramHandle: "@livecrichdofficial",
-    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
+    telegramHandle: "@cricxfootball",
+    popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "H1": {
-    url: "https://dai.fancode.com/primary/136745_hindi_hls_3d0880779651715ta-di_h264/index.m3u8",
+    url: "https://dai.fancode.com/primary/130884_hindi_hls_cb181bf33014999adfreeta-di_h264/index.m3u8",
     poster: "#",
-    telegramHandle: "@livecrichdofficial",
-    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
+    telegramHandle: "@cricxfootball",
+    popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "S1": {
     url: "https://dontknow@hocdn.news/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8",
