@@ -1,5 +1,5 @@
 const streamMap = {
-  "S1": {
+  "S2": {
     url: "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
@@ -17,8 +17,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "S2": {
-    url: "https://dai.fancode.com/primary/136741_hindi_hls_cca980f0b755405ta-di_h264/index.m3u8",
+  "S1": {
+    url: "https://dontknow@hocdn.news/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
