@@ -16,20 +16,20 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: ""
   },
-  "L1": {
-    url: "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a5c9de7715f12b1251893208997dd47a&txTime=68d3483f",
+  "CC2": {
+    url: "https://stream-flv.dfsfe.top/lives/534055-480p.m3u8",
     poster: ""
   },
   "CC1": {
-    url: "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1758658157-0-0-0704d2ec6cde5d6a29ad09a8d98380ac",
+    url: "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b2e4e36ebee3250a675e9c29466d2c73&txTime=68d49604",
     poster: "#"
   },
     "CC": {
-    url: "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1758658157-0-0-9faebe11fac14064504b660fa6ee92e4",
+    url: "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f42845d1aab15ef6dfbf1c1e68b2e8d1&txTime=68d49730",
     poster: ""
   },
-  "RSL": {
-    url: "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1758655455-0-0-7be9c123f62f37cd601935c6c62b5b4c",
+  "CC3": {
+    url: "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1758744559-0-0-4b2f0e07641cf5f7d45e761b9320f8d7",
     poster: ""
   },
 
