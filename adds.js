@@ -1,5 +1,5 @@
 const streams = {
-  "A1": "https://myuser735.ifrem.net/iframe/frame.php",
+  "A1": "https://iframe-f0p.pages.dev/English",
   "PB": "https://embedsports.top/embed/echo/pakistan-sri-lanka-t20-asia-cup-cricket2203/1",
   "PL2": "https://sportstvnow.org/games/stream2/",
   "BD": "https://vivozly.com/canal.php?stream=event1",
