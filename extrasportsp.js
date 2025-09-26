@@ -23,8 +23,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "CC1": {
-    url: "https://dai.fancode.com/primary/136840_english_hls_822703079f64745ta-di_h264/index.m3u8",
+  "RSL": {
+    url: "https://dai.fancode.com/primary/136603_english_hls_b113b7f97f86931adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
