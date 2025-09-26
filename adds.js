@@ -1,5 +1,5 @@
 const streams = {
-  "A1": "https://iframe-f0p.pages.dev/English",
+  "A1": "https://embedsports.top/embed/alpha/india-vs-sri-lanka/1",
   "PB": "https://embedsports.top/embed/echo/pakistan-sri-lanka-t20-asia-cup-cricket2203/1",
   "L1": "https://voodc.com/embed/85818b99a489a18a847a85989f8d9885877e.html",
   "BD": "https://vivozly.com/canal.php?stream=event1",
