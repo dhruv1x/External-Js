@@ -12,8 +12,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-155/mmil-w7nl/chunklist.m3u8",
     poster: "#"
   },
-  "illow": {
-    url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
+  "L1": {
+    url: "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1758985760-0-0-aacecf9662d9770fa756eed7471ea167",
     poster: ""
   },
   "PL4": {
