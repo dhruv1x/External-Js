@@ -16,20 +16,20 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: ""
   },
-  "BL1": {
-    url: "https://pull.niues.live/live/stream-519740_lhd.m3u8?auth_key=1758918800-0-0-71938bb127376ef99517dc121ddcc6c4",
+  "PL4": {
+    url: "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1758985700-0-0-b9b90afbc5185df96c1c9352636bad17",
     poster: ""
   },
-  "EFL": {
-    url: "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1758918740-0-0-e8a57fd6a7bc9a260385f69be29bd887",
+  "PL2": {
+    url: "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f782e600d82bd71da0abbd84ef6a18f9&txTime=68d843f8",
     poster: "#"
   },
     "PL1": {
-    url: "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=df631f29122c351462db1847081bb0d9&txTime=68d81e00",
+    url: "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=8b2b55ed4ca0031c9430ccae93b638cc&txTime=68d843bc",
     poster: ""
   },
-  "RSL": {
-    url: "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1758912620-0-0-1daeaeed8dbf67c0b66036b8863b4a7e",
+  "PL3": {
+    url: "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1758985460-0-0-a6f51cc909ef514b865a930bb47d2149",
     poster: ""
   },
 
