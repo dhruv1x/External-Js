@@ -1,6 +1,6 @@
 const streamMap = {
   "S2": {
-    url: "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8",
+    url: "https://in-mc-fdlive.fancode.com/mumbai/130891_english_hls_5d3f40002c15994adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
