@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1758918740-0-0-e8a57fd6a7bc9a260385f69be29bd887",
     poster: "#"
   },
-    "L1": {
-    url: "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1758918380-0-0-ba251b803c3780f230c97870f8dbcb06",
+    "PL1": {
+    url: "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=df631f29122c351462db1847081bb0d9&txTime=68d81e00",
     poster: ""
   },
   "RSL": {
