@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://rumble.com/live-hls-dvr/6x2k1i/playlist.m3u8",
     poster: "#"
   },
-  "Fox2": {
-    url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-155/mmil-w7nl/chunklist.m3u8",
+  "S1": {
+    url: "https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=108fbb5ab3328ae1efde1da092cbff03&txTime=68d86090",
     poster: "#"
   },
   "L1": {
