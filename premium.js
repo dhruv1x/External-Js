@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=108fbb5ab3328ae1efde1da092cbff03&txTime=68d86090",
+    url: "https://dontknow@hocdn.news/TNT_Sports_2/tracks-v1a1/mono.m3u8",
     poster: "#"
   },
   "L1": {
