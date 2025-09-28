@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/d0d89e36adc8f23bb87170b654cdc14d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQwZDg5ZTM2YWRjOGYyM2JiODcxNzBiNjU0Y2RjMTRkIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTA4MTEzNywiZXhwIjoxNzU5MDg4MzM3fQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ",
+    url: "https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/d0d89e36adc8f23bb87170b654cdc14d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQwZDg5ZTM2YWRjOGYyM2JiODcxNzBiNjU0Y2RjMTRkIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTA4ODAxMiwiZXhwIjoxNzU5MDk1MjEyfQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ",
     poster: "#"
   },
   "L1": {
