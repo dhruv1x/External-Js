@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=581af4c7aa6c823136eaae30a345d7bb&txTime=68dae608",
     poster: ""
   },
-  "PL3": {
-    url: "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1758985460-0-0-a6f51cc909ef514b865a930bb47d2149",
+  "W2": {
+    url: "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=6f1346a4e582ced018f65890f2bcc197&txTime=68db0b10",
     poster: ""
   },
 
