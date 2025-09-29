@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "W2": {
-    url: "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=6f1346a4e582ced018f65890f2bcc197&txTime=68db0b10",
+    url: "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=eab1294b8882fc13a410e51d71ea79de&txTime=68db2730",
     poster: ""
   },
 
