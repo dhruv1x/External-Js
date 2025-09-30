@@ -20,16 +20,16 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1758985700-0-0-b9b90afbc5185df96c1c9352636bad17",
     poster: ""
   },
-  "PL2": {
-    url: "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f782e600d82bd71da0abbd84ef6a18f9&txTime=68d843f8",
+  "U3": {
+    url: "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=45a756bf55252450d02cc519525ff334&txTime=68dc7e14",
     poster: "#"
   },
     "U1": {
-    url: "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=ed2a9d5612f1769c26a8d50dd2709520&txTime=68dc5b64",
+    url: "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1759262480-0-0-3e52095546813c0a09e273613ea23b3a",
     poster: ""
   },
   "U2": {
-    url: "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=88a4cb8428d160af558056cfb75cf5d4&txTime=68dc5aec",
+    url: "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=4387d95b12c3c8a0b767310515bc85b0&txTime=68dc7d60",
     poster: ""
   },
 
