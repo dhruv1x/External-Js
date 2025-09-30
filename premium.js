@@ -24,12 +24,12 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f782e600d82bd71da0abbd84ef6a18f9&txTime=68d843f8",
     poster: "#"
   },
-    "W1": {
-    url: "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=581af4c7aa6c823136eaae30a345d7bb&txTime=68dae608",
+    "U1": {
+    url: "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=ed2a9d5612f1769c26a8d50dd2709520&txTime=68dc5b64",
     poster: ""
   },
-  "W2": {
-    url: "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=eab1294b8882fc13a410e51d71ea79de&txTime=68db2730",
+  "U2": {
+    url: "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=88a4cb8428d160af558056cfb75cf5d4&txTime=68dc5aec",
     poster: ""
   },
 
