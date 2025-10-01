@@ -12,8 +12,8 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/TNT_Sports_1/tracks-v1a1/mono.m3u8",
     poster: "#"
   },
-  "L1": {
-    url: "https://pull.niues.live/live/stream-524300_lsd.m3u8?auth_key=1758994340-0-0-4b11e800d26dd575dfcc66020dccbadd",
+  "S2": {
+    url: "https://dontknow@hocdn.news/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8",
     poster: ""
   },
   "PL4": {
