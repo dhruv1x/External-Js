@@ -25,11 +25,11 @@ const streamMap = {
     poster: "#"
   },
     "U1": {
-    url: "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1759262480-0-0-3e52095546813c0a09e273613ea23b3a",
+    url: "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=1a4518db9a1e0aabddca2bb3f6c678d4&txTime=68ddad20",
     poster: ""
   },
   "U2": {
-    url: "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=4387d95b12c3c8a0b767310515bc85b0&txTime=68dc7d60",
+    url: "https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1759340240-0-0-3b99e5eb5d6a28661ab5711f3d341275",
     poster: ""
   },
 
