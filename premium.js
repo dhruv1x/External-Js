@@ -16,20 +16,20 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8",
     poster: ""
   },
-  "PL4": {
-    url: "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1758985700-0-0-b9b90afbc5185df96c1c9352636bad17",
+  "U4": {
+    url: "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1759348340-0-0-7b4d1f87e00a4285d6c1d1bf75cba773",
     poster: ""
   },
   "U3": {
-    url: "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=45a756bf55252450d02cc519525ff334&txTime=68dc7e14",
+    url: "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759348100-0-0-2c18a347fc24eeaf69a11711a7968678",
     poster: "#"
   },
     "U1": {
-    url: "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=1a4518db9a1e0aabddca2bb3f6c678d4&txTime=68ddad20",
+    url: "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=6dbc13208431057ad122feccad65c3e3&txTime=68ddccc5",
     poster: ""
   },
   "U2": {
-    url: "https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1759340240-0-0-3b99e5eb5d6a28661ab5711f3d341275",
+    url: "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1759348161-0-0-519e4cf06420dc4be91485af3e50a54f",
     poster: ""
   },
 
