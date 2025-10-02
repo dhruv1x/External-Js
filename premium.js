@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8",
     poster: ""
   },
-  "U4": {
-    url: "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1759348340-0-0-7b4d1f87e00a4285d6c1d1bf75cba773",
+  "SLK": {
+    url: "https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8",
     poster: ""
   },
   "U3": {
