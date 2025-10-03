@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1759519401-0-0-5bf0e2bae396fd07de26abeca68fc9fc",
     poster: "#"
   },
-  "willow": {
-    url: "https://rumble.com/live-hls-dvr/6x2k1i/playlist.m3u8",
+  "A1": {
+    url: "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1759520301-0-0-7628255c4d8b6a32cd0aab7104c48902",
     poster: "#"
   },
   "S1": {
