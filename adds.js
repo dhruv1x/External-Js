@@ -10,6 +10,6 @@ const streams = {
   "U3": "https://streamkick.org/games/stream1/",
   "U4": "https://streamkick.org/games/stream5/",
   "M3": "https://aboutgame.cx/adfree/?id=3",
-  "M4": "https://aboutgame.cx/adfree/?id=4"
+  "PL1": "https://streamkick.org/games/stream1/"
   
 };
