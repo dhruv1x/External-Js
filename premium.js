@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-21/nr3w-iqck/chunklist_DVR.m3u8",
+  "B1": {
+    url: "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1759519401-0-0-5bf0e2bae396fd07de26abeca68fc9fc",
     poster: "#"
   },
   "willow": {
