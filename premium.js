@@ -16,12 +16,12 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8",
     poster: ""
   },
-  "SLK": {
-    url: "https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8",
+  "PL1": {
+    url: "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=cd404efeb5bc8af80820e0fc1deac905&txTime=68e06f10",
     poster: ""
   },
-  "U3": {
-    url: "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759348100-0-0-2c18a347fc24eeaf69a11711a7968678",
+  "L1": {
+    url: "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=14d8c4d5c06a6bb8b62ba004ff42d26e&txTime=68e06f4c",
     poster: "#"
   },
     "U1": {
