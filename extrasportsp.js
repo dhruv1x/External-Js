@@ -1,6 +1,6 @@
 const streamMap = {
-  "AFC": {
-    url: "https://dai.fancode.com/primary/136129_english_hls_a81428c0b543608ta-di_h264/index.m3u8",
+  "PFL": {
+    url: "https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
