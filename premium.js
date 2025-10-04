@@ -12,12 +12,12 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/TNT_Sports_3/tracks-v1a1/mono.m3u8",
     poster: "#"
   },
-  "S2": {
+  "S3": {
     url: "https://dontknow@hocdn.news/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8",
     poster: ""
   },
-  "PL1": {
-    url: "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=cd404efeb5bc8af80820e0fc1deac905&txTime=68e06f10",
+  "S2": {
+    url: "https://dontknow@hocdn.news/TNT_Sports_4/tracks-v1a1/mono.m3u8",
     poster: ""
   },
   "L1": {
