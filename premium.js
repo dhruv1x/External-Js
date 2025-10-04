@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1759589421-0-0-8829353bf21a1d9ec6e926b6175072ab",
     poster: ""
   },
-  "U2": {
-    url: "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1759348161-0-0-519e4cf06420dc4be91485af3e50a54f",
+  "L1": {
+    url: "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=f780aba43ec500fcccac841a9f683948&txTime=68e1c054",
     poster: ""
   },
 
