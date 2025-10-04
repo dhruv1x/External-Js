@@ -5,14 +5,14 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "E1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/136049_english_hls_a8e3a37baf3037ta-di_h264/index.m3u8",
+  "B1": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/130903_bengali_hls_1769fbe90158531adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "H1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/130892_hindi_hls_a96cbf868a42822adfreeta-di_h264/index.m3u8",
+    url: "https://in-mc-fdlive.fancode.com/mumbai/130903_hindi_hls_3f147dcba151412adfreeta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
