@@ -20,12 +20,12 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/TNT_Sports_4/tracks-v1a1/mono.m3u8",
     poster: ""
   },
-  "L1": {
-    url: "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=14d8c4d5c06a6bb8b62ba004ff42d26e&txTime=68e06f4c",
+  "PL1": {
+    url: "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1759589481-0-0-ce50699f55b51877f5d281f7e5f70e73",
     poster: "#"
   },
-    "U1": {
-    url: "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=6dbc13208431057ad122feccad65c3e3&txTime=68ddccc5",
+    "PL2": {
+    url: "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1759589421-0-0-8829353bf21a1d9ec6e926b6175072ab",
     poster: ""
   },
   "U2": {
