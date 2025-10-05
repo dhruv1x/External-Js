@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "PL1": {
-    url: "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=5faeffe142eb0fdb2b8a9e156f2f9c0d&txTime=68e2c315",
+    url: "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1759681521-0-0-a0063ab7f242b2d467ea2b841bc095b2",
     poster: "#"
   },
     "PL2": {
