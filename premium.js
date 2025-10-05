@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759673841-0-0-e4212d84d8971bca9375ab3534906a3d",
     poster: "#"
   },
-  "B2": {
-    url: "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1759588581-0-0-62115ade7520307f65df2029dedcfd2a",
+  "L1": {
+    url: "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1759677501-0-0-c631f8e5ef9ff6a97223de808f39c6a2",
     poster: "#"
   },
   "S1": {
