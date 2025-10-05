@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1759589421-0-0-8829353bf21a1d9ec6e926b6175072ab",
     poster: ""
   },
-  "L1": {
-    url: "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=f780aba43ec500fcccac841a9f683948&txTime=68e1c054",
+  "U1": {
+    url: "https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/387dff892d6dd45d1cd939bc8a12f4c1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM4N2RmZjg5MmQ2ZGQ0NWQxY2Q5MzliYzhhMTJmNGMxIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTYzMjA1MSwiZXhwIjoxNzU5NjM5MjUxfQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ",
     poster: ""
   },
 
