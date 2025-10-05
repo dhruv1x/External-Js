@@ -6,7 +6,7 @@ const streams = {
   "PL2": "https://goalovo.net/events/stream2/",
   "VC1": "https://voodc.com/embed/1/85818b97a087a186847a8597a48c9885867f.html",
   "PL2": "https://streamkick.org/games/stream2/",
-  "L1": "https://streamkick.org/games/stream3/",
+  "L1": "https://streamkick.org/games/stream5/",
   "PL1": "https://streamkick.org/games/stream1/",
   "U4": "https://streamkick.org/games/stream5/",
   "M3": "https://aboutgame.cx/adfree/?id=3",
