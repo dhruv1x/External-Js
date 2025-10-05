@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "B1": {
-    url: "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1759599381-0-0-330022cf2a470f513c4070309dfbb984",
+  "PL4": {
+    url: "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759673841-0-0-e4212d84d8971bca9375ab3534906a3d",
     poster: "#"
   },
   "B2": {
@@ -21,15 +21,15 @@ const streamMap = {
     poster: ""
   },
   "PL1": {
-    url: "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=51def200b333c000cf2cc879b6e0270b&txTime=68e19e95",
+    url: "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=5faeffe142eb0fdb2b8a9e156f2f9c0d&txTime=68e2c315",
     poster: "#"
   },
     "PL2": {
-    url: "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1759589421-0-0-8829353bf21a1d9ec6e926b6175072ab",
+    url: "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1759673781-0-0-1d4f0388f4c6038e6f18f91c53d8fad1",
     poster: ""
   },
-  "U1": {
-    url: "https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/387dff892d6dd45d1cd939bc8a12f4c1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM4N2RmZjg5MmQ2ZGQ0NWQxY2Q5MzliYzhhMTJmNGMxIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTYzMjA1MSwiZXhwIjoxNzU5NjM5MjUxfQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ",
+  "PL3": {
+    url: "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1759673841-0-0-2e908c8e21c5b17e4b0a2690623b4ebb",
     poster: ""
   },
 
