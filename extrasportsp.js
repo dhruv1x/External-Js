@@ -18,7 +18,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "S1": {
-    url: "https://dontknow@hocdn.news/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8",
+    url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
