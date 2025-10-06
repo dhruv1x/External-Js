@@ -30,7 +30,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "CC": {
-    url: "https://dai.fancode.com/primary/136841_english_hls_098f24c31756429ta-di_h264/index.m3u8",
+    url: "https://allinonereborn.xyz/opplextv-web1/live.php?id=356533",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
