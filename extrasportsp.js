@@ -1,6 +1,6 @@
 const streamMap = {
-  "B1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/130905_bengali_hls_50c92eb8953949adfreeta-di_h264/index.m3u8",
+  "IFA": {
+    url: "https://ssen-live.multitvsolution.com/match_1/EMAMIEASTBENGALFCvsSREENIDIDECCANFC/HLS/master.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
