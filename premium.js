@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "A3": {
-    url: "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1759685121-0-0-bbde21a0dcc850257b7ce593b077e50a",
+    url: "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1760039901-0-0-308d7b98ae6f8e8d229961c4b0407a9a",
     poster: "#"
   },
     "PL2": {
