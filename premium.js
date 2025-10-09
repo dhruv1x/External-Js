@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "PL4": {
-    url: "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759673841-0-0-e4212d84d8971bca9375ab3534906a3d",
+  "AFC": {
+    url: "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1760012301-0-0-3a402983c9a47ca97f2e1e10e4cd60c9",
     poster: "#"
   },
   "L1": {
