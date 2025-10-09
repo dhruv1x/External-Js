@@ -1,6 +1,6 @@
 const streamMap = {
   "IFA": {
-    url: "https://ssen-live.multitvsolution.com/match_1/EMAMIEASTBENGALFCvsSREENIDIDECCANFC/HLS/master.m3u8",
+    url: "https://ssen-live.multitvsolution.com/match_2/GKFCvsMBSG/HLS/master.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
