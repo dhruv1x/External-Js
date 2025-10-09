@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
-  "AFC": {
-    url: "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1760036901-0-0-a0530c0d147c4197aa9f0b1fd321b391",
+  "A1": {
+    url: "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1760039301-0-0-3302fb698f56fd35131a8c18d2d6734f",
     poster: "#"
   },
-  "L1": {
-    url: "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1759677501-0-0-c631f8e5ef9ff6a97223de808f39c6a2",
+  "A2": {
+    url: "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1760039601-0-0-7ae714516c054f7ff62148d06832c2e2",
     poster: "#"
   },
   "S1": {
