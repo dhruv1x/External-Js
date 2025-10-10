@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "A2": {
-    url: "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1760039601-0-0-7ae714516c054f7ff62148d06832c2e2",
+    url: "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1760126301-0-0-118bea5921729d8955f7b7f8602b2533",
     poster: "#"
   },
   "S1": {
@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "A3": {
-    url: "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1760039901-0-0-308d7b98ae6f8e8d229961c4b0407a9a",
+    url: "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1760126301-0-0-cd835dac144b604ee70b6519175bcebd",
     poster: "#"
   },
     "PL2": {
