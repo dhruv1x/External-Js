@@ -1,6 +1,6 @@
 const streamMap = {
-  "IFA": {
-    url: "https://ssen-live.multitvsolution.com/match_2/GKFCvsMBSG/HLS/master.m3u8",
+  "U23": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/137619_english_hls_4525cab9db30574ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
