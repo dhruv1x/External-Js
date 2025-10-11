@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1760126301-0-0-cd835dac144b604ee70b6519175bcebd",
     poster: "#"
   },
-    "PL2": {
-    url: "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1759673781-0-0-1d4f0388f4c6038e6f18f91c53d8fad1",
+    "IFA": {
+    url: "https://ssen-live.multitvsolution.com/match_3/SDFCvsNAM/HLS/master.m3u8",
     poster: ""
   },
   "PL3": {
