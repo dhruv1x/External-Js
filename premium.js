@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "A1": {
-    url: "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1760125701-0-0-bf6b34b0386d618921f2ff52994f56b8",
+  "WWE": {
+    url: "https://lchdvideo.live/wwe.m3u8",
     poster: "#"
   },
   "A2": {
