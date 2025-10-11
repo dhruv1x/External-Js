@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://dontknow@hocdn.news/TNT_Sports_3/tracks-v1a1/mono.m3u8",
+    url: "https://7fb5c619ecb74fb3880338a788ce86eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM2/ca80c445-d8f8-40e3-aef5-c427d44cb901/0.m3u8",
     poster: "#"
   },
   "S3": {
