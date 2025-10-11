@@ -20,8 +20,8 @@ const streamMap = {
     url: "https://dontknow@hocdn.news/TNT_Sports_4/tracks-v1a1/mono.m3u8",
     poster: ""
   },
-  "A3": {
-    url: "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1760126301-0-0-cd835dac144b604ee70b6519175bcebd",
+  "W2": {
+    url: "https://lchdvideo.live/stan1.m3u8",
     poster: "#"
   },
     "PPV": {
