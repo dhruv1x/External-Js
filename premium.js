@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "W1": {
-    url: "https://fstv.topstream.space/ppv/stream.php?id=ZDJNdk1qQXlOUzB4TUMweE1TOXViM0l0YVhOeQ==&format=.m3u8",
+  "W3": {
+    url: "https://lchdvideo.live/sky1nz.m3u8",
     poster: "#"
   },
   "A2": {
