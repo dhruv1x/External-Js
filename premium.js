@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "W3": {
-    url: "https://lchdvideo.live/sky1nz.m3u8",
+    url: "https://lchdvideo.live/sky4nz.m3u8",
     poster: "#"
   },
   "A2": {
@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "W2": {
-    url: "https://lchdvideo.live/sky1nz.m3u8",
+    url: "https://lchdvideo.live/sky3nz.m3u8",
     poster: "#"
   },
     "PPV": {
