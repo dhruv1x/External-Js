@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "W1": {
-    url: "https://lchdvideo.live/sky4nz.m3u8",
+    url: "https://lchdvideo.live/skyselectnz.m3u8",
     poster: ""
   },
 
