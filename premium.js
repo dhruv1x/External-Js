@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "W2": {
-    url: "https://lchdvideo.live/stan1.m3u8",
+    url: "https://lchdvideo.live/sky1nz.m3u8",
     poster: "#"
   },
     "PPV": {
