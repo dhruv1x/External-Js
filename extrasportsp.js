@@ -5,8 +5,8 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "AFC": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/137359_english_hls_637332208d74294ta-di_h264/index.m3u8",
+  "WWE2": {
+    url: "https://fstv.topstream.space/ppv/stream.php?id=ZDNkbExXTnliM2R1TFdwbGQyVnNMWEJsY25Sbw==",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
