@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
     poster: ""
   },
-  "S2": {
-    url: "https://dontknow@hocdn.news/TNT_Sports_4/tracks-v1a1/mono.m3u8",
+  "UFC": {
+    url: "https://lchdvideo.live/ufc.m3u8",
     poster: ""
   },
   "W2": {
