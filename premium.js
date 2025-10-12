@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "W3": {
-    url: "https://lchdvideo.live/sky4nz.m3u8",
+  "S2": {
+    url: "https://2e47f5d7638848ff8a74309f661ae9e1.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM6/5de13f54-81f1-462c-9cab-a13591681fd0/2.m3u8",
     poster: "#"
   },
   "MLS": {
@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://7fb5c619ecb74fb3880338a788ce86eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM2/ca80c445-d8f8-40e3-aef5-c427d44cb901/0.m3u8",
+    url: "https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/63567931-030d-444c-9094-58e3cc6df558/3.m3u8",
     poster: "#"
   },
   "S3": {
