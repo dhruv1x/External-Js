@@ -11,8 +11,8 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "H1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/130905_hindi_hls_8272f6058767831adfreeta-di_h264/index.m3u8",
+  "S3": {
+    url: "https://lchdvideo.live/sky4nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -23,14 +23,14 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "RSL": {
-    url: "https://dai.fancode.com/primary/136603_english_hls_b113b7f97f86931adfreeta-di_h264/index.m3u8",
+  "S2": {
+    url: "https://lchdvideo.live/sky5nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "C1": {
-    url: "https://allinonereborn.xyz/opplextv-web1/live.php?id=356533",
+  "S1": {
+    url: "https://lchdvideo.live/sky3nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
