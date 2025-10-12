@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://lchdvideo.live/sky4nz.m3u8",
     poster: "#"
   },
-  "A2": {
-    url: "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1760126301-0-0-118bea5921729d8955f7b7f8602b2533",
+  "MLS": {
+    url: "https://lchdvideo.live/mls-inter-vs-atl.m3u8",
     poster: "#"
   },
   "S1": {
