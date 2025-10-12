@@ -1,6 +1,6 @@
 const streamMap = {
-  "WWE": {
-    url: "https://lchdvideo.live/wwe.m3u8",
+  "WSL": {
+    url: "https://lchdvideo.live/sky7nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
