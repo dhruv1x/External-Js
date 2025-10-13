@@ -1,7 +1,7 @@
 const streamMap = {
   "U23": {
-    url: "",
-    poster: "https://in-mc-fdlive.fancode.com/mumbai/137620_english_hls_821802fd7b9236ta-di_h264/index.m3u8",
+    url: "https://in-mc-fdlive.fancode.com/mumbai/137620_english_hls_821802fd7b9236ta-di_h264/index.m3u8",
+    poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
