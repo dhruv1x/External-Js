@@ -1,6 +1,6 @@
 const streamMap = {
   "WSL": {
-    url: "https://lchdvideo.live/sky7nz.m3u8",
+    url: "",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -12,7 +12,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "S3": {
-    url: "https://lchdvideo.live/sky4nz.m3u8",
+    url: "",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -24,13 +24,13 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "S2": {
-    url: "https://lchdvideo.live/sky5nz.m3u8",
+    url: "",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "S1": {
-    url: "https://lchdvideo.live/sky3nz.m3u8",
+  "A1": {
+    url: "",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
