@@ -5,11 +5,11 @@ const streamMap = {
     poster: "#"
   },
   "MLS": {
-    url: "https://lchdvideo.live/mls-inter-vs-atl.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
-    url: "https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/63567931-030d-444c-9094-58e3cc6df558/3.m3u8",
+    url: "https://lchdvideo.live/willowcricket.m3u8",
     poster: "#"
   },
   "S3": {
@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "UFC": {
-    url: "https://lchdvideo.live/ufc.m3u8",
+    url: "",
     poster: ""
   },
   "W2": {
@@ -25,11 +25,11 @@ const streamMap = {
     poster: "#"
   },
     "PPV": {
-    url: "https://lchdvideo.live/ppv.m3u8",
+    url: "",
     poster: ""
   },
   "W1": {
-    url: "https://lchdvideo.live/skyselectnz.m3u8",
+    url: "",
     poster: ""
   },
 
