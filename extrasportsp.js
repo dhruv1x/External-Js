@@ -1,6 +1,6 @@
 const streamMap = {
   "AFC": {
-    url: "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=891dda3d71eb026d74a9034991d9edb7&txTime=68ee9d51",
+    url: "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1760453362-0-0-fc3b7155ab4d9847fbf114aad1c69a03",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
