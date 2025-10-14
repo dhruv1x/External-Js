@@ -5,14 +5,14 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "WWE2": {
-    url: "https://fstv.topstream.space/ppv/stream.php?id=ZDNkbExXTnliM2R1TFdwbGQyVnNMWEJsY25Sbw==",
+  "WQ": {
+    url: "https://lchdvideo.live/sky1nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "S3": {
-    url: "",
+  "MF": {
+    url: "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1760460982-0-0-c8ff1060fab462ed6115cc870f176067",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
