@@ -1,18 +1,18 @@
 const streamMap = {
-  "AFC": {
-    url: "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1760453362-0-0-fc3b7155ab4d9847fbf114aad1c69a03",
+  "S2": {
+    url: "https://lchdvideo.live/sky4nz.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "WQ": {
+  "S1": {
     url: "https://lchdvideo.live/sky1nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "MF": {
-    url: "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1760460982-0-0-c8ff1060fab462ed6115cc870f176067",
+  "S3": {
+    url: "https://lchdvideo.live/sky2nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -23,14 +23,14 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "S2": {
-    url: "",
+  "S4": {
+    url: "https://lchdvideo.live/sky5nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "A2": {
-    url: "",
+  "S5": {
+    url: "https://lchdvideo.live/sky3nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
