@@ -1,6 +1,6 @@
 const streamMap = {
-  "U23": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/137620_english_hls_821802fd7b9236ta-di_h264/index.m3u8",
+  "AFC": {
+    url: "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=891dda3d71eb026d74a9034991d9edb7&txTime=68ee9d51",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
