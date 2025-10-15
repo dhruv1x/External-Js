@@ -11,7 +11,7 @@ if (confirm("Join Our Telegram Channel @livecrichdofficial")) {
 
 // ✅ Streams list
 const streams = {
-    PFL: "https://embednow.top/embed/pfl-champions-series-dubai",
+    S1: "https://antenasport.org/netflix.php",
     BD: "https://vivozly.com/canal.php?stream=event1",
     m3: "https://topembed.pw/channel/DigiSport2[Romania]",
     m4: "https://aboutgame.cx/idea/?id=ufc",
