@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "UFC": {
-    url: "",
+    url: "https://streamamg-atp.akamaized.net/hls/live/2033191/Almaty-Centre/index.m3u8?hdnts=exp=1760701202~acl=/*~id=609371f6-2b61-45f4-8df7-702bbc80488c~hmac=ece0709eadb36766b12f18f65ab8098a9a0ef10d8db009dda1cf0e815fddaf00",
     poster: ""
   },
   "W2": {
