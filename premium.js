@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S2": {
-    url: "https://2e47f5d7638848ff8a74309f661ae9e1.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM6/5de13f54-81f1-462c-9cab-a13591681fd0/2.m3u8",
+    url: "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1760731042-0-0-0e0f2f947cd371e1eb7311e99e150454",
     poster: "#"
   },
   "MLS": {
@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
+    url: "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1760731342-0-0-24e633ffb87a0bb1eca2c15eb5da7e76",
     poster: ""
   },
   "UFC": {
