@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S3": {
-    url: "https://v5on.site/PROXIMITY/cric.php?live=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/5i9L4eovcaRvL0AUJivxX7ZHMrkcRqEQWYaBoWE2KODok7PtWq5MIh2lck7dOF0Ery8Tqi8jUh9ZAWg9pog9pg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/st_dynamic_delta.m3u8?type=live",
+    url: "https://v5on.site/PROXIMITY/cric.php?live=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/aq1zFswizB2Gyk9OFoZXrBWTJnXNKIhtEhEWwienmQAn-ieUtHAUjtBmK00EV-PVRo85sx7_D4niRN-_35C4Zg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/st_dynamic_delta.m3u8?type=live",
     poster: "#"
   },
   "MLS": {
