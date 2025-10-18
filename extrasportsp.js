@@ -1,18 +1,18 @@
 const streamMap = {
   "PL1": {
-    url: "https://lchdvideo.live/sky8nz.m3u8",
+    url: "https://lchdvideo.live/skyselectnz.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "S1": {
-    url: "",
+  "PL2": {
+    url: "https://lchdvideo.live/sky3nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "S3": {
-    url: "",
+  "PL3": {
+    url: "https://lchdvideo.live/sky4nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -23,14 +23,14 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "S4": {
-    url: "",
+  "PL4": {
+    url: "https://lchdvideo.live/sky5nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "S5": {
-    url: "",
+  "PL5": {
+    url: "https://lchdvideo.live/sky7nz.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
