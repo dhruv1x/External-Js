@@ -1,6 +1,6 @@
 const streamMap = {
-  "S2": {
-    url: "",
+  "PL1": {
+    url: "https://lchdvideo.live/sky8nz.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
