@@ -35,4 +35,10 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
+  "LATV": {
+    url: "https://lchdvideo.live/laligatv.m3u8",
+    poster: "#",
+    telegramHandle: "@cricxfootball",
+    popupMessage: "Join Our Telegram Channel @cricxfootball"
+  },
 };
