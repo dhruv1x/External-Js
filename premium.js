@@ -1,14 +1,14 @@
 // streams.js
 const streamMap = {
-  "S3": {
-    url: "https://v5on.site/PROXIMITY/cric.php?live=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/aq1zFswizB2Gyk9OFoZXrBWTJnXNKIhtEhEWwienmQAn-ieUtHAUjtBmK00EV-PVRo85sx7_D4niRN-_35C4Zg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/st_dynamic_delta.m3u8?type=live",
-    poster: "#"
-  },
-  "RSL": {
-    url: "https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=d4e6cf5cda9bb4af636034c567d83e7e&txTime=68f42bba",
-    poster: "#"
-  },
   "S1": {
+    url: "https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1760882422-0-0-71fe4e9bf9a2706045fcb77963bb4b29",
+    poster: "#"
+  },
+  "S2": {
+    url: "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1760882662-0-0-da4915dc9d673bb9524a342718391e3f",
+    poster: "#"
+  },
+  "S": {
     url: "https://foxhindi.pages.dev/playlist.m3u8",
     poster: "#"
   },
