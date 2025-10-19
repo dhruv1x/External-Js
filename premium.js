@@ -12,8 +12,8 @@ const streamMap = {
     url: "https://lchdvideo.live/willowcricket.m3u8",
     poster: "#"
   },
-  "PL1": {
-    url: "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=15cb84d02a035aec57631cf80c3409c6&txTime=68f4126a",
+  "Fox": {
+    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-21/8wef-hiy9/chunklist.m3u8",
     poster: ""
   },
   "UFC": {
