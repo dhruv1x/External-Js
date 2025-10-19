@@ -20,8 +20,8 @@ const streamMap = {
     url: "https://streamamg-atp.akamaized.net/hls/live/2033191/Almaty-Centre/index.m3u8?hdnts=exp=1760701202~acl=/*~id=609371f6-2b61-45f4-8df7-702bbc80488c~hmac=ece0709eadb36766b12f18f65ab8098a9a0ef10d8db009dda1cf0e815fddaf00",
     poster: ""
   },
-  "PL1": {
-    url: "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1760891062-0-0-55dd31b0f0dc72766f976428d46bb3bc",
+  "L1": {
+    url: "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2ca9b2a8881fce0eb95e6fc4f77d99f6&txTime=68f59a0e",
     poster: "#"
   },
     "PPV": {
