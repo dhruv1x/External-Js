@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://lchdvideo.live/willowcricket.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-21/8wef-hiy9/chunklist.m3u8",
     poster: "#"
   },
   "Fox": {
