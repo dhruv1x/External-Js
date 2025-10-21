@@ -1,5 +1,5 @@
 const streams = {
-  "T1": "https://streamkick.org/home/blog1/",
+  "T1": "https://streamkick.org/home/blog2/",
   "T2": "https://streamkick.org/home/blog4/",
   "T3": "https://streamkick.org/home/blog1/",
   "T4": "https://streamkick.org/home/blog3/",
