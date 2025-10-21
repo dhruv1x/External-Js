@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
-  "S1": {
-    url: "https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1760882422-0-0-71fe4e9bf9a2706045fcb77963bb4b29",
+  "T2": {
+    url: "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1761068062-0-0-95a620ae38bdc7a9c3d6d1ce4c8103ce",
     poster: "#"
   },
-  "S2": {
-    url: "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1760882662-0-0-da4915dc9d673bb9524a342718391e3f",
+  "T1": {
+    url: "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=05cf566f24a271303de6b37e8a9108b0&txTime=68f80aaa",
     poster: "#"
   },
   "S": {
