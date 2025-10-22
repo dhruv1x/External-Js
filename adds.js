@@ -1,7 +1,7 @@
 const streams = {
-  "T2": "https://streamkick.org/home/blog2/",
+  "T2": "https://matchio.zip/home/blog1/",
   "T3": "https://streamkick.org/home/blog4/",
-  "T1": "https://streamkick.org/home/blog1/",
+  "T1": "https://matchio.zip/home/blog2/",
   "T4": "https://streamkick.org/home/blog3/",
   "T5": "https://streamkick.org/home/blog5/",
   "T6": "https://streamkick.org/home/blog6/",
