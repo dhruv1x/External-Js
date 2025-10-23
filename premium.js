@@ -13,11 +13,11 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-21/8wef-hiy9/chunklist.m3u8",
+    url: "https://foxhindi.pages.dev/playlist.m3u8",
     poster: ""
   },
-  "UFC": {
-    url: "https://streamamg-atp.akamaized.net/hls/live/2033191/Almaty-Centre/index.m3u8?hdnts=exp=1760701202~acl=/*~id=609371f6-2b61-45f4-8df7-702bbc80488c~hmac=ece0709eadb36766b12f18f65ab8098a9a0ef10d8db009dda1cf0e815fddaf00",
+  "S1": {
+    url: "https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-141/u49a-lu5c/chunklist_DVR.m3u8",
     poster: ""
   },
   "AFC": {
