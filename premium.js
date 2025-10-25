@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=05cf566f24a271303de6b37e8a9108b0&txTime=68f80aaa",
     poster: "#"
   },
-  "S": {
-    url: "https://foxhindi.pages.dev/playlist.m3u8",
+  "Fox2": {
+    url: "https://rumble.com/live-hls-dvr/6ykg6g/playlist.m3u8",
     poster: "#"
   },
   "Fox": {
