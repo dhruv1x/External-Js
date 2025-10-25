@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d994b674626dfd32ed612f9ca8470e6d&txTime=68fd6a37",
     poster: "#"
   },
-  "T1": {
-    url: "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=05cf566f24a271303de6b37e8a9108b0&txTime=68f80aaa",
+  "LG1": {
+    url: "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1761422783-0-0-344febcb5d056050ad3538a54e87bec9",
     poster: "#"
   },
   "Fox2": {
