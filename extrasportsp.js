@@ -1,6 +1,6 @@
 const streamMap = {
-  "TS": {
-    url: "https://lchdvideo.live/netflix-01.m3u8",
+  "H1": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/130925_hindi_hls_d559624d2015871adfreeta-di_h264/index.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
