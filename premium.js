@@ -17,11 +17,11 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761481823-0-0-2844d36ec9aff7b184dc7de73cfd3ec1",
+    url: "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1761491063-0-0-7c3e8badacf5604e30e2ae2730fbc4e8",
     poster: ""
   },
-  "AFC": {
-    url: "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=a494b46a78715da0ae1f4df8562e268c&txTime=68f935bb",
+  "S2": {
+    url: "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2e93ee266176892341ca6afd801c4eb4&txTime=68fe7f03",
     poster: "#"
   },
     "PPV": {
