@@ -25,7 +25,7 @@ const streamMap = {
     poster: "#"
   },
     "L2": {
-    url: "https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/QUp89fUTyCAW45aFM_sihj8LeyZMAq0pmEoQ85HJFhgNewEVHeuIiA0WST8dvBwz00PPqqGmk6xlAfoCmjHvhjBM0wjwiVXt-CH0Rd97HyN4_EMqN4qZMWTLODemgYFRTOQFJt0tiQii9_0cCsxmKQ/95cd3f6f0f056feffe17e3d91157386d.m3u8",
+    url: "PqqGmk6xlAfoCmjHvhjBM0wjwiVXt-/95cd3f6f0f056feffe17e3d91157386d.m3u8",
     poster: ""
   },
   "W1": {
