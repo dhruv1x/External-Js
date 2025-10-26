@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://rumble.com/live-hls/6ykdxa/playlist.m3u8",
+    url: "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761481823-0-0-2844d36ec9aff7b184dc7de73cfd3ec1",
     poster: ""
   },
   "AFC": {
