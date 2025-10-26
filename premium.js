@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2e93ee266176892341ca6afd801c4eb4&txTime=68fe7f03",
     poster: "#"
   },
-    "PPV": {
-    url: "",
+    "L2": {
+    url: "https://fstv.topstream.space/ppv/stream.php?id=YkdGc2FXZGhMekl3TWpVdE1UQXRNall2Y20xaExXSmhjZz09&format=.m3u8",
     poster: ""
   },
   "W1": {
