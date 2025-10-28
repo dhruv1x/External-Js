@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
-  "RSL": {
-    url: "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d994b674626dfd32ed612f9ca8470e6d&txTime=68fd6a37",
+  "SKC": {
+    url: "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1761677723-0-0-7367b47aee21d21937aceafca10499c4",
     poster: "#"
   },
-  "L1": {
-    url: "https://rumble.com/live-hls-dvr/6ymoom/playlist.m3u8",
+  "SKC1": {
+    url: "https://dai.fancode.com/primary/137857_english_hls_18ecf2b39616859_1ta-di_h264/index.m3u8",
     poster: "#"
   },
   "Fox2": {
