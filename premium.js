@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
-  "S1": {
-    url: "https://foxenglish.pages.dev/playlist.m3u8",
+  "E2": {
+    url: "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=7c3a619d37d97a3a48870c686db2726d&txTime=6902c243",
     poster: "#"
   },
-  "SKC1": {
-    url: "https://dai.fancode.com/primary/137857_english_hls_18ecf2b39616859_1ta-di_h264/index.m3u8",
+  "E3": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/137355_english_hls_725e35b3237149_1ta-di_h264/index.m3u8",
     poster: "#"
   },
   "Fox2": {
