@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://in-mc-fdlive.fancode.com/mumbai/137355_english_hls_725e35b3237149_1ta-di_h264/index.m3u8",
     poster: "#"
   },
-  "Fox2": {
-    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-115/3msa-4ftc/chunklist.m3u8",
+  "E1": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/137353_english_hls_55f59c000c18141_1ta-di_h264/index.m3u8",
     poster: "#"
   },
   "Fox": {
