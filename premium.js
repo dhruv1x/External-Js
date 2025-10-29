@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "SKC": {
-    url: "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1761677723-0-0-7367b47aee21d21937aceafca10499c4",
+  "S1": {
+    url: "https://foxenglish.pages.dev/playlist.m3u8",
     poster: "#"
   },
   "SKC1": {
@@ -13,10 +13,10 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://rumble.com/live-hls/6ykdxa/playlist.m3u8",
+    url: "https://foxenglish.pages.dev/playlist.m3u8",
     poster: ""
   },
-  "S1": {
+  "S": {
     url: "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1761491063-0-0-7c3e8badacf5604e30e2ae2730fbc4e8",
     poster: ""
   },
