@@ -13,15 +13,15 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://foxenglish.pages.dev/playlist.m3u8",
+    url: "https://foxmatch.pages.dev/Playe.m3u8",
     poster: ""
   },
   "Fox2": {
-    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-15/qiz6-ltf7_720p/chunklist.m3u8",
+    url: "https://foxmatch.pages.dev/Playh.m3u8",
     poster: ""
   },
   "S1": {
-    url: "https://foxenglish.pages.dev/playlist.m3u8",
+    url: "https://foxmatch.pages.dev/Playe.m3u8",
     poster: "#"
   },
     "L2": {
