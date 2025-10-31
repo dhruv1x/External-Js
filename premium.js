@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://foxstream.pages.dev/e.m3u8",
+    url: "https://foxenglish.pages.dev/playlist.m3u8",
     poster: ""
   },
   "Fox2": {
