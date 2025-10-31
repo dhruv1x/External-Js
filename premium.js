@@ -16,12 +16,12 @@ const streamMap = {
     url: "https://foxenglish.pages.dev/playlist.m3u8",
     poster: ""
   },
-  "S": {
-    url: "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1761491063-0-0-7c3e8badacf5604e30e2ae2730fbc4e8",
+  "Fox2": {
+    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-15/qiz6-ltf7_720p/chunklist.m3u8",
     poster: ""
   },
-  "S2": {
-    url: "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2e93ee266176892341ca6afd801c4eb4&txTime=68fe7f03",
+  "S1": {
+    url: "https://foxenglish.pages.dev/playlist.m3u8",
     poster: "#"
   },
     "L2": {
