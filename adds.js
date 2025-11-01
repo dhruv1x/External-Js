@@ -10,6 +10,6 @@ const streams = {
   "PL": "https://matchio.zip/home/blog1/",
   "F1": "https://matchio.zip/home/blogf/",
   "UFC": "https://matchio.zip/mma/blog/",
-  "S1": "https://matchio.zip/home/blog4/"
+  "S1": "https://matchio.zip/home/blog2/"
   
 };
