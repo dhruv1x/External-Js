@@ -7,7 +7,7 @@ const streams = {
   "L1": "https://matchio.zip/home/blog6/",
   "B1": "https://matchio.zip/home/blog3/",
   "U1": "https://voodc.com/embed/1/85818c929d8ca28a847a85989f8a9885887f.html",
-  "PL": "https://matchio.zip/home/blog1/",
+  "LG1": "https://matchio.zip/home/blog7/",
   "F1": "https://matchio.zip/home/blogf/",
   "UFC": "https://matchio.zip/mma/blog/",
   "S1": "https://matchio.zip/home/blog2/"
