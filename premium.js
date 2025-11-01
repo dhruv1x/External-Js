@@ -28,8 +28,8 @@ const streamMap = {
     url: "PqqGmk6xlAfoCmjHvhjBM0wjwiVXt-/95cd3f6f0f056feffe17e3d91157386d.m3u8",
     poster: ""
   },
-  "W1": {
-    url: "",
+  "L1": {
+    url: "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1762030463-0-0-5fb897c40d2bbe753ff2cfc146da6a82",
     poster: ""
   },
 
