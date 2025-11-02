@@ -4,7 +4,7 @@ const streams = {
   "PL3": "https://matchio.zip/home/blog3/",
   "PL4": "https://matchio.zip/home/blog4/",
   "PL5": "https://matchio.zip/home/blog5/",
-  "L1": "https://matchio.zip/home/blog6/",
+  "L1": "https://matchio.zip/home/blog2/",
   "B1": "https://matchio.zip/home/blog3/",
   "U1": "https://voodc.com/embed/1/85818c929d8ca28a847a85989f8a9885887f.html",
   "LG1": "https://matchio.zip/home/blog7/",
