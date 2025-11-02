@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "RSL": {
-    url: "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=83c17ec545305613e345540e16982150&txTime=6906971f",
+  "L1": {
+    url: "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1762099884-0-0-3d72d0ad2cc61c4b702b621e9e41f28f",
     poster: "#"
   },
   "E3": {
