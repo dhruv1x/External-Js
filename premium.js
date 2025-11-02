@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://foxmatch.pages.dev/Playe.m3u8",
+    url: "https://foxmatch.pages.dev/English.m3u8",
     poster: "#"
   },
     "L2": {
