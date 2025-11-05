@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "U1": {
-    url: "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=b9a33b618641a6a812e2b739c4ba1505&txTime=690ab828",
+  "AFC": {
+    url: "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1762369464-0-0-76fc674bddb0e67be4fa99b3f5869902",
     poster: "#"
   },
   "E3": {
