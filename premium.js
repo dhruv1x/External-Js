@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://foxmatch.pages.dev/English.m3u8",
     poster: "#"
   },
-    "L2": {
-    url: "PqqGmk6xlAfoCmjHvhjBM0wjwiVXt-/95cd3f6f0f056feffe17e3d91157386d.m3u8",
+    "S3": {
+    url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
     poster: ""
   },
   "S2": {
