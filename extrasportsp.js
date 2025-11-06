@@ -11,11 +11,11 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "PL3": {
-    url: "#",
+  "Fox2": {
+    url: "https://rumble.com/live-hls-dvr/6z46l2/playlist.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "PCK": {
     url: "#",
