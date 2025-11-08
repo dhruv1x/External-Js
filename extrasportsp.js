@@ -6,7 +6,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "Fox": {
-    url: "https://rumble.com/live-hls/6z456e/playlist.m3u8",
+    url: "https://rumble.com/live-hls/6z7uc6/playlist.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
