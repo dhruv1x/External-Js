@@ -11,8 +11,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "Fox2": {
-    url: "https://rumble.com/live-hls-dvr/6z46l2/playlist.m3u8",
+  "S1": {
+    url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
