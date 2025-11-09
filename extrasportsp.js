@@ -1,6 +1,6 @@
 const streamMap = {
-  "AFC": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/136134_english_hls_cd7e0774a617370_1ta-di_h264/index.m3u8",
+  "L1": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/130944_english_hls_63ee91f7cb12045_1adfreeta-di_h264/index.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
