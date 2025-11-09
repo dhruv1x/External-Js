@@ -1,7 +1,7 @@
 const streams = {
   "PL1": "https://matchio.zip/home/blog1/",
-  "U2": "https://matchio.zip/home/blog1/",
-  "S1": "https://matchio.zip/home/blog3/",
+  "PL2": "https://matchio.zip/home/blog3/",
+  "PL3": "https://matchio.zip/home/blog2/",
   "PL4": "https://matchio.zip/home/blog4/",
   "B1": "https://matchio.zip/home/blog3/",
   "U3": "https://matchio.zip/home/blog3/",
