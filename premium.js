@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://rumble.com/live-hls/6z7uc6/playlist.m3u8",
+    url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
     "S3": {
