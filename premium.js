@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "E1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/137353_english_hls_55f59c000c18141_1ta-di_h264/index.m3u8",
+    url: "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5f49eb2a4107654e51a6b8741679dac3&txTime=6917b17d",
     poster: "#"
   },
   "Fox": {
