@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://rumble.com/live-hls/6z7uc6/playlist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-121/3ck5-macv/chunklist.m3u8",
     poster: ""
   },
   "Fox2": {
