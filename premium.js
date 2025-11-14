@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "AFC": {
-    url: "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1762369464-0-0-76fc674bddb0e67be4fa99b3f5869902",
+  "S3": {
+    url: "https://l.lioncdn.net/Sky-Sports-Cricket/mono.m3u8",
     poster: "#"
   },
   "E3": {
