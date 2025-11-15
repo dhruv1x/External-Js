@@ -9,7 +9,7 @@ const streams = {
   "U5": "https://matchio.zip/home/blog4/",
   "U6": "https://matchio.zip/home/blog6/",
   "F1": "https://matchio.zip/home/blogf/",
-  "UFC": "https://matchio.zip/mma/blog/",
+  "UFC": "https://ballcontrol.click/mma/blog/",
   "U7": "https://matchio.zip/home/blog7/"
   
 };
