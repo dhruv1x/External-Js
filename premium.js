@@ -20,7 +20,7 @@ const streamMap = {
     url: "https://rumble.com/live-hls/6z7uc6/playlist.m3u8",
     poster: ""
   },
-  "S1": {
+  "S2": {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
     poster: ""
   },
-  "S2": {
-    url: "https://flussonic.superfasthdserver.com/PtvSports/tracks-v1a1/mono.m3u8",
+  "S1": {
+    url: "https://cdn-5e8f9.cdnbreazy.cfd/lchd-willow.m3u8",
     poster: ""
   },
 
