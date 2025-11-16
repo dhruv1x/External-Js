@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "Astro": {
-    url: "https://rumble.com/live-hls-dvr/6zlprk/playlist.m3u8",
+    url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: ""
   },
   "Fox2": {
