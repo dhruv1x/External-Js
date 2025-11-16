@@ -12,8 +12,8 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5f49eb2a4107654e51a6b8741679dac3&txTime=6917b17d",
     poster: "#"
   },
-  "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-41/70i3-0zdx/chunklist.m3u8",
+  "Astro": {
+    url: "https://foxmatch.pages.dev/playe.m3u8",
     poster: ""
   },
   "Fox2": {
