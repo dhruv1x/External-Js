@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "S1": {
-    url: "https://cdn-5e8f9.cdnbreazy.cfd/lchd-willow.m3u8",
+    url: "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
     poster: ""
   },
 
