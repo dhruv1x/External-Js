@@ -12,12 +12,12 @@ const streamMap = {
     url: "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5f49eb2a4107654e51a6b8741679dac3&txTime=6917b17d",
     poster: "#"
   },
-  "Astro": {
-    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-143/jr4d-kehw/chunklist_DVR.m3u8",
+  "Fox": {
+    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-117/zw23-96or_1080p/chunklist.m3u8",
     poster: ""
   },
-  "Fox2": {
-    url: "https://rumble.com/live-hls/6z7uc6/playlist.m3u8",
+  "C7": {
+    url: "https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-41/teed-wyvn_1080p/chunklist.m3u8",
     poster: ""
   },
   "S2": {
