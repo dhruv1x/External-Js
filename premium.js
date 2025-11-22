@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://l.lioncdn.net/Sky-Sports-Cricket/mono.m3u8",
     poster: "#"
   },
-  "E3": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/137355_english_hls_725e35b3237149_1ta-di_h264/index.m3u8",
+  "Fox2": {
+    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-123/d6g9-whh9_1080p/chunklist.m3u8",
     poster: "#"
   },
   "S3": {
