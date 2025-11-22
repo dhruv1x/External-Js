@@ -8,23 +8,23 @@ const streamMap = {
     url: "https://in-mc-fdlive.fancode.com/mumbai/137355_english_hls_725e35b3237149_1ta-di_h264/index.m3u8",
     poster: "#"
   },
-  "E1": {
-    url: "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5f49eb2a4107654e51a6b8741679dac3&txTime=6917b17d",
+  "S3": {
+    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-67/1gpv-xl02_1080p/chunklist.m3u8",
     poster: "#"
   },
   "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-117/zw23-96or_1080p/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-67/1gpv-xl02_1080p/chunklist.m3u8",
     poster: ""
   },
   "C7": {
-    url: "https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-41/teed-wyvn_1080p/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-67/zemj-b9vl_1080p/chunklist.m3u8",
     poster: ""
   },
   "S2": {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "S3": {
+    "S4": {
     url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
     poster: ""
   },
