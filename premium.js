@@ -1,14 +1,14 @@
 // streams.js
 const streamMap = {
-  "S3": {
-    url: "https://l.lioncdn.net/Sky-Sports-Cricket/mono.m3u8",
+  "S1": {
+    url: "https://cdn-5e8f9.cdnbreazy.cfd/lchd-willow.m3u8",
     poster: "#"
   },
   "Fox2": {
     url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-123/d6g9-whh9_1080p/chunklist.m3u8",
     poster: "#"
   },
-  "S3": {
+  "S": {
     url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-67/1gpv-xl02_1080p/chunklist.m3u8",
     poster: "#"
   },
@@ -28,7 +28,7 @@ const streamMap = {
     url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
     poster: ""
   },
-  "S1": {
+  "S3": {
     url: "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
     poster: ""
   },
