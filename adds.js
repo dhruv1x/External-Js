@@ -8,7 +8,7 @@ const streams = {
   "U4": "https://matchio.zip/home/blog5/",
   "U5": "https://matchio.zip/home/blog4/",
   "U6": "https://matchio.zip/home/blog6/",
-  "F1": "https://matchio.zip/home/blogf/",
+  "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://ballcontrol.click/mma/blog/",
   "U7": "https://matchio.zip/home/blog7/"
   
