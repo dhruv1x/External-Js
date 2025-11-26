@@ -11,8 +11,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "S2": {
-    url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
+  "AFC": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/136172_english_hls_e4a66a9e9085910_1ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
