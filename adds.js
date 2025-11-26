@@ -1,6 +1,6 @@
 const streams = {
-  "PL1": "https://ballcontrol.click/home/blog1/",
-  "PL2": "https://matchio.zip/home/blog3/",
+  "U1": "https://ballcontrol.click/home/blog1/",
+  "U2": "https://ballcontrol.click/home/blog2/",
   "PL3": "https://matchio.zip/home/blog2/",
   "PL4": "https://matchio.zip/home/blog4/",
   "L": "https://matchio.zip/home/blog5/",
