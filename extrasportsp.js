@@ -1,6 +1,6 @@
 const streamMap = {
   "L1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/130946_english_hls_fc669aa86861806_1adfreeta-di_h264/index.m3u8",
+    url: "",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -18,7 +18,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "F1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/118483_english_hls_68f845d56224195_1adfreeta-di_h264/index.m3u8",
+    url: "https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
