@@ -5,8 +5,8 @@ if (window.top !== window.self || window.location.hostname !== allowedDomain) {
 }
 
 // ✅ Telegram prompt
-if (confirm("Join Our Telegram Channel @livecrichdofficial")) {
-    window.location.href = "https://telegram.me/livecrichdofficial";
+if (confirm("Join Our Telegram Channel @cricxfootball")) {
+    window.location.href = "https://telegram.me/cricxfootball";
 }
 
 // ✅ Streams list
