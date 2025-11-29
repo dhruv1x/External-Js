@@ -11,7 +11,7 @@ if (confirm("Join Our Telegram Channel @livecrichdofficial")) {
 
 // ✅ Streams list
 const streams = {
-    S1: "https://antenasport.org/netflix.php",
+    WWE: "https://embednow.top/embed/wwe-survivor-series-wargames",
     BD: "https://vivozly.com/canal.php?stream=event1",
     m3: "https://topembed.pw/channel/DigiSport2[Romania]",
     m4: "https://aboutgame.cx/idea/?id=ufc",
