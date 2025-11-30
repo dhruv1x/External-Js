@@ -10,6 +10,6 @@ const streams = {
   "L1": "https://ballcontrol.click/home/blog4/",
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://ballcontrol.click/mma/blog/",
-  "S1": "https://ballcontrol.click/home/blog2/"
+  "S1": "https://ballcontrol.click/home/blog4/"
   
 };
