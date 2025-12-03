@@ -5,7 +5,7 @@ const streams = {
   "PL2": "https://ballcontrol.click/home/blog3/",
   "B1": "https://ballcontrol.click/home/blog5/",
   "U5": "https://ballcontrol.click/home/blog5/",
-  "U6": "https://ballcontrol.click/home/blog6/",
+  "L2": "https://voodc.com/embed/85818c95a38f9d8c847a8597a3909885857d.html",
   "LG1": "https://ballcontrol.click/home/blog6/",
   "L1": "https://ballcontrol.click/home/blog7",
   "F1": "https://ballcontrol.click/home/blogf/",
