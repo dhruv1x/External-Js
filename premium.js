@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs_1080p/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-155/o6uz-ua8q_1080p/chunklist.m3u8",
     poster: "#"
   },
   "Fox2": {
@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs_1080p/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-155/o6uz-ua8q_1080p/chunklist.m3u8",
     poster: ""
   },
   "C7": {
