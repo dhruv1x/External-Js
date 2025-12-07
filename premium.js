@@ -25,7 +25,7 @@ const streamMap = {
     poster: "#"
   },
     "S4": {
-    url: "https://flussonic.superfasthdserver.com/TenSports/index.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-53/qgfp-5adt_1080p/chunklist.m3u8",
     poster: ""
   },
   "S3": {
