@@ -18,7 +18,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "F1": {
-    url: "https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-123/n33q-xapu_360p/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-123/n33q-xapu_1080p/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
