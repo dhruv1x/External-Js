@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "Fox": {
-    url: "https://foxmatch.pages.dev/Playe.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-121/afc3-nev7/chunklist_DVR.m3u8",
     poster: "#"
   },
   "S": {
