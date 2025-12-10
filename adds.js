@@ -6,7 +6,7 @@ const streams = {
   "U5": "https://ballcontrol.click/home/blog5/",
   "U6": "https://ballcontrol.click/home/blog6/",
   "U7": "https://ballcontrol.click/home/blog7/",
-  "LG1": "https://ballcontrol.click/home/blog2/",
+  "U": "https://voodc.com/embed/85818c969f909f8c847a8598a08a98858781.html",
   "L1": "https://ballcontrol.click/home/blog6/",
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://ballcontrol.click/mma/blog/",
