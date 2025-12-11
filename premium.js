@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-151/468u-7mw8/chunklist.m3u8",
+    url: "https://47442542a4df9c37168d814d2743c294.s3.eu-central-2.wasabisys.com/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=O17GM76KTX4OPODPUWU9%2F20251211%2Feu-central-2%2Fs3%2Faws4_request&X-Amz-Date=20251211T130857Z&X-Amz-Expires=3600&X-Amz-Signature=5b6acb78388e8b422bbed4e8c3fda075c10ce03c4fd9e621eec1851784c60ccd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     poster: "#"
   },
   "Fox": {
