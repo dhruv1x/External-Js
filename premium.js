@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "S4": {
-    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-53/qgfp-5adt_1080p/chunklist.m3u8",
+    "TOUR": {
+    url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: ""
   },
   "S3": {
