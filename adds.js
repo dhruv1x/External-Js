@@ -1,8 +1,8 @@
 const streams = {
   "PL1": "https://ballcontrol.click/home/blog1/",
   "PL2": "https://ballcontrol.click/home/blog2/",
-  "U2": "https://ballcontrol.click/home/blog3/",
-  "U4": "https://ballcontrol.click/home/blog4/",
+  "PL3": "https://ballcontrol.click/home/blog3/",
+  "PL4": "https://ballcontrol.click/home/blog4/",
   "U5": "https://ballcontrol.click/home/blog5/",
   "U6": "https://ballcontrol.click/home/blog6/",
   "L2": "https://voodc.com/embed/85818c96a28ba084847a8598a18e98868580.html",
