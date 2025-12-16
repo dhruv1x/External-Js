@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.6rL7EUb2NMiX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvNnJMN0VVYjJOTWlYIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc2NTcyMDAyOX0.XVls2wk5jLgwyi3umXttr6OFBzKltVXA7wdHfCT0v-MACiSLxqZgmIkZydGKKc9tTTPzdx4lHkpR2Pga6Hb4OV1tlVznlc2_JriU7SPB3E9zYjLIGv1JWrBHT15C9AdZ",
+    url: "https://47442542a4df9c37168d814d2743c294.s3.eu-central-2.wasabisys.com/f7dc5cb51217cf8eda81bc5a822a1548.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=O17GM76KTX4OPODPUWU9%2F20251216%2Feu-central-2%2Fs3%2Faws4_request&X-Amz-Date=20251216T085345Z&X-Amz-Expires=3600&X-Amz-Signature=f9b28f333dce77cf9d7f6fa95ef1fcc7cf760dc3c5f12ff9fcf88ce16251ce93&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     poster: "#"
   },
   "NZ1": {
