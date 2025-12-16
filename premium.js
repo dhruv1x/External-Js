@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-29/6gz2-2tgr_720p/chunklist_DVR.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-75/etja-xf8e_720p/chunklist_DVR.m3u8",
     poster: "#"
   },
   "Fox2": {
