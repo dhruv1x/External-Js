@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-153/ox1j-rvyt_1080p/chunklist.m3u8",
     poster: ""
   },
-  "C7": {
-    url: "https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-101/1dql-0t3m_1080p/chunklist.m3u8",
+  "IA": {
+    url: "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-69/465w-y8x8_1080p/chunklist_DVR.m3u8",
     poster: ""
   },
   "S2": {
