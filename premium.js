@@ -1,6 +1,6 @@
 // streams.js
 const streamMap = {
-  "S1": {
+  "S": {
     url: "https://47442542a4df9c37168d814d2743c294.s3.eu-central-2.wasabisys.com/f7dc5cb51217cf8eda81bc5a822a1548.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=O17GM76KTX4OPODPUWU9%2F20251216%2Feu-central-2%2Fs3%2Faws4_request&X-Amz-Date=20251216T085345Z&X-Amz-Expires=3600&X-Amz-Signature=f9b28f333dce77cf9d7f6fa95ef1fcc7cf760dc3c5f12ff9fcf88ce16251ce93&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     poster: "#"
   },
@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://magnesium-interstellar-prototype.s3.us-east-2.amazonaws.com/lchd-sky1nz.m3u8",
     poster: "#"
   },
-  "S": {
-    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-67/1gpv-xl02_1080p/chunklist.m3u8",
+  "S1": {
+    url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-49/ffpm-dya1/chunklist.m3u8",
     poster: "#"
   },
   "Fox2": {
