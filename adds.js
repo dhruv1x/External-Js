@@ -1,7 +1,7 @@
 const streams = {
-  "PL1": "https://ballcontrol.click/home/blog1/",
-  "PL2": "https://ballcontrol.click/home/blog2/",
-  "PL3": "https://ballcontrol.click/home/blog3/",
+  "E1": "https://ballcontrol.click/home/blog1/",
+  "E2": "https://ballcontrol.click/home/blog2/",
+  "C1": "https://ballcontrol.click/home/blog3/",
   "PL4": "https://ballcontrol.click/home/blog4/",
   "U5": "https://ballcontrol.click/home/blog5/",
   "U6": "https://ballcontrol.click/home/blog6/",
