@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-75/etja-xf8e_720p/chunklist_DVR.m3u8",
+    url: "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
     poster: "#"
   },
   "Fox2": {
