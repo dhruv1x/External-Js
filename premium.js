@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S": {
-    url: "56=UNSIGNED-PAYLOAD&X-Amz-CredentialO17GM76KTX4OPODPUWU9%2F20251216%2Feu-central-2%2Fs3%2Faws4_request&X-Amz-Date=20251216T085345Z&X-Amz-Expires=3600&X-Amz-Signature=f9b28f333dce77cf9d7f6fa95ef1fcc7cf760dc3c5f12ff9fcf88ce16251ce93&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    url: "56=UNSIGNED-PAYLOAD&X-Amz%2F20251216%2Feu-central-2%2Fs3%2Faws4_request&X-Amz-Date=20251216T085345Z&X-Amz-Expires=3600&X-Amz-Signature=f9b28f333dce77cf9d7f6fa95ef1fcc7cf760dc3c5f12ff9fcf88ce16251ce93&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     poster: "#"
   },
   "BBL": {
@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-153/ox1j-rvyt_1080p/chunklist.m3u8",
     poster: ""
   },
-  "IA": {
-    url: "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-69/465w-y8x8_1080p/chunklist_DVR.m3u8",
+  "S4": {
+    url: "https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8",
     poster: ""
   },
   "S2": {
