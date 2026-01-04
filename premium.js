@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "SPL": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/139198_english_hls_8e24473f2b52638_1ta-di_h264/index.m3u8",
+    "L1": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/131003_english_hls_ae70ea1be669377_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "S3": {
