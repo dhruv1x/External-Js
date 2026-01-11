@@ -12,6 +12,6 @@ const streams = {
   "UFC": "https://ballcontrol.click/mma/blog/",
   "S1": "https://hotnewsnation.com/home/blog3/",
   "CF": "https://hotnewsnation.com/home/blog2/",
-  "FA": "https://hotnewsnation.com/home/blog1/",
+  "F1": "https://voodc.com/embed/85818c999d8ca184847a8598a38798868582.html",
   
 };
