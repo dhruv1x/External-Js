@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "S": {
-    url: "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
+  "S3": {
+    url: "https://ru001.madayonoska.cam/out/v2/a7d1682e5cf64673d0fecac80937607d/index.m3u8",
     poster: "#"
   },
   "Fox2": {
@@ -28,7 +28,7 @@ const streamMap = {
     url: "https://ru001.madayonoska.cam/out/v2/c04b176087a6c5c6a665be5bf22f8acc/index.m3u8",
     poster: ""
   },
-  "S3": {
+  "S": {
     url: "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
     poster: ""
   },
