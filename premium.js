@@ -12,8 +12,8 @@ const streamMap = {
     url: "https://ru001.madayonoska.cam/out/v2/a7d1682e5cf64673d0fecac80937607d/index.m3u8",
     poster: "#"
   },
-  "Fox2": {
-    url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-153/ox1j-rvyt_1080p/chunklist.m3u8",
+  "USA": {
+    url: "https://ru001.madayonoska.cam/out/v1/85d3b286a2d4cd568e0d1bd575e5d426/index.m3u8",
     poster: ""
   },
   "S4": {
