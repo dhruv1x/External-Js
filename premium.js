@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "BS": {
-    url: "https://ru001.madayonoska.cam/out/v2/c04b176087a6c5c6a665be5bf22f8acc/index.m3u8",
+    "S4": {
+    url: "https://ru001.madayonoska.cam/out/v1/9da7a0ca678fa1b59f27495e7c20395b/index.m3u8",
     poster: ""
   },
   "S": {
