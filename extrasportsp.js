@@ -29,8 +29,8 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "MOVIE": {
-    url: "https://cdn30091.kalis393fev.com/stream2/i-cdn-0/9f1494096adb5fc4be084ff1d5eaf35e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21UbGtWTXV1dadlVo9ERs1WTqJ1aOJTVx8ERjBjWqJEaZRlRoplaFRjWqNWP:1765565466:223.184.168.13:71c08778a62d7d6ba4c7e6961941de02e71e360bfe1a6a589c8163a1552c04a2/1080/index.m3u8",
+  "L1": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/131025_english_hls_ce5579a68110873_1ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
