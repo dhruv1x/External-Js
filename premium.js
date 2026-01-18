@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://ru001.madayonoska.cam/out/v1/9da7a0ca678fa1b59f27495e7c20395b/index.m3u8",
     poster: ""
   },
-  "S": {
-    url: "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
+  "BS": {
+    url: "https://ru001.madayonoska.cam/out/v2/4d65fc467f85194944e16a89b121c92d/index.m3u8",
     poster: ""
   },
 
