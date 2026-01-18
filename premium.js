@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://ru001.madayonoska.cam/out/v1/85d3b286a2d4cd568e0d1bd575e5d426/index.m3u8",
     poster: ""
   },
-  "S4": {
-    url: "https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8",
+  "MTV": {
+    url: "https://ru001.madayonoska.cam/out/v2/4a5d0d952764c80c83f31dee695f5ced/index.m3u8",
     poster: ""
   },
   "S2": {
