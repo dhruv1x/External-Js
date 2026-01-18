@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://storage.railway.app/organized-pierogi-ssnev8/frofudrljocldrugudr295ifistlsw1w.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=tid_Wzgsfcv_JTSuyvynvo_ERVPvp_zFPkylviswDZvLuepKWFpcJq%2F20260114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260114T073925Z&X-Amz-Expires=3600&X-Amz-Signature=de0ac20dcb1300f48ae11d0ef223e2e52458d79584c8829b0c505b3921ec73f0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    url: "https://storage.railway.app/organized-pierogi-ssnev8/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=tid_Wzgsfcv_JTSuyvynvo_ERVPvp_zFPkylviswDZvLuepKWFpcJq%2F20260118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260118T074927Z&X-Amz-Expires=3600&X-Amz-Signature=a5709093b7a95aa1ab2a94433f3acabdfef52341d62456e3e1c19c840e8ff55e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     poster: "#"
   },
   "DD": {
