@@ -12,12 +12,12 @@ const streamMap = {
     url: "https://ru001.madayonoska.cam/out/v2/a7d1682e5cf64673d0fecac80937607d/index.m3u8",
     poster: "#"
   },
-  "USA": {
+  "U1": {
     url: "https://ru001.madayonoska.cam/out/v1/85d3b286a2d4cd568e0d1bd575e5d426/index.m3u8",
     poster: ""
   },
-  "MTV": {
-    url: "https://ru001.madayonoska.cam/out/v2/4a5d0d952764c80c83f31dee695f5ced/index.m3u8",
+  "L1": {
+    url: "https://ru001.madayonoska.cam/out/v2/7b5b6c10468ab31bf8c0c9c2cc4a57cc/index.m3u8",
     poster: ""
   },
   "S2": {
