@@ -1,5 +1,5 @@
 const streams = {
-  "PL1": "https://matchify.zip/home/blog1/",
+  "U1": "https://matchify.zip/home/blog1/",
   "PL2": "https://matchify.zip/home/blog2/",
   "PL3": "https://matchify.zip/home/blog3/",
   "PL4": "https://matchify.zip/home/blog4/",
