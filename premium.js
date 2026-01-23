@@ -4,7 +4,7 @@ const streamMap = {
     url: "https://storage.railway.app/organized-pierogi-ssnev8/frofudrljocldrugudr295ifistlsw1w.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=tid_Wzgsfcv_JTSuyvynvo_ERVPvp_zFPkylviswDZvLuepKWFpcJq%2F20260123%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260123T154431Z&X-Amz-Expires=3600&X-Amz-Signature=c97768bfddc73e8494f6c499dc1b23cfe4a18501683c4c7bfd44d51e776affdf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     poster: "#"
   },
-  "DD": {
+  "S1": {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
