@@ -1,10 +1,10 @@
 // streams.js
 const streamMap = {
-  "S": {
-    url: "https://storage.railway.app/organized-pierogi-ssnev8/frofudrljocldrugudr295ifistlsw1w.m3u8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=tid_Wzgsfcv_JTSuyvynvo_ERVPvp_zFPkylviswDZvLuepKWFpcJq%2F20260123%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260123T154431Z&X-Amz-Expires=3600&X-Amz-Signature=c97768bfddc73e8494f6c499dc1b23cfe4a18501683c4c7bfd44d51e776affdf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+  "S1": {
+    url: "https://aps33.playlist.live-video.net/v1/playlist/CroFO6ihCEyfuf4kF1X2XHxzH5zMAItEoMa9ChPzwZW1l7uZqHzFSeLk-SiPLg4ltEYdarXCnqFUcvTBhUCSjdFemO3LY0jZ60ROjshN8cyI5CTaCQdmBgi7JLbUJyddhaD1cBqP_KYOFKezHI1cR_ylX9ux727SqbzF9FkmG5_5U9Zrpe6bMZ-YspO_CbQ1sGYZ6NJYKSWhlyq0J0MjCbACpw00F2dct8C5Jj0EGEcQa8CVb5bcR1K-DorA4LAo5Q7-kF1Oq-eOqIzvSi5bznW3q8wo51fP2HOtUlLXkh54pJOKbiGAKOHKTOkBuld2zE4pKhPx0YgON3lLMqWWUl2KtlZ9siHAUnr5fFceqp7SrUqZd4eB4adjyiTVbefC8pJzsfQoJTgo5SZccgkEBd0tAXifH0yDSusWGPd1Wh5ypIWzutukugA07wdT0zp8lh12oze4rIuluKcXu4QVqz2E3yZmGYz-2Msu8QGx9gHB7QbhTYgrpwHUyzUFlDzFpa-MaJGJl_3C2RPotA02frALzpnfCr3-hk2cdl33rujzuFu580JD3dZDCxOpY2AWqVYuBNE_HHcsBdRBeqsxK6iIO7auRBaoWZxOomAfalmMjis9QUuiIT57PJ1Irp9aeJbPIJwh2P_Ky617GJHSim8QC1jSCeEe-VtRPsEys3Gj1W3-Xdc00NCTyu1O7GIORNSj1y5c-7iofSJ25QtCsMhfHDyLBl3JmqQn4CmAgDHnvgf01e1BaXbD3Z2Zya2C0x_Z7becUL8epj_KAVTyLaKkcP1OmxCS-S0MCF77RmKbQJzGvXEhCOOWNOa7FaHIw_ryU2gcPd4QRL0v6jSAud4Klf-A-whuRgJ-EKqSdxC1p0EQP-xyY9LHG_c6JnGZFD9bUnbIKS73KF5EQx5LzvlpYqW4PtCs-oONWFYaDJdPJTPco1geQH2zhCABKgl1cy13ZXN0LTIwoA4.m3u8",
     poster: "#"
   },
-  "S1": {
+  "S": {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
