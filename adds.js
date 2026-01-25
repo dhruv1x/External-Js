@@ -1,7 +1,7 @@
 const streams = {
   "PL1": "https://matchify.zip/home/blog1/",
-  "U2": "https://matchify.zip/home/blog1/",
-  "U3": "https://matchify.zip/home/blog3/",
+  "PL2": "https://matchify.zip/home/blog2/",
+  "PL3": "https://matchify.zip/home/blog3/",
   "U4": "https://matchify.zip/home/blog4/",
   "U5": "https://matchify.zip/home/blog5/",
   "U6": "https://matchify.zip/home/blog6/",
@@ -10,7 +10,7 @@ const streams = {
   "L1": "https://matchify.zip/home/blog4/",
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://matchify.zip/mma/blog/",
-  "S1": "https://matchify.zip/home/blog7/",
+  "S1": "https://matchify.zip/home/blog5/",
   "CF": "https://hotnewsnation.com/home/blog2/",
   "F1": "https://voodc.com/embed/85818c999d8ca184847a8598a38798868582.html",
   
