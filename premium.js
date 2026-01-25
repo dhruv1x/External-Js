@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://allinonereborn.xyz/amit/hls2.php",
+    url: "https://cold-surf-39b1.xojiv79335.workers.dev/&i=1",
     poster: "#"
   },
   "S": {
