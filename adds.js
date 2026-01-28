@@ -11,7 +11,7 @@ const streams = {
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://matchify.zip/mma/blog/",
   "S1": "https://matchify.zip/home/blog5/",
-  "CF": "https://hotnewsnation.com/home/blog2/",
+  "CF": "https://allrounderlive.pages.dev/dilz?id=dillzy745",
   "F1": "https://voodc.com/embed/85818c999d8ca184847a8598a38798868582.html",
   
 };
