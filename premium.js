@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://cold-surf-39b1.xojiv79335.workers.dev/&i=1",
+    url: "https://blue-salad-1f36.xojiv79335.workers.dev/",
     poster: "#"
   },
   "S": {
