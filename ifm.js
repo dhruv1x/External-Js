@@ -12,7 +12,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 // ✅ Streams list
 const streams = {
     WWE: "https://embednow.top/embed/wwe-survivor-series-wargames",
-    UU: "https://storytrench.net/embed/pnznwxs88t3jmb",
+    UU: "https://sosplay.net/part/Ll.php?id=2/191",
     m3: "https://topembed.pw/channel/DigiSport2[Romania]",
     m4: "https://aboutgame.cx/idea/?id=ufc",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
