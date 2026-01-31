@@ -12,6 +12,6 @@ const streams = {
   "UFC": "https://matchify.zip/mma/blog/",
   "U1": "https://matchify.zip/home/blog6/",
   "U10": "https://matchify.zip/home/blog10/",
-  "CF": "https://dillzy.xo.je/mac_single_script/?page=play&cmd=ffrt+http%3A%2F%2Flocalhost%2Fch%2F2028&name=WILLOW+CRICKET+4K%2A&i=1",
+  "CF": "https://dillzy.xo.je/mac_single_script/?page=play&cmd=ffrt+http%3A%2F%2Flocalhost%2Fch%2F1972&name=FOX+CRICKET+4K%2A",
   
 };
