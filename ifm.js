@@ -13,7 +13,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 const streams = {
     WWE: "https://www.sawlivenow.com/embed/ch85_LQ/",
     WWE2: "https://www.sawlivenow.com/embed/ch85_SD/",
-    m3: "https://topembed.pw/channel/DigiSport2[Romania]",
+    WWE3: "https://modistreams.org/embed/royal-rumble-2026",
     m4: "https://aboutgame.cx/idea/?id=ufc",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
     m6: "https://streamtp4.com/global1.php?stream=disney13",
