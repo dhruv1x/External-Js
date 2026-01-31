@@ -1,6 +1,6 @@
 const streamMap = {
-  "EFL": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/139212_english_hls_e719443f7d79652_1ta-di_h264/index.m3u8",
+  "FINAL": {
+    url: "https://fastly.live.brightcove.com/6386672856112/ap-southeast-2/4447531182001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidHphenRyLmVncmVzcy56c3d6N28iLCJhY2NvdW50X2lkIjoiNDQ0NzUzMTE4MjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI0NDQ3NTMxMTgyMDAxIl0sImp0aSI6IjYzODY2NzI4NTYxMTIifQ.1FCeVgRRfv3J3WcSRt_pj23KNX85y12wSuRcTFKEkos/playlist-hls.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
