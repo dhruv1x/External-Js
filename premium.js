@@ -25,7 +25,7 @@ const streamMap = {
     poster: "#"
   },
     "RM": {
-    url: "https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1769178230&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6089b7e8983c05030b3022b68d697c13",
+    url: "https://uxekg5mpufi.a.trbcdn.net/livemaster/mhp2x_71e32mo1l7.smil/playlist.m3u8",
     poster: ""
   },
   "WWE": {
