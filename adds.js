@@ -12,6 +12,6 @@ const streams = {
   "UFC": "https://matchify.zip/mma/blog/",
   "U1": "https://matchify.zip/home/blog6/",
   "UU": "https://sosplay.net/part/Ll.php?id=2/191",
-  "ES": "https://allrounderlive.pages.dev/dilz?id=dillzy745",
+  "ES": "https://allrounderlive.pages.dev/dilz?id=65656576",
   
 };
