@@ -35,8 +35,8 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "LATV": {
-    url: "https://lchdvideo.live/laligatv.m3u8",
+  "WWE": {
+    url: "https://kloxmkhs.site/live.php?id=30ec0fc43d31d16c&token=guest__e504CQO9WuzcGLjGKDzxeBWjqXr6Nh_QIBeZbDywi_tl-sEMp3bA6uujThLF7AXceMIVyilrWCh0hqfe5mbO6Msv5BAPedb_RLSeSThUxIVRzuP-Zb3t_n8a4NT7peUqNgZscVJDedSSsi2_X7vb7xEsxuI0rQFSVPN64fIVizw_MNnLNIYFWL4BH8vb2rWNz_ZD9TnDFQVxn5NiXwu0gWBvRzfmuoXrrvM4YaZceYlGBPw~&format=.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
