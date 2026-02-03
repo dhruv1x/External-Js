@@ -1,6 +1,6 @@
 const streamMap = {
-  "FINAL": {
-    url: "https://fastly.live.brightcove.com/6386672856112/ap-southeast-2/4447531182001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidHphenRyLmVncmVzcy56c3d6N28iLCJhY2NvdW50X2lkIjoiNDQ0NzUzMTE4MjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI0NDQ3NTMxMTgyMDAxIl0sImp0aSI6IjYzODY2NzI4NTYxMTIifQ.1FCeVgRRfv3J3WcSRt_pj23KNX85y12wSuRcTFKEkos/playlist-hls.m3u8",
+  "EFL": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/139213_english_hls_ccc058253d46683_1ta-di_h264/index.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -17,14 +17,14 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "SF": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8",
+  "REY": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/140049_english_hls_7709513a3d81475_1ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "A2": {
-    url: "https://d10vo7do5cxae0.cloudfront.net/out/v1/8639b84850304ad6839ea1ec78e140fb/index.m3u8",
+  "DFB": {
+    url: "https://in-mc-fdlive.fancode.com/mumbai/138998_english_hls_e1e232f00268879_1ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
