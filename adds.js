@@ -11,7 +11,7 @@ const streams = {
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://gametimes.top/mma/blog/",
   "B1": "https://gametimes.top/home/blog3/",
-  "S1": "https://gametimes.top/home/blog2/",
+  "S1": "https://allrounderlive.pages.dev/player2?url=https://dillzyserver.dillzycreations.workers.dev/live/abc123.m3u8",
   "ES": "https://allrounderlive.pages.dev/dilz?id=65656576",
   
 };
