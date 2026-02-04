@@ -12,7 +12,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "S1": {
-    url: "https://blue-salad-1f36.xojiv79335.workers.dev/",
+    url: "https://meow.onmailkardobhai.workers.dev",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
