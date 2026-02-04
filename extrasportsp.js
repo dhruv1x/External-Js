@@ -11,8 +11,8 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "AFC": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/136172_english_hls_e4a66a9e9085910_1ta-di_h264/index.m3u8",
+  "S1": {
+    url: "https://blue-salad-1f36.xojiv79335.workers.dev/",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
@@ -30,7 +30,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "L1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/131044_hindi_hls_73e5a3b05a98683_1ta-di_h264/index.m3u8",
+    url: "",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
