@@ -1,6 +1,6 @@
 const streamMap = {
   "EFL": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/139213_english_hls_ccc058253d46683_1ta-di_h264/index.m3u8",
+    url: "https://dai.google.com/linear/hls/event/i1IlKeO-QyORQZOYWeM55Q/master.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
