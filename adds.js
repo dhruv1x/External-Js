@@ -1,5 +1,5 @@
 const streams = {
-  "EFL": "https://gametimes.plus/home/blog1/",
+  "PL1": "https://gametimes.plus/home/blog1/",
   "REY": "https://gametimes.top/home/blog2/",
   "PL3": "https://gametimes.top/home/blog3/",
   "U5": "https://matchify.zip/home/blog5/",
