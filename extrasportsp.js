@@ -1,6 +1,6 @@
 const streamMap = {
   "EFL": {
-    url: "https://dai.google.com/linear/hls/event/i1IlKeO-QyORQZOYWeM55Q/master.m3u8",
+    url: "https://in-mc-fdlive.fancode.com/mumbai/139350_english_hls_6ea52b0d4b76187_1ta-di_h264/index.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
@@ -30,7 +30,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
   "L1": {
-    url: "",
+    url: "https://in-mc-fdlive.fancode.com/mumbai/131059_english_hls_36b861092e2085_1ta-di_h264/index.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
