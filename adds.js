@@ -1,9 +1,9 @@
 const streams = {
   "PL1": "https://gametimes.plus/home/blog1/",
-  "REY": "https://gametimes.top/home/blog2/",
-  "PL3": "https://gametimes.top/home/blog3/",
-  "U5": "https://matchify.zip/home/blog5/",
-  "U6": "https://matchify.zip/home/blog7/",
+  "PL2": "https://gametimes.plus/home/blog2/",
+  "PL3": "https://gametimes.plus/home/blog3/",
+  "PL4": "https://gametimes.plus/home/blog4/",
+  "PL5": "https://gametimes.plus/home/blog5/",
   "U7": "https://matchify.zip/home/blog8/",
   "U8": "https://matchify.zip/home/blog4/",
   "U9": "https://matchify.zip/home/blog9/",
