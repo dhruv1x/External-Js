@@ -7,11 +7,11 @@ const streams = {
   "U7": "https://matchify.zip/home/blog8/",
   "U8": "https://matchify.zip/home/blog4/",
   "U9": "https://matchify.zip/home/blog9/",
-  "L1": "https://gametimes.plus/home/blog6/",
+  "L1": "https://gametimes.plus/home/blog1/",
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://gametimes.top/mma/blog/",
   "B1": "https://gametimes.top/home/blog3/",
-  "S1": "https://gametimes.plus/home/blog1/",
-  "ES": "https://allrounderlive.pages.dev/dilz?id=65656576",
+  "S1": "https://gametimes.plus/home/blog2/",
+  "LG1": "https://gametimes.plus/home/blog3/",
   
 };
