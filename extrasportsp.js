@@ -5,13 +5,13 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "S1": {
-    url: "https://stm2.xojiv79335.workers.dev/",
+  "S2": {
+    url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "S2": {
+  "S1": {
     url: "https://stm1.xojiv79335.workers.dev/",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
