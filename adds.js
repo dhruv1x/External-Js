@@ -1,6 +1,6 @@
 const streams = {
   "PL1": "https://gametimes.plus/home/blog1/",
-  "PL2": "https://gametimes.plus/home/blog2/",
+  "REY": "https://gametimes.plus/home/blog2/",
   "PL3": "https://gametimes.plus/home/blog3/",
   "PL4": "https://gametimes.plus/home/blog4/",
   "PL5": "https://gametimes.plus/home/blog5/",
