@@ -1,6 +1,6 @@
 const streamMap = {
-  "F1": {
-    url: "https://india-mpv2.fancode.com/out/v1/ap-south-1/139558_english_764790/ad-h264/index.m3u8",
+  "S1": {
+    url: "https://copy.8void.sbs/~140404_english_hls_d6f8acdd6f73747_1ta-di_h264.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
