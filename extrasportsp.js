@@ -23,11 +23,11 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "L1": {
-    url: "https://grand-s-v1.faggotsports.tv/pl_120/207676-6806860-1/chunklist.m3u8",
+  "PE": {
+    url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6809390-1/chunklist.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "SP": {
     url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6806860-1/chunklist.m3u8",
@@ -35,10 +35,10 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "SL1": {
-    url: "",
+  "PH": {
+    url: "https://grand-s-v2.faggotsports.tv/pl_118/207676-6809392-1/chunklist.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
 };
