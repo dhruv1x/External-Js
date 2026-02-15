@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://ru001.madayonoska.cam/out/v2/7b5b6c10468ab31bf8c0c9c2cc4a57cc/index.m3u8",
+    url: "https://rapid-wind-5c1d.xojiv79335.workers.dev/stream/chunklist.m3u8?exp=1771141157&sig=fCyKei7O1lQ%2F8uVW0UJvCEZEMWAY71xo7KsDw6MSX5I%3D",
     poster: ""
   },
   "S2": {
