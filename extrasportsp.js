@@ -32,11 +32,11 @@ const streamMap = {
   "SP": {
     url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6806860-1/chunklist.m3u8",
     poster: "#",
-    telegramHandle: "@cricxfootball",
-    popupMessage: "Join Our Telegram Channel @cricxfootball"
+    telegramHandle: "@livecrichdofficial",
+    popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "SL1": {
-    url: "https://grand-s-v2.faggotsports.tv/pl_118/207676-6808206-1/chunklist.m3u8",
+    url: "",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
