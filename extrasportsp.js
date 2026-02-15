@@ -1,5 +1,5 @@
 const streamMap = {
-  "S1": {
+  "S3": {
     url: "https://copy.8void.sbs/~140404_english_hls_d6f8acdd6f73747_1ta-di_h264.m3u8",
     poster: "",
     telegramHandle: "@cricxfootball",
@@ -29,8 +29,8 @@ const streamMap = {
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
   },
-  "L1": {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/131059_english_hls_36b861092e2085_1ta-di_h264/index.m3u8",
+  "SP": {
+    url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6806860-1/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@cricxfootball",
     popupMessage: "Join Our Telegram Channel @cricxfootball"
