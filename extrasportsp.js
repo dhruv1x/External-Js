@@ -12,7 +12,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "S1": {
-    url: "https://stm1.xojiv79335.workers.dev/",
+    url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6806860-1/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
