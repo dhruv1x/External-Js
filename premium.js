@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://blue-salad-1f36.xojiv79335.workers.dev/",
+    url: "https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771390475~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
     poster: "#"
   },
   "S": {
