@@ -24,12 +24,12 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "RM": {
-    url: "https://uxekg5mpufi.a.trbcdn.net/livemaster/mhp2x_71e32mo1l7.smil/playlist.m3u8",
+    "CN": {
+    url: "https://live3.procdnlive.com/livecdn/channel78.m3u8?auth_key=3000001771770339-0-0-0381709170265fd48bdaedaa8c8d1e1c",
     poster: ""
   },
   "WFC1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://in-mc-flive.fancode.com/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
+    url: ".m3u8?hdntl=Expires=1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
     poster: ""
   },
 
