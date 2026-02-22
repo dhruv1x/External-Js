@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "WFC1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://in-mc-flive.fancode.com/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771768600~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDshOA-f8l2U8_-PdbxnM9D0f7_GNd0XTEwbnctLjpmaddPkGpBMpm1ULtcR_sBmyZG1YdzMKd7C1wMnD8-y0XEH",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://in-mc-flive.fancode.com/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
     poster: ""
   },
 
