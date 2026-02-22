@@ -29,14 +29,14 @@ const streamMap = {
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "SP": {
-    url: "https://stm1.xojiv79335.workers.dev/",
+  "PH": {
+    url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6821324-1/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
-  "PH": {
-    url: "",
+  "PM2": {
+    url: "https://grand-s-v2.faggotsports.tv/pl_120/207676-6821322-1/chunklist.m3u8",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
