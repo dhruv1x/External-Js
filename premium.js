@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771390475~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
+    url: "/134035_english_hls_1afd89d14d51593_1ta-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
     poster: "#"
   },
   "S": {
@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://uxekg5mpufi.a.trbcdn.net/livemaster/mhp2x_71e32mo1l7.smil/playlist.m3u8",
     poster: ""
   },
-  "WWE": {
-    url: "https://601.exylcraft.us/wwe.m3u8",
+  "WFC1": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://in-mc-flive.fancode.com/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771768600~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDshOA-f8l2U8_-PdbxnM9D0f7_GNd0XTEwbnctLjpmaddPkGpBMpm1ULtcR_sBmyZG1YdzMKd7C1wMnD8-y0XEH",
     poster: ""
   },
 
