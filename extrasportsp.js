@@ -12,7 +12,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "S1": {
-    url: "",
+    url: "https://stm2.xojiv79335.workers.dev/",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
@@ -30,7 +30,7 @@ const streamMap = {
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
   },
   "SP": {
-    url: "https://river-3-369.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/1IqzxbK0ex7n8G4gYoryyw/1772083480/9585fdae92af45f113fdcc9f6c4ba442/720p_stream.m3u8",
+    url: "https://stm1.xojiv79335.workers.dev/",
     poster: "#",
     telegramHandle: "@livecrichdofficial",
     popupMessage: "Join Our Telegram Channel @livecrichdofficial"
