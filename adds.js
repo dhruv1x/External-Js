@@ -11,7 +11,7 @@ const streams = {
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://gametimes.top/mma/blog/",
   "B1": "https://gametimes.top/home/blog3/",
-  "S1": "https://gametimes.plus/home/blog3/",
+  "S1": "https://gametimes.plus/home/blog5/",
   "LG1": "https://gametimes.plus/home/blog2/",
   
 };
