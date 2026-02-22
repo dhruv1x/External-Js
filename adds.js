@@ -6,7 +6,7 @@ const streams = {
   "PL5": "https://gametimes.plus/home/blog5/",
   "U7": "https://matchify.zip/home/blog8/",
   "U8": "https://matchify.zip/home/blog4/",
-  "U9": "https://matchify.zip/home/blog9/",
+  "CB": "https://soco.livecdnem.com/ajax/chanel/type/5/link/channel78/off-tvc",
   "L1": "https://gametimes.plus/home/blog2/",
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://gametimes.top/mma/blog/",
