@@ -12,7 +12,7 @@ if (confirm("Join Our Telegram Channel @cricxfootball")) {
 // ✅ Streams list
 const streams = {
     S1: "https://viewembed.ru/channel/scfw_501a38c9",
-    WWE2: "https://www.sawlivenow.com/embed/ch85_SD/",
+    SM: "https://viewembed.ru/channel/SkySportsMainEvent%5BUK%5D",
     WWE3: "https://modistreams.org/embed/royal-rumble-2026",
     m4: "https://aboutgame.cx/idea/?id=ufc",
     m5: "https://streamtp4.com/global1.php?stream=disney12",
