@@ -6,7 +6,7 @@ const streams = {
   "PL5": "https://gametimes.plus/home/blog5/",
   "U7": "https://matchify.zip/home/blog8/",
   "U8": "https://matchify.zip/home/blog4/",
-  "CB": "https://all-video-player-sayan.pages.dev/PLYR.html/?url=https://dillzylive.pages.dev/Hotstar",
+  "SM": "https://viewembed.ru/channel/SkySportsMainEvent%5BUK%5D",
   "L1": "https://gametimes.plus/home/blog4/",
   "F1": "https://ballcontrol.click/home/blogf/",
   "UFC": "https://gametimes.top/mma/blog/",
