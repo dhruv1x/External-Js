@@ -1,15 +1,15 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "/134035_english_hls_1afd89d14d51593_1ta-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
+    url: "/-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
     poster: "#"
   },
   "S": {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "S3": {
-    url: "https://ru001.madayonoska.cam/out/v2/a7d1682e5cf64673d0fecac80937607d/index.m3u8",
+  "S1": {
+    url: "https://live5.msrktz.app/live/97885009.m3u8",
     poster: "#"
   },
   "U1": {
