@@ -1,6 +1,6 @@
 // streams.js
 const streamMap = {
-  "S1": {
+  "S": {
     url: "/-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
     poster: "#"
   },
@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://live5.msrktz.app/live/97885009.m3u8",
+    url: "https://live5.msrktz.app/live/75915087.m3u8",
     poster: "#"
   },
   "U1": {
