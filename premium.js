@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://live5.msrktz.app/live/75915087.m3u8",
+    url: "https://stm1.xojiv79335.workers.dev/",
     poster: "#"
   },
   "U1": {
