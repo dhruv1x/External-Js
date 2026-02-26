@@ -1,3 +1,3 @@
 const TELEGRAM_CONFIG = {
-    channelLink: "https://t.me/+WOHjeld4UV9lYWJl"
+    channelLink: "https://telegram.me/+WOHjeld4UV9lYWJl"
 };
