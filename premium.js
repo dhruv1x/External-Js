@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://live5.msrktz.app/live/02456966.m3u8",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://in-mc-flive.fancode.com/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772277134~_GO=Generated~acl=/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di_h264/*~Signature=AR5gA-F2ZH0Mk6fXO8N3DYPIi1JZjDfnKKTzRXf3x263sPLQYw_84kNKpqgx6NadynPPjz-IbmWXKS_T9Xlv5PO31MEN",
     poster: "#"
   },
   "U1": {
@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "WFC1": {
-    url: ".m3u8?hdntl=Expires=1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
+    url: ".m3u8?hdntl==1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
     poster: ""
   },
 
