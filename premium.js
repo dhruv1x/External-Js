@@ -33,35 +33,35 @@ const streamMap = {
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140446_ENGLISH",
     poster: ""
   },
   "H1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140446_HINDI",
     poster: ""
   },
   "M1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140446_MALAYALAM",
     poster: ""
   },
   "B1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140446_BENGALI",
     poster: ""
   },
   "EH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_ENGLISH",
     poster: ""
   },
   "HH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_HINDI",
     poster: ""
   },
   "MH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_MALAYALAM",
     poster: ""
   },
   "BH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_BENGALI",
     poster: ""
   },
 };
