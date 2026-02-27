@@ -32,5 +32,36 @@ const streamMap = {
     url: ".m3u8?hdntl==1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
     poster: ""
   },
-
+  "E1": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "H1": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "M1": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "B1": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "EH": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "HH": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "MH": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
+  "BH": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+    poster: ""
+  },
 };
