@@ -8,7 +8,7 @@ const streamMap = {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "S1": {
+  "WFC1": {
     url: "https://live5.msrktz.app/live/02456966.m3u8",
     poster: "#"
   },
