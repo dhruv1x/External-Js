@@ -49,11 +49,11 @@ const streamMap = {
     poster: ""
   },
   "EH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_ENGLISH",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131084_ENGLISH",
     poster: ""
   },
   "HH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_HINDI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131084_HINDI",
     poster: ""
   },
   "MH": {
