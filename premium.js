@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://in-mc-flive.fancode.com/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772277134~_GO=Generated~acl=/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di_h264/*~Signature=AR5gA-F2ZH0Mk6fXO8N3DYPIi1JZjDfnKKTzRXf3x263sPLQYw_84kNKpqgx6NadynPPjz-IbmWXKS_T9Xlv5PO31MEN",
+    url: "https://stm1.xojiv79335.workers.dev/",
     poster: "#"
   },
   "U1": {
