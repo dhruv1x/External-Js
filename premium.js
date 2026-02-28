@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/master.m3u8",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
   "U1": {
