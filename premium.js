@@ -9,7 +9,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://stm1.xojiv79335.workers.dev/",
+    url: "https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/master.m3u8",
     poster: "#"
   },
   "U1": {
