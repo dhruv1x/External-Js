@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://grand-s-v001.faggotsports.tv/out/v1/8a607afa3ed1cc0a7ecced4ad5c42c2c/mix-stream.m3u8",
     poster: ""
   },
-  "L1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://throbbing-fire-865f.xojiv79335.workers.dev/?id=140446",
+  "PH": {
+    url: "https://grand-s-v001.faggotsports.tv/out/v1/e5aef0ca3f8d30e216d49a8a2b78a6e4/mix-stream.m3u8",
     poster: ""
   },
   "S2": {
