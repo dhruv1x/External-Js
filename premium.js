@@ -29,35 +29,35 @@ const streamMap = {
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140449_ENGLISH",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_ENGLISH",
     poster: ""
   },
   "H1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140449_HINDI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_HINDI",
     poster: ""
   },
   "M1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140449_MALAYALAM",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_MALAYALAM",
     poster: ""
   },
   "B1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140449_BENGALI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_BENGALI",
     poster: ""
   },
   "EH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131084_ENGLISH",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_ENGLISH",
     poster: ""
   },
   "HH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131084_HINDI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_HINDI",
     poster: ""
   },
   "MH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_MALAYALAM",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_MALAYALAM",
     poster: ""
   },
   "BH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140447_BENGALI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_BENGALI",
     poster: ""
   },
 };
