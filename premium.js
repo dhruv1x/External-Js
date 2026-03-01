@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "S1": {
-    url: "https://stm1.xojiv79335.workers.dev/",
+  "PL2": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
   "WH": {
