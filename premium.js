@@ -13,11 +13,11 @@ const streamMap = {
     poster: "#"
   },
   "WH": {
-    url: "https://grand-s-v001.faggotsports.tv/out/v1/8a607afa3ed1cc0a7ecced4ad5c42c2c/mix-stream.m3u8",
+    url: "",
     poster: ""
   },
   "PH": {
-    url: "https://grand-s-v001.faggotsports.tv/out/v1/e5aef0ca3f8d30e216d49a8a2b78a6e4/mix-stream.m3u8",
+    url: "",
     poster: ""
   },
   "S2": {
