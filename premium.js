@@ -12,8 +12,8 @@ const streamMap = {
     url: "https://stm1.xojiv79335.workers.dev/",
     poster: "#"
   },
-  "U1": {
-    url: "https://ru001.madayonoska.cam/out/v1/85d3b286a2d4cd568e0d1bd575e5d426/index.m3u8",
+  "WH": {
+    url: "https://grand-s-v001.faggotsports.tv/out/v1/8a607afa3ed1cc0a7ecced4ad5c42c2c/mix-stream.m3u8",
     poster: ""
   },
   "L1": {
