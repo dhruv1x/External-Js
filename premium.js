@@ -1,10 +1,10 @@
 // streams.js
 const streamMap = {
   "S": {
-    url: "/-di_h264/*~Signature=ATihZv5msY4g9oB-nuII2wH3G0YSc3_5ymlLgMuq-OIHRujg2X_BX2QdxVPai6vY7_wOTjrhraYmVSAkxvx_ce_8YmkD",
+    url: "https://bbb.exoadash.com/TVD6219/index.mpd",
     poster: "#"
   },
-  "S": {
+  "DD": {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
@@ -26,10 +26,6 @@ const streamMap = {
   },
     "CN": {
     url: "https://live3.procdnlive.com/livecdn/channel78.m3u8?auth_key=3000001771770339-0-0-0381709170265fd48bdaedaa8c8d1e1c",
-    poster: ""
-  },
-  "WFC1": {
-    url: ".m3u8?hdntl==1771769955~_GO=Generated~acl=/mumbai/140442_english_hls_b790c219dd30601_1ta-di_h264/*~Signature=AScLvDu6SspB9zLi1AF0bpkox9oZFam5-eLd3DWXeu12YreNwXl24OpigkqUMNjfSJNezXXTkKY99q9R0Sp3oHDRWksN",
     poster: ""
   },
   "E1": {
