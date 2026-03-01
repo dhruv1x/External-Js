@@ -6,5 +6,5 @@ const DOMAIN_CONFIG = {
 };
 
 const TELEGRAM_CONFIG = {
-    popupChannel: "https://telegram.me/+WOHjeld4UV9lYWJl"
+    popupChannel: "https://telegram.me/WOHjeld4UV9lYWJl"
 };
