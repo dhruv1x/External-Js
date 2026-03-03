@@ -1,5 +1,5 @@
 const streams = {
-  "PL1": "https://areagame.net/home/blog1/",
+  "REY": "https://areagame.net/home/blog5/",
   "U2": "https://areagame.net/home/blog2/",
   "U3": "https://areagame.net/home/blog3/",
   "PL1": "https://gametimes.plus/home/blog1/",
