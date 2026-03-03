@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "PL1": {
-    url: "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8",
+    url: "",
     poster: "#"
   },
   "DD": {
