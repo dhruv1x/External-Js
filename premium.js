@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "PL2": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8",
+  "REY": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/poutybghufwf4/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
   "WH": {
@@ -29,11 +29,11 @@ const streamMap = {
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_ENGLISH",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140525_ENGLISH",
     poster: ""
   },
   "H1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_HINDI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140525_HINDI",
     poster: ""
   },
   "M1": {
