@@ -8,7 +8,7 @@ const streamMap = {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "PL5": {
+  "PCK1": {
     url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/west.m3u8",
     poster: "#"
   },
