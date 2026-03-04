@@ -24,8 +24,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "CN": {
-    url: "https://live3.procdnlive.com/livecdn/channel78.m3u8?auth_key=3000001771770339-0-0-0381709170265fd48bdaedaa8c8d1e1c",
+    "PL1": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
     poster: ""
   },
   "E1": {
