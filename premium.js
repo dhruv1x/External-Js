@@ -1,15 +1,15 @@
 // streams.js
 const streamMap = {
-  "PL1": {
-    url: "",
+  "USA": {
+    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/chelsea.m3u8",
     poster: "#"
   },
   "DD": {
     url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     poster: "#"
   },
-  "REY": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/poutybghufwf4/mux_video_ts1/index-1.m3u8",
+  "PL5": {
+    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/west.m3u8",
     poster: "#"
   },
   "SM1": {
