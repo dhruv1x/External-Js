@@ -12,12 +12,12 @@ const streamMap = {
     url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/west.m3u8",
     poster: "#"
   },
-  "SM1": {
-    url: "https://stm1.xojiv79335.workers.dev/",
+  "PCK2": {
+    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/city.m3u8",
     poster: ""
   },
-  "PH": {
-    url: "",
+  "PCK3": {
+    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/arsenal.m3u8",
     poster: ""
   },
   "S2": {
