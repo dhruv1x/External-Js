@@ -44,20 +44,20 @@ const streamMap = {
     url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140450_BENGALI",
     poster: ""
   },
-  "EH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_ENGLISH",
+  "PL2": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8",
     poster: ""
   },
-  "HH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_HINDI",
+  "PL3": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
     poster: ""
   },
-  "MH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_MALAYALAM",
+  "PL4": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8",
     poster: ""
   },
-  "BH": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140451_BENGALI",
+  "PL5": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
     poster: ""
   },
 };
