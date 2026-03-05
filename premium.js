@@ -5,11 +5,11 @@ const streamMap = {
     poster: "#"
   },
   "PH": {
-    url: "https://grand-s-v001.faggotsports.tv/out/v1/56980f1745a8ad146a8b4a51f9ef7a19/mix-stream.m3u8",
+    url: "",
     poster: "#"
   },
   "PE": {
-    url: "https://grand-s-v001.faggotsports.tv/out/v1/26a93089beabc4e6006e90058835ef5a/mix-stream.m3u8",
+    url: "",
     poster: "#"
   },
   "PCK2": {
