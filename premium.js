@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://grand-s-v001.faggotsports.tv/out/v1/56980f1745a8ad146a8b4a51f9ef7a19/mix-stream.m3u8",
     poster: "#"
   },
-  "PCK1": {
-    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/west.m3u8",
+  "PE": {
+    url: "https://grand-s-v001.faggotsports.tv/out/v1/26a93089beabc4e6006e90058835ef5a/mix-stream.m3u8",
     poster: "#"
   },
   "PCK2": {
