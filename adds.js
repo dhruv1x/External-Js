@@ -3,7 +3,7 @@ const streams = {
   "PL5": "https://areagame.net/home/blog4/",
   "PL4": "https://areagame.net/home/blog1/",
   "PL3": "https://areagame.net/home/blog2/",
-  "PL1": "https://areagame.net/events/tracker5/",
+  "PL1": "https://areagame.net/events/tracker1/",
   "U7": "https://matchify.zip/home/blog8/",
   "U8": "https://viewembed.ru/channel/SupersportNews%5BSouthAfrica%5D",
   "S1": "https://areagame.net/home/blog2/",
