@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/90725470.m3u8",
     poster: "#"
   },
-  "DD": {
-    url: "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+  "PH": {
+    url: "https://grand-s-v001.faggotsports.tv/out/v1/56980f1745a8ad146a8b4a51f9ef7a19/mix-stream.m3u8",
     poster: "#"
   },
   "PCK1": {
