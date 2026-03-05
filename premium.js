@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "USA": {
-    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/chelsea.m3u8",
+  "S1": {
+    url: "https://live5.msrktz.app/live/90725470.m3u8",
     poster: "#"
   },
   "DD": {
