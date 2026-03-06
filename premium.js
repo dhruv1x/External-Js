@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
     poster: ""
   },
-  "E1": {
-    url: "https://islstream.xojiv79335.workers.dev/?id=140992_ENGLISH",
+  "FA": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH651/index.m3u8",
     poster: ""
   },
   "H1": {
