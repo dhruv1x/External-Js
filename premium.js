@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140525_ENGLISH",
+    url: "https://islstream.xojiv79335.workers.dev/?id=140992_ENGLISH",
     poster: ""
   },
   "H1": {
