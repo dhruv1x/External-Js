@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "S1": {
-    url: "https://live5.msrktz.app/live/90725470.m3u8",
+    url: "https://live5.msrktz.app/live/41943555.m3u8",
     poster: "#"
   },
   "PH": {
