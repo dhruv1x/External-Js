@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
     poster: ""
   },
-  "FA": {
-    url: "https://eventcdn02-nowe.akamaized.net/hls/CH651/index.m3u8",
+  "F1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139363_ENGLISH",
     poster: ""
   },
   "H1": {
