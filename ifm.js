@@ -20,7 +20,7 @@ const streams = {
     m7: "https://kleanembed.online/embed/1af0bc4894d29c7622de33f9ade9765a",
     m8: "https://stream196tp.com/global1.php?stream=tnt_1_gb",
     m9: "https://la12hd.com/vivo/canales.php?stream=espnplus2",
-    m10: "http://lchd.pages.dev/skytest?dtv=https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/6c589385fb89fa5d0a87055dff33c06d.m3u8",
+    F1: "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
 };
 
 // ✅ Get stream ID from URL
