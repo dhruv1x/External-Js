@@ -12,8 +12,8 @@ const streamMap = {
     url: "",
     poster: "#"
   },
-  "PCK2": {
-    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/city.m3u8",
+  "FA": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/uncxwerrryuns1/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
   "PCK3": {
