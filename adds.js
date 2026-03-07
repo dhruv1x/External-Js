@@ -8,7 +8,7 @@ const streams = {
   "U8": "https://viewembed.ru/channel/SupersportNews%5BSouthAfrica%5D",
   "S1": "https://areagame.net/home/blog2/",
   "L1": "#",
-  "F1": "https://ballcontrol.click/home/blogf/",
+  "F1": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
   "UFC": "https://gametimes.top/mma/blog/",
   "B1": "https://gametimes.top/home/blog3/",
   "S2": "https://gametimes.plus/home/blog5/",
