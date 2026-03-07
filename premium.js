@@ -13,7 +13,7 @@ const streamMap = {
     poster: "#"
   },
   "FA": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/uncxwerrryuns1/mux_video_ts1/index-1.m3u8",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/uncertynghfn1/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
   "PCK3": {
