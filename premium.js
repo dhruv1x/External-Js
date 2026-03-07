@@ -33,15 +33,15 @@ const streamMap = {
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140455_ENGLISH",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140455_ENGLISH",
     poster: ""
   },
   "M1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140455_MALAYALAM",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140455_MALAYALAM",
     poster: ""
   },
   "B1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140455_BENGALI",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140455_BENGALI",
     poster: ""
   },
   "PL2": {
