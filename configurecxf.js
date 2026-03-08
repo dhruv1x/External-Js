@@ -1,7 +1,7 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
         "extracxf.pages.dev",
-        "extrav.pages.dev"
+        "livecrichdtv.pages.dev"
     ]
 };
 
