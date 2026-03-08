@@ -1,6 +1,6 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
-        "extraaw.pages.dev",
+        "extraaww.pages.dev",
         "extrav.pages.dev"
     ]
 };
