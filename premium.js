@@ -72,8 +72,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140456_MALAYALAM",
     poster: ""
   },
-  "BH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140456_BENGALI",
+  "WF1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
   "F1H": {
