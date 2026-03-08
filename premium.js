@@ -4,12 +4,12 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/41943555.m3u8",
     poster: "#"
   },
-  "PH": {
-    url: "",
+  "PE": {
+    url: "https://grand-s-main.faggotsports.tv/out/v2/c41c7c6a91a843b6dbe675d2eea5135e/index.m3u8",
     poster: "#"
   },
-  "PE": {
-    url: "",
+  "PH": {
+    url: "https://grand-s-main.faggotsports.tv/out/v2/3a5b67d896f26d4ed700b86c64053eb7/index.m3u8",
     poster: "#"
   },
   "UFC": {
