@@ -4,14 +4,6 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/41943555.m3u8",
     poster: "#"
   },
-  "PE": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/c41c7c6a91a843b6dbe675d2eea5135e/index.m3u8",
-    poster: "#"
-  },
-  "PH": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/3a5b67d896f26d4ed700b86c64053eb7/index.m3u8",
-    poster: "#"
-  },
   "UFC": {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/uncertynghfn1/mux_video_ts1/index-1.m3u8",
     poster: ""
