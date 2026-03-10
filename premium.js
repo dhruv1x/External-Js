@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
-  "S1": {
-    url: "https://live5.msrktz.app/live/41943555.m3u8",
+  "U2": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unxertymngdfg3/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
-  "UFC": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/uncertynghfn1/mux_video_ts1/index-1.m3u8",
+  "U1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unxertymngdfg2/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
   "PCK3": {
