@@ -1,6 +1,6 @@
 // streams.js
 const streamMap = {
-  "U2": {
+  "U1": {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
@@ -70,6 +70,14 @@ const streamMap = {
   },
   "U3": {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut3/mux_video_ts1/index-1.m3u8",
+    poster: ""
+  },
+  "V1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://herzogdell.s3.us-east-1.amazonaws.com/mancity.m3u8",
+    poster: "#"
+  },
+  "V2": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://herzogdell.s3.us-east-1.amazonaws.com/chelsea.m3u8",
     poster: ""
   },
 };
