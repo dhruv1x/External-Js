@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
   "U2": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unxertymngdfg3/mux_video_ts1/index-1.m3u8",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
-  "U1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8",
+  "U2": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut2/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
   "V1": {
@@ -68,8 +68,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
-  "V1": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/157c48d9d519cec2ddda17b420e4effb/index.m3u8",
+  "U3": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut3/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
 };
