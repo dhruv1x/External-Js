@@ -5,11 +5,11 @@ const streamMap = {
     poster: "#"
   },
   "U1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unxertymngdfg2/mux_video_ts1/index-1.m3u8",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8",
     poster: ""
   },
-  "PCK3": {
-    url: "https://s3.us-east-1.amazonaws.com/artemys.derakchd/arsenal.m3u8",
+  "V1": {
+    url: "https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8",
     poster: ""
   },
   "S2": {
