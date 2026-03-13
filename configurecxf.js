@@ -1,10 +1,10 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
         "cxfoot.pages.dev",
-        "#.pages.dev"
+        "extracxf.pages.dev"
     ]
 };
 
 const TELEGRAM_CONFIG = {
-    popupChannel: "https://telegram.me/cricxfootball"
+    popupChannel: "https://t.me/+L7agYSmJVRNkZDFl"
 };
