@@ -77,7 +77,7 @@ const streamMap = {
     poster: "#"
   },
   "F2": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8",
+    url: "https://grand-s-main.faggotsports.tv/out/v2/8d8f2a99b0a4956504667e55b8b8a524/index.m3u8",
     poster: ""
   },
 };
