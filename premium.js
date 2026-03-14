@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "F1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139370_ENGLISH",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139378_ENGLISH",
     poster: "#"
   },
   "U2": {
