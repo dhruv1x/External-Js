@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "F1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139378_ENGLISH",
+    url: "https://grand-s-main.faggotsports.tv/out/v2/0c886a7e6ce4404f22031483f46610d7/index.m3u8",
     poster: "#"
   },
   "U2": {
@@ -37,7 +37,7 @@ const streamMap = {
     poster: ""
   },
   "PL2": {
-    url: "https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8",
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
     poster: ""
   },
   "PL3": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: "#"
   },
   "F2": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8",
+    url: "https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8",
     poster: ""
   },
 };
