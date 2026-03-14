@@ -9,7 +9,7 @@ const streamMap = {
     poster: ""
   },
   "PL": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/nbcsn.m3u8",
     poster: ""
   },
   "S2": {
