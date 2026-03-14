@@ -57,19 +57,19 @@ const streamMap = {
     poster: ""
   },
   "EH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140456_ENGLISH",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140462_ENGLISH",
     poster: ""
   },
   "MH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140456_MALAYALAM",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140462_MALAYALAM",
     poster: ""
   },
-  "WF1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8",
+  "BH1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140462_BENGALI",
     poster: ""
   },
-  "U3": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut3/mux_video_ts1/index-1.m3u8",
+  "HH1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140462_HINDI",
     poster: ""
   },
   "V1": {
