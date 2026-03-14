@@ -4,12 +4,12 @@ const streamMap = {
     url: "https://grand-s-main.faggotsports.tv/out/v2/0c886a7e6ce4404f22031483f46610d7/index.m3u8",
     poster: "#"
   },
-  "U2": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unjhgertyngyut2/mux_video_ts1/index-1.m3u8",
+  "L1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unikhsgyrbover2/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
-  "SB1": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/34dc783041c18c8e227f7f027737663c/index.m3u8",
+  "PL": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
   "S2": {
@@ -21,11 +21,11 @@ const streamMap = {
     poster: ""
   },
   "H1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140461_HINDI",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131100_HINDI",
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140461_ENGLISH",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131100_ENGLISH",
     poster: ""
   },
   "M1": {
