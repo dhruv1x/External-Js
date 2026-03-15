@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/madrid.m3u8",
     poster: ""
   },
-  "PL": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/nbcsn.m3u8",
+  "ATV": {
+    url: "https://grand-s-main.faggotsports.tv/out/v2/415bd77a5691be11aa9b46826f01caa4/index.m3u8",
     poster: ""
   },
   "S2": {
