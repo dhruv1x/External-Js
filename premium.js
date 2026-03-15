@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "F2": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139379_HINDI",
+    url: "#",
     poster: "#"
   },
   "L1": {
@@ -9,7 +9,7 @@ const streamMap = {
     poster: ""
   },
   "ATV": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/415bd77a5691be11aa9b46826f01caa4/index.m3u8",
+    url: "#",
     poster: ""
   },
   "S2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "F1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139379_ENGLISH",
+    url: "#",
     poster: ""
   },
 };
