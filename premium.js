@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "BP1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://45d4f5xxx.win/strimcdn/lp/tv/beinsports2id/hls/index.m3u8?jwt=MTQ5LjIyLjg4LjIxfDE3NzM3NDY2NjR8L3N0cmltY2RuL2xwL3R2L2JlaW5zcG9ydHMyaWQvaGxzL2luZGV4Lm0zdTh8WmsyRldWeU9GMk9xcXNBRWFkWnBLOWRzdXJJaGZqV1Rxd3VuaXpCMnRidw",
+  "F1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/manu.m3u8",
     poster: "#"
   },
   "L1": {
