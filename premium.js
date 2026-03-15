@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "F1": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/0c886a7e6ce4404f22031483f46610d7/index.m3u8",
+    url: "",
     poster: "#"
   },
   "L1": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: "#"
   },
   "MLS": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/3b928943700976e48036d07d7c898d7b/index.m3u8",
+    url: "",
     poster: ""
   },
 };
