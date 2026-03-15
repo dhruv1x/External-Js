@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "F1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/manu.m3u8",
+    url: "https://lchdm3u8player.rf.gd?dtv=https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/liverpool.m3u8",
     poster: "#"
   },
   "L1": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "F2": {
-    url: "https://grand-s-main.faggotsports.tv/out/v2/fbbcf77efd621f0e2b13f3c145ab08a5/index.m3u8",
+    url: "https://onebot3c.s3.us-east-1.amazonaws.com/liverpool.m3u8",
     poster: ""
   },
 };
