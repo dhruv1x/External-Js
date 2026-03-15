@@ -84,8 +84,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unikhsgyrbover3/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
-  "F": {
-    url: "#",
+  "F2": {
+    url: "https://grand-s-main.faggotsports.tv/out/v2/fbbcf77efd621f0e2b13f3c145ab08a5/index.m3u8",
     poster: ""
   },
 };
