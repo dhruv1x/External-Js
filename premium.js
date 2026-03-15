@@ -16,24 +16,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-    "PL1": {
+  "PL1": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-    poster: ""
-  },
-  "H1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_HINDI",
-    poster: ""
-  },
-  "E1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_ENGLISH",
-    poster: ""
-  },
-  "M1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_MALAYALAM",
-    poster: ""
-  },
-  "B1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_BENGALI",
     poster: ""
   },
   "PL2": {
@@ -50,6 +34,22 @@ const streamMap = {
   },
   "PL5": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
+    poster: ""
+  },
+  "H1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_HINDI",
+    poster: ""
+  },
+  "E1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_ENGLISH",
+    poster: ""
+  },
+  "M1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_MALAYALAM",
+    poster: ""
+  },
+  "B1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140463_BENGALI",
     poster: ""
   },
   "L2": {
