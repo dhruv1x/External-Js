@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "F1": {
-    url: "",
+  "F2": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139379_HINDI",
     poster: "#"
   },
   "L1": {
@@ -52,8 +52,8 @@ const streamMap = {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
     poster: ""
   },
-  "U3": {
-    url: "https://huge-terabyte.s3.us-east-1.amazonaws.com/bayern.m3u8",
+  "SF1": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://d1toog0tywcaoy.cloudfront.net/default/1/default.default",
     poster: ""
   },
   "EH1": {
@@ -76,8 +76,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://storage.googleapis.com/unikhsgyrbover3/mux_video_ts1/index-1.m3u8",
     poster: "#"
   },
-  "MLS": {
-    url: "",
+  "F2": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=139379_ENGLISH",
     poster: ""
   },
 };
