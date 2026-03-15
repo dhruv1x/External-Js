@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131106_ENGLISH",
     poster: ""
   },
-  "ATV": {
-    url: "#",
+  "L3": {
+    url: "https://onebot3c.s3.us-east-1.amazonaws.com/barcelona.m3u8",
     poster: ""
   },
   "S2": {
