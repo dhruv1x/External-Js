@@ -29,11 +29,19 @@ const streamMap = {
     poster: ""
   },
   "PL4": {
-    url: "https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8",
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8",
     poster: ""
   },
   "PL5": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8",
+    poster: ""
+  },
+  "PL6": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
+    poster: ""
+  },
+  "PL7": {
+    url: "https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8",
     poster: ""
   },
   "H1": {
