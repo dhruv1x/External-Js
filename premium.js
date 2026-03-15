@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "MH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140464_MALAYALAM",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstreamsbycxf.xojiv79335.workers.dev/?id=140464_MALAYALAM",
     poster: ""
   },
   "BH1": {
