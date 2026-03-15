@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "L1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/madrid.m3u8",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131106_ENGLISH",
     poster: ""
   },
   "ATV": {
@@ -52,8 +52,8 @@ const streamMap = {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
     poster: ""
   },
-  "SF1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://d1toog0tywcaoy.cloudfront.net/default/1/default.default",
+  "L2": {
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131106_HINDI",
     poster: ""
   },
   "EH1": {
