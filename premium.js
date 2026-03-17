@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "F1": {
-    url: "https://lchdm3u8player.rf.gd?dtv=https://allinonereborn.store/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/liverpool.m3u8",
+  "U1": {
+    url: "https://onebot3c.s3.us-east-1.amazonaws.com/btsport3.m3u8",
     poster: "#"
   },
   "L1": {
