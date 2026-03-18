@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "V1": {
-    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/main.m3u8",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/erturugklutop1/mux_video_ts1/index-1.m3u8",
     poster: ""
   },
 };
