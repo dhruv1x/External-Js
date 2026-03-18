@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "V1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://storage.googleapis.com/erturugklutop1/mux_video_ts1/index-1.m3u8",
+    url: "https://wnt-geting-002.transmisjana.digital/d133fbcf3c714f38aa1b520002324267.m3u8",
     poster: ""
   },
 };
