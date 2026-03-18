@@ -1,15 +1,15 @@
 // streams.js
 const streamMap = {
   "U1": {
-    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/main.m3u8",
+    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/bayern.m3u8",
     poster: "#"
   },
   "U2": {
-    url: "https://onebot3c.s3.us-east-1.amazonaws.com/btsport2.m3u8",
+    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/liverpool.m3u8",
     poster: ""
   },
   "U3": {
-    url: "https://onebot3c.s3.us-east-1.amazonaws.com/btsport.m3u8",
+    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/spurs.m3u8",
     poster: ""
   },
   "S2": {
