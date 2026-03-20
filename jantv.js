@@ -40,6 +40,14 @@ window.STREAM_DATA = {
         keyId: 'cee8550bf50b569d8ad2ed0c5264f0d2',
         key: '565a95f1c332c03534e1e5fcc1ff9a8b'
       }
+    },
+    'SS1': {
+      name: 'Telegram-cricXfootball 5',
+      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd',
+      clearKey: {
+        keyId: 'c2c048e439d65316beeda6ef64d5d0f8',
+        key: 'e2fdc132cbdee65501b845ce414fce39'
+      }
     }
 
   }
