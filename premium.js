@@ -45,11 +45,11 @@ const streamMap = {
     poster: ""
   },
   "H1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140465_HINDI",
+    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141373_HINDI",
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140465_ENGLISH",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141373_ENGLISH",
     poster: ""
   },
   "M1": {
