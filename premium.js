@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "U1": {
-    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/bayern.m3u8",
+    url: "https://live5.msrktz.app/live/41943555.m3u8",
     poster: "#"
   },
   "U2": {
