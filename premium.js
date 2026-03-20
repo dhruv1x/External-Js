@@ -45,19 +45,19 @@ const streamMap = {
     poster: ""
   },
   "H1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141373_HINDI",
+    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_HINDI",
     poster: ""
   },
   "E1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141373_ENGLISH",
+    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_ENGLISH",
     poster: ""
   },
   "M1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140465_MALAYALAM",
+    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_MALAYALAM",
     poster: ""
   },
   "B1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140465_BENGALI",
+    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_BENGALI",
     poster: ""
   },
   "L2": {
