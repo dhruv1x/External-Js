@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "B1": {
-    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_BENGALI",
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_BENGALI",
     poster: ""
   },
   "L2": {
