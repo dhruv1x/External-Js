@@ -60,8 +60,8 @@ const streamMap = {
     url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_BENGALI",
     poster: ""
   },
-  "L2": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=131106_HINDI",
+  "L1": {
+    url: "https://allinonereborn.online/fcww/live222.php?url=https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
     poster: ""
   },
   "EH1": {
