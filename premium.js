@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+    url: "https://live5.msrktz.app/live/75748097.m3u8",
     poster: ""
   },
   "EH1": {
