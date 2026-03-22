@@ -9,7 +9,7 @@ const streamMap = {
     poster: ""
   },
   "EFL": {
-    url: "https://s3.us-east-1.amazonaws.com/e.patsay.offece/usa.m3u8",
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
   "S2": {
