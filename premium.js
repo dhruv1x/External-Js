@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://wnt-vanie-36.transmisjana.digital/76a114607cf74854a804811ba8dd65a3.m3u8",
     poster: "#"
   },
-  "U2": {
-    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/liverpool.m3u8",
+  "EFL": {
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
   "U3": {
