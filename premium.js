@@ -4,11 +4,11 @@ const streamMap = {
     url: "https://wnt-vanie-36.transmisjana.digital/76a114607cf74854a804811ba8dd65a3.m3u8",
     poster: "#"
   },
-  "EFL": {
+  "EFL2": {
     url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
-  "EFL2": {
+  "EFL": {
     url: "https://s3.us-east-1.amazonaws.com/e.patsay.offece/usa.m3u8",
     poster: ""
   },
