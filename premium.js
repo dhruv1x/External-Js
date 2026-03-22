@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "L2": {
-    url: "https://wnt-vanie-36.transmisjana.digital/76a114607cf74854a804811ba8dd65a3.m3u8",
+  "MLS": {
+    url: "https://live5.msrktz.app/live/14830711.m3u8",
     poster: "#"
   },
   "EFL2": {
