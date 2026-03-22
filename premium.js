@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
-  "U3": {
-    url: "https://kipperltvs.s3.us-east-1.amazonaws.com/spurs.m3u8",
+  "EFL2": {
+    url: "https://s3.us-east-1.amazonaws.com/e.patsay.offece/usa.m3u8",
     poster: ""
   },
   "S2": {
