@@ -7,7 +7,7 @@ const streams = {
   "U7": "https://matchify.zip/home/blog8/",
   "U8": "https://viewembed.ru/channel/SupersportNews%5BSouthAfrica%5D",
   "S1": "https://areagame.net/home/blog2/",
-  "L1": "#",
+  "L1": "https://24start.net/homes/blog3/",
   "F1": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
   "UFC": "https://gametimes.top/mma/blog/",
   "B1": "https://gametimes.top/home/blog3/",
