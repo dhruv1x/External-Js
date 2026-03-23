@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "MLS": {
-    url: "https://live5.msrktz.app/live/14830711.m3u8",
+  "U1": {
+    url: "https://live5.msrktz.app/live/87547578.m3u8",
     poster: "#"
   },
   "EFL2": {
