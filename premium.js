@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "U1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/fancode-1.m3u8",
+    url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: "#"
   },
   "EFL2": {
