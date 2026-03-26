@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "U1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/sky-sport-2-nz.m3u8",
+    url: "#",
     poster: "#"
   },
   "EFL2": {
