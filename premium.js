@@ -4,11 +4,11 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: "#"
   },
-  "F2": {
+  "F1": {
     url: "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
     poster: ""
   },
-  "F1": {
+  "F2": {
     url: "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
     poster: ""
   },
