@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
-  "U1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-b5dde3373a.m3u8",
+  "PSL": {
+    url: "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
     poster: "#"
   },
   "F1": {
