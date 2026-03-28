@@ -80,12 +80,12 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140464_HINDI",
     poster: ""
   },
-  "S1": {
+  "1": {
     url: "https://allinonereborn.online/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/mancity.m3u8",
     poster: "#"
   },
-  "V1": {
-    url: "https://wnt-geting-002.transmisjana.digital/d133fbcf3c714f38aa1b520002324267.m3u8",
+  "S1": {
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-ecae6a2458e3.m3u8",
     poster: ""
   },
 };
