@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://onebot3c.s3.us-east-1.amazonaws.com/mancity.m3u8",
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-9286b0bb2e82.m3u8",
     poster: "#"
   },
   "S1": {
