@@ -2,7 +2,7 @@
 
 window.STREAM_DATA = {
 
-  COOKIE: "__hdnea__=st=1774639801~exp=1774661401~acl=/*~hmac=35050094d6dda849c7349b5e7971de8c35396aea8c2d621ecc3de11c771f6bfe",
+  COOKIE: "__hdnea__=st=1774677628~exp=1774764028~acl=/*~hmac=c91d2d5036784738098bc23e2ac5fa216f66f7397a7c604c1552a7fe2957588c",
 
   sonyLivSports: {
 
@@ -41,12 +41,12 @@ window.STREAM_DATA = {
         key: '565a95f1c332c03534e1e5fcc1ff9a8b'
       }
     },
-    'SS1': {
+    'H1': {
       name: 'Telegram-cricXfootball 5',
-      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd',
+      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd',
       clearKey: {
-        keyId: 'c2c048e439d65316beeda6ef64d5d0f8',
-        key: 'e2fdc132cbdee65501b845ce414fce39'
+        keyId: '400131994b445d8c8817202248760fda',
+        key: '2d56cb6f07a75b9aff165d534ae2bfc4'
       }
     }
 
