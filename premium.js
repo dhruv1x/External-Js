@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "F1": {
-    url: "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+    url: "https://vanaline23.juno-api-noe.icu/ev-65bd29ae3ae3/index.m3u8",
     poster: ""
   },
   "S3": {
