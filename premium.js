@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
     poster: ""
   },
-  "F2": {
-    url: "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
+  "S3": {
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-65bd29ae3ae3.m3u8",
     poster: ""
   },
   "S2": {
