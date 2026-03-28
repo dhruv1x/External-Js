@@ -48,6 +48,14 @@ window.STREAM_DATA = {
         keyId: '400131994b445d8c8817202248760fda',
         key: '2d56cb6f07a75b9aff165d534ae2bfc4'
       }
+    },
+    'T1': {
+      name: 'Telegram-cricXfootball 5',
+      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd',
+      clearKey: {
+        keyId: '49e84b9edfd85379b90c81b7d2d3d2bf',
+        key: '19c82d3ff094fa06af95820a1572ecb5'
+      }
     }
 
   }
