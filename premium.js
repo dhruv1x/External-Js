@@ -5,11 +5,11 @@ const streamMap = {
     poster: "#"
   },
   "F1": {
-    url: "https://vanaline23.juno-api-noe.icu/ev-65bd29ae3ae3/index.m3u8",
+    url: "",
     poster: ""
   },
   "S3": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-65bd29ae3ae3.m3u8",
+    url: "",
     poster: ""
   },
   "S2": {
@@ -81,11 +81,11 @@ const streamMap = {
     poster: ""
   },
   "1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-9286b0bb2e82.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-ecae6a2458e3.m3u8",
+    url: "",
     poster: ""
   },
 };
