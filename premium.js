@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "F1": {
-    url: "",
+    url: "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
     poster: ""
   },
   "S3": {
