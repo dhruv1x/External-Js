@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
     poster: "#"
   },
-  "F1": {
-    url: "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+  "S3": {
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-ipltata.m3u8",
     poster: ""
   },
   "ATV": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-willow.m3u8",
     poster: ""
   },
 };
