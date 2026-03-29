@@ -8,8 +8,8 @@ const streamMap = {
     url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-ipltata.m3u8",
     poster: ""
   },
-  "ATV": {
-    url: "",
+  "PSL2": {
+    url: "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
     poster: ""
   },
   "S2": {
