@@ -9,7 +9,7 @@ const streamMap = {
     poster: ""
   },
   "ATV": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/f1-japan-gp.m3u8",
+    url: "",
     poster: ""
   },
   "S2": {
