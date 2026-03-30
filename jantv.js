@@ -2,7 +2,7 @@
 
 window.STREAM_DATA = {
 
-  COOKIE: "__hdnea__=st=1774780805~exp=1774867205~acl=/*~hmac=4c630305ba61247960841e673b817c56adbaf5b2b154e8711aa44d4b43a79a60",
+  COOKIE: "__hdnea__=st=1774866416~exp=1774952816~acl=/*~hmac=965e1a550b5e18fb744cd0de1d8ff04404b14c26c3a9457f82baa3fc37a5d3fe",
 
   sonyLivSports: {
 
