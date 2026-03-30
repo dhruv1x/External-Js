@@ -7,5 +7,5 @@ const DOMAIN_CONFIG = {
 };
 
 const TELEGRAM_CONFIG = {
-    popupChannel: "https://t.me/+WOHjeld4UV9lYWJl"
+    popupChannel: "https://t.me/+L7agYSmJVRNkZDFl"
 };
