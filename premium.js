@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-fs501.m3u8",
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-ipltata.m3u8",
     poster: ""
   },
 };
