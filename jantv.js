@@ -6,12 +6,12 @@ window.STREAM_DATA = {
 
   sonyLivSports: {
 
-    'SN1': {
+    'E1': {
       name: 'Telegram-cricXfootball 1',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd',
+      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd',
       clearKey: {
-        keyId: '4e4c5dba5bfe5a7c9338bc086eb80379',
-        key: 'b8e8932f440084e1d2b705fa52eef94b'
+        keyId: '965dc2ddb1d85138ad787999a7f30ca5',
+        key: '859695076e67fe961836b564db6d689c'
       }
     },
 
