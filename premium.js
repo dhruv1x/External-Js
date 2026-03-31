@@ -80,8 +80,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140464_HINDI",
     poster: ""
   },
-  "1": {
-    url: "",
+  "U1": {
+    url: "https://live5.msrktz.app/live/14707124.m3u8",
     poster: "#"
   },
   "S1": {
