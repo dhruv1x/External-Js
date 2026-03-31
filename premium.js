@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
     poster: "#"
   },
-  "S3": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-ipltata.m3u8",
+  "F1": {
+    url: "https://live5.msrktz.app/live/87547578.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -72,20 +72,20 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://islstreamsbycxf.xojiv79335.workers.dev/?id=140464_MALAYALAM",
     poster: ""
   },
-  "BH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140464_BENGALI",
+  "U2": {
+    url: "https://live5.msrktz.app/live/78905744.m3u8",
     poster: ""
   },
-  "HH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140464_HINDI",
+  "U3": {
+    url: "https://live5.msrktz.app/live/90865415.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://live5.msrktz.app/live/14707124.m3u8",
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: "#"
   },
-  "S1": {
-    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-fs501.m3u8",
+  "F2": {
+    url: "https://live5.msrktz.app/live/33982309.m3u8",
     poster: ""
   },
 };
