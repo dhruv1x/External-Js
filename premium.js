@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=487edbab24932b12f0ab04fa8fc1d3da&exp=1774972444",
     poster: ""
   },
 };
