@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-ipltata.m3u8",
     poster: ""
   },
   "PSL2": {
