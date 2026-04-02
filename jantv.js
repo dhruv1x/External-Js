@@ -8,7 +8,7 @@ window.STREAM_DATA = {
 
     'E1': {
       name: 'Telegram-cricXfootball 1',
-      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd',
+      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd',
       clearKey: {
         keyId: '965dc2ddb1d85138ad787999a7f30ca5',
         key: '859695076e67fe961836b564db6d689c'
@@ -43,7 +43,7 @@ window.STREAM_DATA = {
     },
     'H1': {
       name: 'Telegram-cricXfootball 5',
-      streamUrl: 'https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd',
+      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd',
       clearKey: {
         keyId: '400131994b445d8c8817202248760fda',
         key: '2d56cb6f07a75b9aff165d534ae2bfc4'
