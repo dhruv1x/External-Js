@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live5.msrktz.app/live/97312754.m3u8",
+    url: "https://ru-001.local-honduras-center.sbs/out/v1/342155f79aa4ee568c14c75df52dbc90/master.m3u8",
     poster: "#"
   },
   "S1": {
