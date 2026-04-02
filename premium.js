@@ -84,8 +84,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: "#"
   },
-  "F2": {
-    url: "https://live5.msrktz.app/live/33982309.m3u8",
+  "S1": {
+    url: "https://hls.ratanliton2.workers.dev/?url=http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
     poster: ""
   },
 };
