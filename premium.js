@@ -72,8 +72,8 @@ const streamMap = {
     url: "https://allinonereborn.store/fcww/live222.php?url=https://islstreamsbycxf.xojiv79335.workers.dev/?id=140464_MALAYALAM",
     poster: ""
   },
-  "U2": {
-    url: "https://live5.msrktz.app/live/78905744.m3u8",
+  "L1": {
+    url: "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
     poster: ""
   },
   "FA1": {
