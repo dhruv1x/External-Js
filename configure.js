@@ -1,6 +1,6 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
-        "https://kfv4hnk.live.codepad.app/",
+        "lchdtv.pages.dev",
         "extrraw.pages.dev"
     ]
 };
