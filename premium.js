@@ -64,12 +64,12 @@ const streamMap = {
     url: "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
     poster: ""
   },
-  "EH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140464_ENGLISH",
+  "ATV": {
+    url: "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-mls.m3u8",
     poster: ""
   },
-  "MH1": {
-    url: "https://allinonereborn.store/fcww/live222.php?url=https://islstreamsbycxf.xojiv79335.workers.dev/?id=140464_MALAYALAM",
+  "L2": {
+    url: "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-laliga.m3u8",
     poster: ""
   },
   "L1": {
