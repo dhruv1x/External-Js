@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8",
+    url: "",
     poster: ""
   },
 };
