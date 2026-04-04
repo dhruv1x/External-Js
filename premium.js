@@ -76,8 +76,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/78905744.m3u8",
     poster: ""
   },
-  "U3": {
-    url: "https://live5.msrktz.app/live/90865415.m3u8",
+  "FA1": {
+    url: "https://darmasaki888.s3.us-east-1.amazonaws.com/hornets.m3u8",
     poster: ""
   },
   "FA": {
