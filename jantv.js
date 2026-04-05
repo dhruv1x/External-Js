@@ -15,12 +15,12 @@ window.STREAM_DATA = {
       }
     },
 
-    'SN2': {
+    'H2': {
       name: 'Telegram-cricXfootball 2',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd',
+      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/output/index.mpd',
       clearKey: {
-        keyId: 'ef24516ae38b50d18049343cd1cd998a',
-        key: 'eb4810ec250a1795a0019dba7881ff45'
+        keyId: 'bd1ea6a1c1fb5dcdb709434e0826bbc0',
+        key: 'f57f22cba32739ce7beb1fab3f3d060b'
       }
     },
 
