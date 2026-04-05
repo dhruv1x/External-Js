@@ -65,11 +65,11 @@ const streamMap = {
     poster: ""
   },
   "ATV": {
-    url: "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-mls.m3u8",
+    url: "",
     poster: ""
   },
   "L2": {
-    url: "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-laliga.m3u8",
+    url: "",
     poster: ""
   },
   "L1": {
