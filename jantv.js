@@ -28,8 +28,8 @@ window.STREAM_DATA = {
       name: 'Telegram-cricXfootball 3',
       streamUrl: 'https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd',
       clearKey: {
-        keyId: 'e620a970cea474c491ac78ae71a4d764',
-        key: '9457eb90129456fa8ea95e10ba4ac51e'
+        keyId: '9457eb90129456fa8ea95e10ba4ac51e',
+        key: 'e620a970cea474c491ac78ae71a4d764'
       }
     },
 
