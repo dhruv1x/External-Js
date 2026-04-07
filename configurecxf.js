@@ -1,7 +1,7 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
         "cxfoot.pages.dev",
-        "extrrav.pages.dev",
+        "exttrav.pages.dev",
         "eextrav.pages.dev"
     ]
 };
