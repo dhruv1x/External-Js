@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U1": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl2.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl3.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
