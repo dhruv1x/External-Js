@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
     poster: "#"
   },
-  "S3": {
-    url: "",
+  "U1": {
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl2.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -76,12 +76,12 @@ const streamMap = {
     url: "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
     poster: ""
   },
-  "FA1": {
-    url: "https://darmasaki888.s3.us-east-1.amazonaws.com/hornets.m3u8",
+  "U3": {
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl3.m3u8",
     poster: ""
   },
-  "FA": {
-    url: "https://live5.msrktz.app/live/97312754.m3u8",
+  "U2": {
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl.m3u8",
     poster: "#"
   },
   "S1": {
