@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U1": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-uel.m3u8",
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -77,15 +77,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "",
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl3.m3u8",
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl2.m3u8",
     poster: "#"
   },
   "S1": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-fs501.m3u8",
+    url: "",
     poster: ""
   },
 };
