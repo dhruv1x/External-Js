@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-fs501.m3u8",
     poster: ""
   },
 };
