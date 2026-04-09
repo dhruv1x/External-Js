@@ -1,7 +1,8 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
         "eextraw.pages.dev",
-        "eeextraw.pages.dev"
+        "eeextraw.pages.dev",
+        "lchdtv.pages.dev"
     ]
 };
 
