@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ipl-english.m3u8",
+    url: "",
     poster: ""
   },
 };
