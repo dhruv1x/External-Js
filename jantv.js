@@ -2,7 +2,7 @@
 
 window.STREAM_DATA = {
 
-  COOKIE: "__hdnea__=st=1775910617~exp=1775932217~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=bf7d170f99bb5a99c7233be0ca53e68286930",
+  COOKIE: "__hdnea__=st=1775910617~exp=1775932217~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=bf7d170f99bb5a99c7233be0ca53e68286930d8",
 
   sonyLivSports: {
 
