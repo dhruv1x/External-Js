@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-laliga.m3u8",
     poster: ""
   },
   "U3": {
