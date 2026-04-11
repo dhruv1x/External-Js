@@ -80,8 +80,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "U2": {
-    url: "",
+  "U1": {
+    url: "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-isl.m3u8",
     poster: "#"
   },
   "S1": {
