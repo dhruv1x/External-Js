@@ -43,7 +43,7 @@ window.STREAM_DATA = {
     },
     'H1': {
       name: 'Telegram-cricXfootball 5',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd',
+      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1775910617~exp=1775932217~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=bf7d170f99bb5a99c7233be0ca53e682869307077b2df148c382d1df9b6a30d8',
       clearKey: {
         keyId: '400131994b445d8c8817202248760fda',
         key: '2d56cb6f07a75b9aff165d534ae2bfc4'
