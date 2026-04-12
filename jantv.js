@@ -2,7 +2,7 @@
 
 window.STREAM_DATA = {
 
-  COOKIE: "__hdnea__=st=1775910617~exp=1775932217~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=bf7d170f99bb5a99c7233be0ca53e682869307077b2df148c382d1df9b6a30d8",
+  COOKIE: "__hdnea__=st=1775982753~exp=1776004353~acl=/bpk-tv/StarSportsHD2Hin_BTS/output/*~hmac=16d37e55235cce2780522a19ae5f4ef95bc0737a9127309f75d7d19c7cc4ac46",
 
   sonyLivSports: {
 
@@ -17,7 +17,7 @@ window.STREAM_DATA = {
 
     'H2': {
       name: 'Telegram-cricXfootball 2',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/output/index.mpd',
+      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/output/index.mpd?__hdnea__=st=1775982753~exp=1776004353~acl=/bpk-tv/StarSportsHD2Hin_BTS/output/*~hmac=16d37e55235cce2780522a19ae5f4ef95bc0737a9127309f75d7d19c7cc4ac46',
       clearKey: {
         keyId: 'bd1ea6a1c1fb5dcdb709434e0826bbc0',
         key: 'f57f22cba32739ce7beb1fab3f3d060b'
