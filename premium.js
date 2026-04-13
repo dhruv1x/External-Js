@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/lchd-ipl-english.m3u8",
+    url: "https://ru-146.cdn-udn.shop/v2/lchd-ipl-starhindi.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://ru-146.cdn-udn.shop/v2/lchd-ipl-star.m3u8",
     poster: ""
   },
 };
