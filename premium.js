@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
     poster: "#"
   },
-  "S3": {
-    url: "https://ru-146.cdn-udn.shop/v2/lchd-ipl-star.m3u8",
+  "U2": {
+    url: "https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "",
+    url: "https://s3.us-east-1.amazonaws.com/emre.gundap/mma.m3u8",
     poster: "#"
   },
   "S1": {
