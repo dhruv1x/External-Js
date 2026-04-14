@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U2": {
-    url: "https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8",
+    url: "https://ru-146.cdn-udn.shop/v2/lchd-ucl-2.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "",
+    url: "https://ru-146.cdn-udn.shop/v2/lchd-ucl-3.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://s3.us-east-1.amazonaws.com/emre.gundap/mma.m3u8",
+    url: "https://ru-146.cdn-udn.shop/v2/lchd-ucl-1.m3u8",
     poster: "#"
   },
   "S1": {
