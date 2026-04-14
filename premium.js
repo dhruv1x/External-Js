@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://ru-146.cdn-udn.shop/v2/lchd-ipl-star.m3u8",
+    url: "https://vsd71.okcdn.ru/cmaf/14742254127871/sig/C9Nh2sSIyWU/expires/1776258143495/srcIp/152.58.191.125/urls/185.226.52.55/clientType/36/srcAg/CHROME/mid/13724704393215/get/hls_13724704393215.Z-lp79CXz54.m3u8",
     poster: ""
   },
 };
