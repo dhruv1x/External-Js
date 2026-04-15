@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://tflixcdn.site/SKY-SPORT-1-NZ/index.fmp4.m3u8",
+    url: "",
     poster: ""
   },
 };
