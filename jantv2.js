@@ -16,18 +16,18 @@ window.STREAMS = {
     cookie: "__hdnea__=st=1775982753~exp=1776004353~acl=/bpk-tv/StarSportsHD2Hin_BTS/output/*~hmac=16d37e55235cce2780522a19ae5f4ef95bc0737a9127309f75d7d19c7cc4ac46"
   },
 
-  E1: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1776160479~exp=1776182079~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=13cc0d463eefc1780ec4dcd2b528b47ec5db326dd83b1cfe332aac061ae574f4",
-    keyId: "965dc2ddb1d85138ad787999a7f30ca5",
-    key: "859695076e67fe961836b564db6d689c",
-    cookie: "__hdnea__=st=1776160479~exp=1776182079~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=13cc0d463eefc1780ec4dcd2b528b47ec5db326dd83b1cfe332aac061ae574f4"
-  },
-
   H1: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1776173936~exp=1776195536~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=aa6495c3257b69c997cfcb02e5e6054488968b305711e23ec15ae0af592770ee",
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1776258698~exp=1776280298~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=e4c51bcf04aeaff14002b87bf712099a5209b3c9721455fbe9f9481631ab0512",
     keyId: "400131994b445d8c8817202248760fda",
     key: "2d56cb6f07a75b9aff165d534ae2bfc4",
-    cookie: "__hdnea__=st=1776173936~exp=1776195536~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=aa6495c3257b69c997cfcb02e5e6054488968b305711e23ec15ae0af592770ee"
+    cookie: "__hdnea__=st=1776258698~exp=1776280298~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=e4c51bcf04aeaff14002b87bf712099a5209b3c9721455fbe9f9481631ab0512"
+  },
+
+  E1: {
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1776258698~exp=1776280298~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=47c31d1c2936daeb4038dcb6d1aa29d3f37ec56694983af649ac664a0d9195b9",
+    keyId: "965dc2ddb1d85138ad787999a7f30ca5",
+    key: "859695076e67fe961836b564db6d689c",
+    cookie: "__hdnea__=st=1776258698~exp=1776280298~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=47c31d1c2936daeb4038dcb6d1aa29d3f37ec56694983af649ac664a0d9195b9"
   }
 
 };
