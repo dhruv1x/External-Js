@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U2": {
-    url: "https://oshanrd4.s3.us-east-1.amazonaws.com/arsenal.m3u8",
+    url: "https://3syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8",
     poster: ""
   },
   "PSL2": {
