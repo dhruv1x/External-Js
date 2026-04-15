@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U2": {
-    url: "https://3syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8",
+    url: "https://live5.msrktz.app/live/78905744.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://daffodil.underupturnip.net/tudn.m3u8",
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: "#"
   },
   "S1": {
