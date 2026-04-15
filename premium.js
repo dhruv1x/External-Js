@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "",
+    url: "https://daffodil.underupturnip.net/tudn.m3u8",
     poster: "#"
   },
   "S1": {
