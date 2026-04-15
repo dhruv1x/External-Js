@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U2": {
-    url: "https://ru-146.cdn-udn.shop/v2/lchd-ucl-2.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -77,15 +77,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://ru-146.cdn-udn.shop/v2/lchd-ucl-3.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
-    url: "https://ru-146.cdn-udn.shop/v2/lchd-ucl-1.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
-    url: "https://vsd71.okcdn.ru/cmaf/14742254127871/sig/C9Nh2sSIyWU/expires/1776258143495/srcIp/152.58.191.125/urls/185.226.52.55/clientType/36/srcAg/CHROME/mid/13724704393215/get/hls_13724704393215.Z-lp79CXz54.m3u8",
+    url: "",
     poster: ""
   },
 };
