@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U2": {
-    url: "https://live5.msrktz.app/live/78905744.m3u8",
+    url: "https://live5.msrktz.app/live/14830711.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "",
+    url: "https://live5.msrktz.app/live/43612277.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://live5.msrktz.app/live/97312754.m3u8",
+    url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: "#"
   },
   "S1": {
