@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://vsd259.okcdn.ru/cmaf/14933960362751/sig/gDqDyCsRxeM/expires/1776432902859/srcIp/47.31.79.170/urls/185.226.55.87/clientType/36/srcAg/CHROME/mid/13823492114431/get/hls_13823492114431.OvHE3ixvHFw.m3u8",
     poster: ""
   },
 };
