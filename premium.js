@@ -4,7 +4,7 @@ const streamMap = {
     url: "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
     poster: "#"
   },
-  "U2": {
+  "S3": {
     url: "https://lchd-314.zenostreams-cdn-001.com/willowhindi.m3u8",
     poster: ""
   },
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://vsd161.okcdn.ru/cmaf/15184860941055/sig/RsMsS-oUvoo/expires/1776677513173/srcIp/152.59.147.99/urls/185.226.52.86/clientType/36/srcAg/CHROME/mid/13953620854783/get/hls_13953620854783.sVzMBN80hGo.m3u8",
+    url: "https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8",
     poster: ""
   },
 };
