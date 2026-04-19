@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://vsd233.okcdn.ru/cmaf/15099590085375/sig/8qcBlQYA0Ak/expires/1776590764841/srcIp/152.58.159.241/urls/185.226.55.70/clientType/36/srcAg/CHROME/mid/13909091895295/get/hls_13909091895295.tu-BEHp8Bko.m3u8",
+    url: "https://vsd161.okcdn.ru/cmaf/15184860941055/sig/RsMsS-oUvoo/expires/1776677513173/srcIp/152.59.147.99/urls/185.226.52.86/clientType/36/srcAg/CHROME/mid/13953620854783/get/hls_13953620854783.sVzMBN80hGo.m3u8",
     poster: ""
   },
 };
