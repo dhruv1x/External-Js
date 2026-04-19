@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "U2": {
-    url: "https://live5.msrktz.app/live/14830711.m3u8",
+    url: "https://lchd-314.zenostreams-cdn-001.com/willowhindi.m3u8",
     poster: ""
   },
   "PSL2": {
