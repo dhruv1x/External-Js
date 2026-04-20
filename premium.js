@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "WWE": {
-    url: "https://lchd-314.zenostreams-cdn-001.com/wwe.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
