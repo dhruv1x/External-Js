@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8",
+    url: "https://lchd-314.zenostreams-cdn-001.com/willowhindi.m3u8",
     poster: ""
   },
 };
