@@ -80,8 +80,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/43612277.m3u8",
     poster: ""
   },
-  "WWE": {
-    url: "",
+  "LG1": {
+    url: "https://live5.msrktz.app/live/14830711.m3u8",
     poster: "#"
   },
   "S1": {
