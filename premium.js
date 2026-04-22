@@ -68,16 +68,16 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "L2": {
-    url: "",
-    poster: ""
-  },
   "L1": {
-    url: "",
+    url: "https://live5.msrktz.app/live/78905744.m3u8",
     poster: ""
   },
-  "U3": {
+  "DFB": {
     url: "https://live5.msrktz.app/live/43612277.m3u8",
+    poster: ""
+  },
+  "L2": {
+    url: "https://live5.msrktz.app/live/08552895.m3u8",
     poster: ""
   },
   "LG1": {
