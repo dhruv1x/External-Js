@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "ATV": {
-    url: "",
+    url: "https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8",
     poster: ""
   },
   "L1": {
