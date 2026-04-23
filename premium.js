@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "ISL": {
-    url: "https://heinz-mai.ianz-soon.shop/isl.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
