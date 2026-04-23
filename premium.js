@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://heinz-mai.ianz-soon.shop/starhindi.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://vsd273.okcdn.ru/cmaf/15486383098623/sig/12CtEuwN3v8/expires/1776947340856/srcIp/152.59.145.24/urls/185.226.55.89/clientType/36/srcAg/CHROME/mid/14109681141759/get/hls_14109681141759.wzcVJYGf6DI.m3u8",
+    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
     poster: ""
   },
 };
