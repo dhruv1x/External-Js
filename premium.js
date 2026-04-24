@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://vsd235.okcdn.ru/cmaf/15686321769215/sig/BSflnbmrYvo/expires/1777123969972/srcIp/152.59.144.73/urls/185.226.52.86/clientType/36/srcAg/CHROME/mid/14212914431999/get/hls_14212914431999.RqpQ32HgSmg.m3u8",
+    url: "https://cdn.damitv.live/ppv-extract/proxy?url=https%3A%2F%2Fnetanyahu.modifiles.fans%2Fsecure%2FmdUekpnABqUFaIFbRLvVhICwiMkUCTVZ%2F1777028400%2F1777060800%2Fipl%2Ftracks-v1a1%2Fmono.ts.m3u8",
     poster: ""
   },
 };
