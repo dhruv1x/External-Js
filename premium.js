@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://cdn.damitv.live/ppv-extract/proxy?url=https%3A%2F%2Fnetanyahu.modifiles.fans%2Fsecure%2FmdUekpnABqUFaIFbRLvVhICwiMkUCTVZ%2F1777028400%2F1777060800%2Fipl%2Ftracks-v1a1%2Fmono.ts.m3u8",
+    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
     poster: ""
   },
 };
