@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://heinz-mai.ianz-soon.shop/laliga-tv.m3u8",
+    url: "",
     poster: ""
   },
   "DFB": {
