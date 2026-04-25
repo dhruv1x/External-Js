@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://live5.msrktz.app/live/78905744.m3u8",
+    url: "https://heinz-mai.ianz-soon.shop/laliga-tv.m3u8",
     poster: ""
   },
   "DFB": {
