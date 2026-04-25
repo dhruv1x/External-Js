@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://heinz-mai.ianz-soon.shop/starhindi.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://cdn.damitv.live/ppv-extract/play?url=https://pooembed.eu/embed/ipl/2026-04-25/rr-srh",
+    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
     poster: ""
   },
 };
