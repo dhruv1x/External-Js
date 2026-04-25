@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-delhi-capitals-vs-punjab-kings&streamNo=1",
+    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
     poster: ""
   },
 };
