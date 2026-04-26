@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://heinz-mai.ianz-soon.shop/starhindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "L2": {
-    url: "",
+    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
     poster: ""
   },
   "FA": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
+    url: "",
     poster: ""
   },
 };
