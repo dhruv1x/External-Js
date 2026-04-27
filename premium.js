@@ -80,8 +80,8 @@ const streamMap = {
     url: "https://heinz-mai.ianz-soon.shop/willow-1.m3u8",
     poster: ""
   },
-  "FA": {
-    url: "https://live5.msrktz.app/live/14830711.m3u8",
+  "SNY2": {
+    url: "https://heinz-mai.ianz-soon.shop/isl.m3u8",
     poster: "#"
   },
   "S1": {
