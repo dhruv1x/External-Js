@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "W1": {
-    url: "1https://heinz-mai.ianz-soon.shop/willow-1.m3u8",
+    url: "https://heinz-mai.ianz-soon.shop/willow-1.m3u8",
     poster: ""
   },
   "FA": {
