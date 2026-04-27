@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://heinz-mai.ianz-soon.shop/ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -76,16 +76,16 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/43612277.m3u8",
     poster: ""
   },
-  "W1": {
-    url: "https://heinz-mai.ianz-soon.shop/willow-1.m3u8",
+  "SA1": {
+    url: "https://heinz-mai.ianz-soon.shop/paramount-1.m3u8",
     poster: ""
   },
   "SNY2": {
-    url: "https://heinz-mai.ianz-soon.shop/isl.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
-    url: "https://heinz-mai.ianz-soon.shop/ipl-english.m3u8",
+    url: "",
     poster: ""
   },
 };
