@@ -76,8 +76,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/43612277.m3u8",
     poster: ""
   },
-  "L2": {
-    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
+  "W1": {
+    url: "1https://heinz-mai.ianz-soon.shop/willow-1.m3u8",
     poster: ""
   },
   "FA": {
