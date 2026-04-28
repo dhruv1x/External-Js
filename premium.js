@@ -72,8 +72,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "DFB": {
-    url: "https://live5.msrktz.app/live/43612277.m3u8",
+  "UCL": {
+    url: "https://heinz-mai.ianz-soon.shop/uefa.m3u8",
     poster: ""
   },
   "U2": {
