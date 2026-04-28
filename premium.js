@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
+    url: "https://vsd137.okcdn.ru/cmaf/16008084327167/sig/tn_3hRXIsHY/expires/1777469003530/srcIp/152.58.186.160/urls/45.136.22.90/clientType/36/srcAg/CHROME/mid/14380259821567/get/hls_14380259821567.6fbM-bOMbbA.m3u8",
     poster: ""
   },
 };
