@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://heinz-mai.ianz-soon.shop/willow-1.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "",
+    url: "https://heinz-mai.ianz-soon.shop/isl.m3u8",
     poster: "#"
   },
   "S1": {
