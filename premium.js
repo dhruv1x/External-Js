@@ -81,11 +81,11 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://heinz-mai.ianz-soon.shop/isl.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
-    url: "https://heinz-mai.ianz-soon.shop/ipl-english.m3u8",
+    url: "https://heinz-mai.ianz-soon.shop/fox501.m3u8",
     poster: ""
   },
 };
