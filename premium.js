@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "UCL": {
-    url: "https://heinz-mai.ianz-soon.shop/uefa.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
-    url: "https://heinz-mai.ianz-soon.shop/sony3.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
-    url: "https://heinz-mai.ianz-soon.shop/isl.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
