@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJleHAiOjE3Nzc0OTgyNDR9.CoInfHK6xB1Rz6ta3p1iaixuOhBfQW5G43l4Y61fBNk/uefa-1.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
