@@ -72,12 +72,12 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "UCL": {
-    url: "",
+  "S5": {
+    url: "https://hotcdn1.juns-iazan.shop/startamil.m3u8",
     poster: ""
   },
   "S4": {
-    url: "",
+    url: "https://hotcdn1.juns-iazan.shop/startelugu.m3u8",
     poster: ""
   },
   "U1": {
