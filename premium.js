@@ -64,8 +64,8 @@ const streamMap = {
     url: "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
     poster: ""
   },
-  "ATV": {
-    url: "",
+  "F1": {
+    url: "https://hotcdn1.juns-iazan.shop/f1.m3u8",
     poster: ""
   },
   "L1": {
