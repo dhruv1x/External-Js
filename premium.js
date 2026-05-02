@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://lovelybuckets.fra1.digitaloceanspaces.com/logo.m3u8",
+    url: "https://hotcdn1.juns-iazan.shop/f1.m3u8",
     poster: ""
   },
   "U1": {
