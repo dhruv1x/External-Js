@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "",
+    url: "https://hotcdn1.juns-iazan.shop/starhindi.m3u8",
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://hotcdn1.juns-iazan.shop/fox501.m3u8",
     poster: "#"
   },
   "S1": {
