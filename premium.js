@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+    url: "https://live5.msrktz.app/live/79665343.m3u8",
     poster: ""
   },
   "F1": {
@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://hotcdn1.juns-iazan.shop/sony-2.m3u8",
+    url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: ""
   },
   "S5": {
