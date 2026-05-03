@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://hotcdn1.juns-iazan.shop/starhindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "",
+    url: "https://hotcdn1.juns-iazan.shop/starhindi.m3u8",
     poster: ""
   },
   "U2": {
