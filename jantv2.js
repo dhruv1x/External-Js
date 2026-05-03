@@ -3,17 +3,17 @@
 window.STREAMS = {
 
   E2: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1776590540~exp=1776612140~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=35ec6d5b52359bc1c0f0b164e2c3f5eb1feac6f069cca07dbfb530bd62f89d73",
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1777795787~exp=1777817387~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=a9d76f0b88e517a8f7c035aa4c08808d0cbcf66d35cacb92c2de244da607d6ae",
     keyId: "9457eb90129456fa8ea95e10ba4ac51e",
     key: "e620a970cea474c491ac78ae71a4d764",
-    cookie: "__hdnea__=st=1776590540~exp=1776612140~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=35ec6d5b52359bc1c0f0b164e2c3f5eb1feac6f069cca07dbfb530bd62f89d73"
+    cookie: "__hdnea__=st=1777795787~exp=1777817387~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=a9d76f0b88e517a8f7c035aa4c08808d0cbcf66d35cacb92c2de244da607d6ae__hdnea__=st=1777795787~exp=1777817387~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=a9d76f0b88e517a8f7c035aa4c08808d0cbcf66d35cacb92c2de244da607d6ae"
   },
 
   H2: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1776590894~exp=1776612494~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=4d638127eae153b37531f161620925648d8ac05b92540f70e746d293910c526d",
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1777795787~exp=1777817387~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=588d4e04984fe51a387af59008192efc06d56a1c3ed5e38f69cd13a42f408698",
     keyId: "bd1ea6a1c1fb5dcdb709434e0826bbc0",
     key: "f57f22cba32739ce7beb1fab3f3d060b",
-    cookie: "__hdnea__=st=1776590894~exp=1776612494~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=4d638127eae153b37531f161620925648d8ac05b92540f70e746d293910c526d"
+    cookie: "__hdnea__=st=1777795787~exp=1777817387~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=588d4e04984fe51a387af59008192efc06d56a1c3ed5e38f69cd13a42f408698"
   },
 
   H1: {
