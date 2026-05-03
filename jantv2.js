@@ -17,17 +17,17 @@ window.STREAMS = {
   },
 
   H1: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1777729117~exp=1777750717~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=1764abf410c1e437f30e8d659535e3346c6e6c793f5a438da169931a67d46533",
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1777815603~exp=1777837203~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=a019653f0d0170eca9b371bcd2dacde9582da043ca8f25574ddecb2d3e05878c",
     keyId: "400131994b445d8c8817202248760fda",
     key: "2d56cb6f07a75b9aff165d534ae2bfc4",
-    cookie: "__hdnea__=st=1777729117~exp=1777750717~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=1764abf410c1e437f30e8d659535e3346c6e6c793f5a438da169931a67d46533"
+    cookie: "__hdnea__=st=1777815603~exp=1777837203~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=a019653f0d0170eca9b371bcd2dacde9582da043ca8f25574ddecb2d3e05878c"
   },
 
   E1: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1777729116~exp=1777750716~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=f41648a187e3889e31ad82cd82fe917fe600314dfd94aee52af0985f6498ac91",
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1777815603~exp=1777837203~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a81447d576ad4642cb96f0d889f102165e53bf3796d5170c594ed604069fccfb",
     keyId: "965dc2ddb1d85138ad787999a7f30ca5",
     key: "859695076e67fe961836b564db6d689c",
-    cookie: "__hdnea__=st=1777729116~exp=1777750716~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=f41648a187e3889e31ad82cd82fe917fe600314dfd94aee52af0985f6498ac91"
+    cookie: "__hdnea__=st=1777815603~exp=1777837203~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a81447d576ad4642cb96f0d889f102165e53bf3796d5170c594ed604069fccfb"
   }
 
 };
