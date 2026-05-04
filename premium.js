@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live5.msrktz.app/live/97312754.m3u8",
+    url: "https://bhghgh.gbgdhdffhf.shop/sony-2.m3u8",
     poster: ""
   },
   "S5": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://bhghgh.gbgdhdffhf.shop/fox501.m3u8",
     poster: ""
   },
 };
