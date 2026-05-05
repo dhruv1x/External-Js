@@ -73,11 +73,11 @@ const streamMap = {
     poster: ""
   },
   "S5": {
-    url: "",
+    url: "https://bhghgh.gbgdhdffhf.shop/paramount-1.m3u8",
     poster: ""
   },
   "S4": {
-    url: "",
+    url: "https://bhghgh.gbgdhdffhf.shop/uefa.m3u8",
     poster: ""
   },
   "U2": {
