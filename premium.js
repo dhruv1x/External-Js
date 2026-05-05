@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://bhghgh.gbgdhdffhf.shop/uefa-1.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
