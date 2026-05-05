@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8",
+    url: "https://bhghgh.gbgdhdffhf.shop/fox501.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://bhghgh.gbgdhdffhf.shop/willow-1.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://bhghgh.gbgdhdffhf.shop/fox501.m3u8",
+    url: "https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8",
     poster: ""
   },
 };
