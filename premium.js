@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://bhghgh.gbgdhdffhf.shop/fox501.m3u8",
+    url: "",
     poster: ""
   },
 };
