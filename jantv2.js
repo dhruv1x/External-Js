@@ -31,10 +31,10 @@ window.STREAMS = {
   },
 
   T1: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1778064340~exp=1778085940~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=b94f4012a205fc5030e38d927a9155bb61d5e882846f7194db514b3b49228da7",
-    keyId: "943923934de1d5536ab01c67fca8b337",
-    key: "2272c0bc6b2e5cb090b1f55996e0026c",
-    cookie: "__hdnea__=st=1778064340~exp=1778085940~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=b94f4012a205fc5030e38d927a9155bb61d5e882846f7194db514b3b49228da7"
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1778074596~exp=1778096196~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=4f3470df1d5de687c459c6e086d0b52a8b80e2772f338d604def5fc52992a7c4",
+    keyId: "2272c0bc6b2e5cb090b1f55996e0026c",
+    key: "943923934de1d5536ab01c67fca8b337",
+    cookie: "__hdnea__=st=1778074596~exp=1778096196~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=4f3470df1d5de687c459c6e086d0b52a8b80e2772f338d604def5fc52992a7c4"
   }
 
 };
