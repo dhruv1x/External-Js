@@ -32,8 +32,8 @@ window.STREAMS = {
 
   T1: {
     mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1778064340~exp=1778085940~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=b94f4012a205fc5030e38d927a9155bb61d5e882846f7194db514b3b49228da7",
-    keyId: "49e84b9edfd85379b90c81b7d2d3d2bf",
-    key: "19c82d3ff094fa06af95820a1572ecb5",
+    keyId: "2272c0bc6b2e5cb090b1f55996e0026c",
+    key: "943923934de1d5536ab01c67fca8b337",
     cookie: "__hdnea__=st=1778064340~exp=1778085940~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=b94f4012a205fc5030e38d927a9155bb61d5e882846f7194db514b3b49228da7"
   }
 
