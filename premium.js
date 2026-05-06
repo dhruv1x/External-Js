@@ -64,12 +64,12 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/90865415.m3u8",
     poster: ""
   },
-  "F1": {
-    url: "",
+  "U3": {
+    url: "https://bhghgh.gbgdhdffhf.shop/sony-3.m3u8",
     poster: ""
   },
   "U1": {
-    url: "",
+    url: "https://bhghgh.gbgdhdffhf.shop/uefa-1.m3u8",
     poster: ""
   },
   "S5": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://bhghgh.gbgdhdffhf.shop/uefa-2.m3u8",
     poster: "#"
   },
   "S1": {
