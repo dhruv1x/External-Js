@@ -94,6 +94,70 @@ keyId: "YOUR_KEY_ID",
 
 key: "YOUR_KEY"
 
+},
+
+/* =========================
+   STAR SPORTS 1 TELUGU HD
+========================= */
+
+"3278": {
+
+name: "Star Sports 1 Telugu HD",
+
+mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive//index.mpd",
+
+keyId: "49e84b9edfd85379b90c81b7d2d3d2bf",
+
+key: "19c82d3ff094fa06af95820a1572ecb5"
+
+},
+
+/* =========================
+   STAR SPORTS 2 TELUGU HD
+========================= */
+
+"3274": {
+
+name: "Star Sports 2 Telugu HD",
+
+mpd: "https://your-mpd-link.mpd",
+
+keyId: "YOUR_KEY_ID",
+
+key: "YOUR_KEY"
+
+},
+
+/* =========================
+   STAR SPORTS 1 KANNADA
+========================= */
+
+"1650": {
+
+name: "Star Sports 1 Kannada",
+
+mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd",
+
+keyId: "9a6d058fa40b5460a946178900eb44cb",
+
+key: "791d7444110cec32d731ca0c33ac6c15"
+
+},
+
+/* =========================
+   STAR SPORTS 2 KANNADA
+========================= */
+
+"1122": {
+
+name: "Star Sports 2 Kannada",
+
+mpd: "https://your-mpd-link.mpd",
+
+keyId: "YOUR_KEY_ID",
+
+key: "YOUR_KEY"
+
 }
 
 };
