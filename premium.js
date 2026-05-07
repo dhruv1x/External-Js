@@ -80,12 +80,12 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: ""
   },
-  "U2": {
-    url: "",
+  "RSL": {
+    url: "https://live5.msrktz.app/live/33982309.m3u8",
     poster: "#"
   },
   "S1": {
-    url: "https://bhghgh.gbgdhdffhf.shop/fox501.m3u8",
+    url: "",
     poster: ""
   },
 };
