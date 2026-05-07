@@ -1,63 +1,99 @@
-// stream.js
+window.STREAMS = {
 
-window.STREAM_DATA = {
+/* =========================
+   STAR SPORTS 1 HD
+========================= */
 
-  COOKIE: "__hdnea__=st=1775982753~exp=1776004353~acl=/bpk-tv/StarSportsHD2Hin_BTS/output/*~hmac=16d37e55235cce2780522a19ae5f4ef95bc0737a9127309f75d7d19c7cc4ac46",
+"1106": {
 
-  sonyLivSports: {
+name: "Star Sports 1 HD",
 
-    'E1': {
-      name: 'Telegram-cricXfootball 1',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1775910617~exp=1775932217~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=5de528c92849588f78260a883ca8847cdb3ee5facc96af4f8cf3423ffde57cb7',
-      clearKey: {
-        keyId: '965dc2ddb1d85138ad787999a7f30ca5',
-        key: '859695076e67fe961836b564db6d689c'
-      }
-    },
+mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
 
-    'H2': {
-      name: 'Telegram-cricXfootball 2',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/output/index.mpd?__hdnea__=st=1775982753~exp=1776004353~acl=/bpk-tv/StarSportsHD2Hin_BTS/output/*~hmac=16d37e55235cce2780522a19ae5f4ef95bc0737a9127309f75d7d19c7cc4ac46',
-      clearKey: {
-        keyId: 'bd1ea6a1c1fb5dcdb709434e0826bbc0',
-        key: 'f57f22cba32739ce7beb1fab3f3d060b'
-      }
-    },
+keyId: "965dc2ddb1d85138ad787999a7f30ca5",
 
-    'E2': {
-      name: 'Telegram-cricXfootball 3',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd',
-      clearKey: {
-        keyId: '9457eb90129456fa8ea95e10ba4ac51e',
-        key: 'e620a970cea474c491ac78ae71a4d764'
-      }
-    },
+key: "859695076e67fe961836b564db6d689c"
 
-    'SN4': {
-      name: 'Telegram-cricXfootball 5',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd',
-      clearKey: {
-        keyId: 'cee8550bf50b569d8ad2ed0c5264f0d2',
-        key: '565a95f1c332c03534e1e5fcc1ff9a8b'
-      }
-    },
-    'H1': {
-      name: 'Telegram-cricXfootball 5',
-      streamUrl: 'https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1775910617~exp=1775932217~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=bf7d170f99bb5a99c7233be0ca53e682869307077b2df148c382d1df9b6a30d8',
-      clearKey: {
-        keyId: '400131994b445d8c8817202248760fda',
-        key: '2d56cb6f07a75b9aff165d534ae2bfc4'
-      }
-    },
-    'T1': {
-      name: 'Telegram-cricXfootball 5',
-      streamUrl: 'http://jiotvweblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd',
-      clearKey: {
-        keyId: '49e84b9edfd85379b90c81b7d2d3d2bf',
-        key: '19c82d3ff094fa06af95820a1572ecb5'
-      }
-    }
+},
 
-  }
+/* =========================
+   STAR SPORTS 1 HINDI HD
+========================= */
+
+"1108": {
+
+name: "Star Sports 1 Hindi HD",
+
+mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
+
+keyId: "400131994b445d8c8817202248760fda",
+
+key: "2d56cb6f07a75b9aff165d534ae2bfc4"
+
+},
+
+/* =========================
+   STAR SPORTS 2 HD
+========================= */
+
+"1109": {
+
+name: "Star Sports 2 HD",
+
+mpd: "https://your-mpd-link.mpd",
+
+keyId: "YOUR_KEY_ID",
+
+key: "YOUR_KEY"
+
+},
+
+/* =========================
+   STAR SPORTS 2 HINDI HD
+========================= */
+
+"1984": {
+
+name: "Star Sports 2 Hindi HD",
+
+mpd: "https://your-mpd-link.mpd",
+
+keyId: "YOUR_KEY_ID",
+
+key: "YOUR_KEY"
+
+},
+
+/* =========================
+   STAR SPORTS 1 TAMIL HD
+========================= */
+
+"3277": {
+
+name: "Star Sports 1 Tamil HD",
+
+mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd",
+
+keyId: "2272c0bc6b2e5cb090b1f55996e0026c",
+
+key: "943923934de1d5536ab01c67fca8b337"
+
+},
+
+/* =========================
+   STAR SPORTS 2 TAMIL HD
+========================= */
+
+"3273": {
+
+name: "Star Sports 2 Tamil HD",
+
+mpd: "https://your-mpd-link.mpd",
+
+keyId: "YOUR_KEY_ID",
+
+key: "YOUR_KEY"
+
+}
 
 };
