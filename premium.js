@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "V1": {
-    url: "https://live5.msrktz.app/live/14830711.m3u8",
+    url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: ""
   },
   "U2": {
