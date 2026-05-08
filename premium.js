@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://in-mc-fblive.fancode.com/mumbai/140460_english_hls_0db28d849993767_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140460_malayalam_hls_31e70ed2461581_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "S5": {
