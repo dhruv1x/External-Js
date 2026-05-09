@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://dfdsfergf.zulo-0084.online/willow-1.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://dai-partner.fancode.com/primary/140460_malayalam_hls_31e70ed2461581_1ta-di_h264/index.m3u8",
+    url: "https://dfdsfergf.zulo-0084.online/sony2.m3u8",
     poster: ""
   },
   "S5": {
