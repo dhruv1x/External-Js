@@ -45,19 +45,19 @@ const streamMap = {
     poster: ""
   },
   "H": {
-    url: "https://dai-partner.fancode.com/primary/140510_english_hls_d8d1c0470714697_1ta-di_h264/index.m3u8",
+    url: "",
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140511_english_hls_521f7507a930148_1ta-di_h264/index.m3u8",
+    url: "",
     poster: ""
   },
   "L": {
-    url: "https://dai-partner.fancode.com/primary/140511_english_hls_521f7507a930148_1ta-di_h264/index.m3u8",
+    url: "",
     poster: ""
   },
   "B": {
-    url: "https://dai-partner.fancode.com/primary/140510_english_hls_d8d1c0470714697_1ta-di_h264/index.m3u8",
+    url: "",
     poster: ""
   },
   "L1": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://dfdsfergf.zulo-0084.online/ipl-english.m3u8",
+    url: "",
     poster: ""
   },
 };
