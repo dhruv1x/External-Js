@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live.krypta.mom/live1/index.m3u8",
+    url: "https://justinyouwesi.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
     poster: ""
   },
   "RSL": {
