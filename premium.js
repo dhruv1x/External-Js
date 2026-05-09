@@ -72,8 +72,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "S5": {
-    url: "",
+  "UFC": {
+    url: "https://dfdsfergf.zulo-0084.online/ufc.m3u8",
     poster: ""
   },
   "U2": {
