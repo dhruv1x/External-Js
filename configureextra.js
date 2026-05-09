@@ -1,6 +1,6 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
-        "famcodexweb.pages.dev",
+        "exsports.pages.dev",
         "famcodexwebs.pages.dev"
     ]
 };
