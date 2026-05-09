@@ -44,20 +44,20 @@ const streamMap = {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8",
     poster: ""
   },
-  "H1": {
-    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140470_HINDI",
+  "H": {
+    url: "",
     poster: ""
   },
-  "E1": {
-    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_ENGLISH",
+  "E": {
+    url: "",
     poster: ""
   },
-  "M1": {
-    url: "https://mini.allinonereborn.fun/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=141180_MALAYALAM",
+  "M": {
+    url: "",
     poster: ""
   },
-  "B1": {
-    url: "https://allinonereborn.online/fcww/live222.php?url=https://islstream.xojiv79335.workers.dev/?id=140470_BENGALI",
+  "B": {
+    url: "",
     poster: ""
   },
   "L1": {
