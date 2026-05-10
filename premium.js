@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "L2": {
-    url: "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn.m3u8",
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
   "L1": {
