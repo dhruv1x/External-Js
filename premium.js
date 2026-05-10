@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live5.msrktz.app/live/14830711.m3u8",
+    url: "https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8",
     poster: ""
   },
   "U2": {
