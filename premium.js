@@ -49,11 +49,11 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "",
+    url: "https://dai-partner.fancode.com/primary/140512_english_hls_53851c5bc484558_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "L": {
-    url: "",
+    url: "https://dai-partner.fancode.com/primary/140512_english_hls_53851c5bc484558_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B": {
@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "",
+    url: "https://dfdsfergf.zulo-0084.online/sony2.m3u8",
     poster: ""
   },
   "L1": {
