@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://dfdsfergf.zulo-0084.online/sony2.m3u8",
+    url: "https://dfdsfergf.zulo-0084.online/isl.m3u8",
     poster: ""
   },
   "U3": {
