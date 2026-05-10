@@ -61,11 +61,11 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://live5.msrktz.app/live/90865415.m3u8",
+    url: "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn.m3u8",
     poster: ""
   },
-  "U": {
-    url: "",
+  "L2": {
+    url: "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn.m3u8",
     poster: ""
   },
   "U1": {
