@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "L1": {
-    url: "https://dfdsfergf.zulo-0084.online/el-classico.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
