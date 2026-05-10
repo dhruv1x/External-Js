@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://dfdsfergf.zulo-0084.online/ipl-hindi.m3u8",
     poster: ""
   },
   "PSL2": {
