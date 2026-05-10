@@ -60,11 +60,11 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "L1": {
+  "L": {
     url: "https://live5.msrktz.app/live/90865415.m3u8",
     poster: ""
   },
-  "U3": {
+  "U": {
     url: "",
     poster: ""
   },
@@ -72,16 +72,16 @@ const streamMap = {
     url: "https://dfdsfergf.zulo-0084.online/sony2.m3u8",
     poster: ""
   },
-  "L1": {
-    url: "",
+  "U3": {
+    url: "https://live5.msrktz.app/live/14830711.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://live5.msrktz.app/live/97312754.m3u8",
+    url: "https://live5.msrktz.app/live/24561735.m3u8",
     poster: ""
   },
-  "RSL": {
-    url: "https://live5.msrktz.app/live/33982309.m3u8",
+  "U4": {
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: "#"
   },
   "S1": {
