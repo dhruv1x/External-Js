@@ -60,11 +60,11 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "L1": {
+  "L2": {
     url: "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn.m3u8",
     poster: ""
   },
-  "L2": {
+  "L1": {
     url: "https://dfdsfergf.zulo-0084.online/el-classico.m3u8",
     poster: ""
   },
