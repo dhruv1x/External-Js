@@ -64,8 +64,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
-  "L1": {
-    url: "",
+  "S4": {
+    url: "https://dfdsfergf.zulo-0084.online/ipl-english.m3u8",
     poster: ""
   },
   "U1": {
