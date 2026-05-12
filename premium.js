@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://dfdsfergf.zulo-0084.online/ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://dfdsfergf.zulo-0084.online/ipl-english.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://dfdsfergf.zulo-0084.online/fox501.m3u8",
+    url: "",
     poster: ""
   },
 };
