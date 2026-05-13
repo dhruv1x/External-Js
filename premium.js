@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "https://fncd.kuvuslov.cymru/mumbai/131180_english_hls_e0613ffb5149916_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/131180_english_hls_e0613ffb5149916_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "L": {
@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "L2": {
-    url: "",
+    url: "https://live5.msrktz.app/live/90865415.m3u8",
     poster: ""
   },
   "S4": {
