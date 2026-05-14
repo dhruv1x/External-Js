@@ -56,8 +56,8 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/131183_english_hls_856abb224671754_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "B": {
-    url: "",
+  "MAX": {
+    url: "https://play.redbull.com/main/v1/rbtv/en/in/personal_computer/http/rrn:content:live-videos:52938489-54fb-4fc3-ac77-3d72f48561a8.m3u8",
     poster: ""
   },
   "L2": {
