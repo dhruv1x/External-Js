@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://sunffov.kuvuslov.cymru/ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://sunffov.kuvuslov.cymru/ipl-english.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
