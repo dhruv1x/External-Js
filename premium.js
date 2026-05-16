@@ -60,8 +60,8 @@ const streamMap = {
     url: "https://play.redbull.com/main/v1/rbtv/en/in/personal_computer/http/rrn:content:live-videos:52938489-54fb-4fc3-ac77-3d72f48561a8.m3u8",
     poster: ""
   },
-  "L2": {
-    url: "https://live5.msrktz.app/live/90865415.m3u8",
+  "U2": {
+    url: "https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8",
     poster: ""
   },
   "S4": {
@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live5.msrktz.app/live/24561735.m3u8",
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
   "B1": {
