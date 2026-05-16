@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140435_english_hls_9a2033d98f66128_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "M": {
