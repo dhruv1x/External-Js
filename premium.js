@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "L": {
-    url: "https://dai-partner.fancode.com/primary/131199_english_hls_72f9234cd213549_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/131192_english_hls_bc3e705c7370836_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "U2": {
