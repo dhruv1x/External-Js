@@ -45,19 +45,19 @@ const streamMap = {
     poster: ""
   },
   "H": {
-    url: "",
+    url: "https://dai-partner.fancode.com/primary/140506_hindi_hls_3ae06204d944132_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140506_english_hls_d5c572cf1f34989_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B": {
-    url: "https://dai-partner.fancode.com/primary/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140506_bengali_hls_7c2075958095584_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "L": {
-    url: "",
+    url: "https://dai-partner.fancode.com/primary/140506_malayalam_hls_92e05c1d1881584_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "U2": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U": {
-    url: "https://fncd.kuvuslov.cymru/",
+    url: "https://fncd.kuvuslov.cymru/mumbai/140506_english_hls_d5c572cf1f34989_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B2": {
