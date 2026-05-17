@@ -69,7 +69,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live5.msrktz.app/live/97312754.m3u8",
+    url: "https://sunffov.kuvuslov.cymru/parisfc-v-psg.m3u8",
     poster: ""
   },
   "U": {
