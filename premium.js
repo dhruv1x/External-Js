@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://sunffov.kuvuslov.cymru/fox501.m3u8",
     poster: ""
   },
 };
