@@ -56,8 +56,8 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "MAX": {
-    url: "https://play.redbull.com/main/v1/rbtv/en/in/personal_computer/http/rrn:content:live-videos:52938489-54fb-4fc3-ac77-3d72f48561a8.m3u8",
+  "L": {
+    url: "",
     poster: ""
   },
   "U2": {
@@ -72,8 +72,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/97312754.m3u8",
     poster: ""
   },
-  "B1": {
-    url: "https://live5.msrktz.app/live/33982309.m3u8",
+  "U": {
+    url: "https://fncd.kuvuslov.cymru/",
     poster: ""
   },
   "B2": {
