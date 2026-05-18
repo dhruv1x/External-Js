@@ -69,11 +69,11 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://sunffov.kuvuslov.cymru/parisfc-v-psg.m3u8",
+    url: "",
     poster: ""
   },
   "U": {
-    url: "https://fncd.kuvuslov.cymru/mumbai/140506_english_hls_d5c572cf1f34989_1ta-di_h264/index.m3u8",
+    url: "",
     poster: ""
   },
   "B2": {
