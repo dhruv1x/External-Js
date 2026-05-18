@@ -45,11 +45,11 @@ const streamMap = {
     poster: ""
   },
   "H": {
-    url: "https://dai-partner.fancode.com/primary/140506_hindi_hls_3ae06204d944132_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140516_hindi_hls_63416ca2ad13519_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140506_english_hls_d5c572cf1f34989_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140516_english_hls_948ca0746a95768_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B": {
@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "L": {
-    url: "https://dai-partner.fancode.com/primary/131192_english_hls_bc3e705c7370836_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140516_malayalam_hls_b68f4275621319_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "U2": {
