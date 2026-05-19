@@ -45,19 +45,19 @@ const streamMap = {
     poster: ""
   },
   "H": {
-    url: "https://dai-partner.fancode.com/primary/140516_hindi_hls_63416ca2ad13519_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140520_hindi_hls_926b963c5948932_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140516_english_hls_948ca0746a95768_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140520_english_hls_c9b15435ae71949_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B": {
-    url: "https://dai-partner.fancode.com/primary/140506_bengali_hls_7c2075958095584_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140520_bengali_hls_f495ff50d334746_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "L": {
-    url: "https://dai-partner.fancode.com/primary/140516_malayalam_hls_b68f4275621319_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/140520_malayalam_hls_e2f1ca91e057747_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "U2": {
