@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://nevazak.musiala.rest/ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140519_english_hls_bf04da179766803_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/142705_english_hls_5daf09e1f828611_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://nevazak.musiala.rest/ipl-english.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://nevazak.musiala.rest/fox501.m3u8",
+    url: "",
     poster: ""
   },
 };
