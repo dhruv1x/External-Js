@@ -16,35 +16,35 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-  "PL1": {
+  "J": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
     poster: ""
   },
-  "PL2": {
+  "O": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
     poster: ""
   },
-  "PL3": {
+  "P": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
     poster: ""
   },
-  "PL4": {
+  "C": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8",
     poster: ""
   },
-  "PL5": {
+  "S": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8",
     poster: ""
   },
-  "PL6": {
+  "I": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
     poster: ""
   },
-  "PL7": {
+  "N": {
     url: "https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8",
     poster: ""
   },
-  "H": {
+  "R": {
     url: "https://dai-partner.fancode.com/primary/140520_hindi_hls_926b963c5948932_1ta-di_h264/index.m3u8",
     poster: ""
   },
@@ -60,7 +60,7 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/140520_malayalam_hls_e2f1ca91e057747_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "U2": {
+  "H": {
     url: "https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8",
     poster: ""
   },
