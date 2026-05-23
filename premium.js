@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/139442_english_hls_a4be7f387232380_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/139445_english_hls_04b2710e0090667_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "B": {
@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "H": {
-    url: "https://fncd.kuvuslov.cymru/mumbai/139442_english_hls_a4be7f387232380_1ta-di_h264/index.m3u8",
+    url: "https://fncd.kuvuslov.cymru/mumbai/139445_english_hls_04b2710e0090667_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "S4": {
