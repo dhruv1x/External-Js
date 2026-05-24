@@ -40,28 +40,28 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "N": {
-    url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
+  "U10": {
+    url: "https://live5.msrktz.app/live/68848594.m3u8",
     poster: ""
   },
-  "R": {
-    url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
+  "U9": {
+    url: "https://live5.msrktz.app/live/88508431.m3u8",
     poster: ""
   },
-  "E": {
-    url: "https://dai-partner.fancode.com/primary/139445_english_hls_04b2710e0090667_1ta-di_h264/index.m3u8",
+  "U8": {
+    url: "https://live5.msrktz.app/live/82054853.m3u8",
     poster: ""
   },
-  "B": {
-    url: "https://dai-partner.fancode.com/primary/140519_english_hls_bf04da179766803_1ta-di_h264/index.m3u8",
+  "U7": {
+    url: "https://live5.msrktz.app/live/90865415.m3u8",
     poster: ""
   },
-  "L": {
-    url: "https://dai-partner.fancode.com/primary/140519_english_hls_bf04da179766803_1ta-di_h264/index.m3u8",
+  "U6": {
+    url: "https://live5.msrktz.app/live/14707124.m3u8",
     poster: ""
   },
-  "H": {
-    url: "https://fncd.kuvuslov.cymru/mumbai/139445_english_hls_04b2710e0090667_1ta-di_h264/index.m3u8",
+  "U5": {
+    url: "https://live5.msrktz.app/live/02456966.m3u8",
     poster: ""
   },
   "S4": {
@@ -69,19 +69,19 @@ const streamMap = {
     poster: ""
   },
   "U1": {
+    url: "https://live5.msrktz.app/live/97312754.m3u8",
+    poster: ""
+  },
+  "U4": {
+    url: "https://live5.msrktz.app/live/87379114.m3u8",
+    poster: ""
+  },
+  "U2": {
+    url: "https://live5.msrktz.app/live/14830711.m3u8",
+    poster: ""
+  },
+  "U3": {
     url: "https://live5.msrktz.app/live/24561735.m3u8",
-    poster: ""
-  },
-  "U": {
-    url: "",
-    poster: ""
-  },
-  "B2": {
-    url: "https://live5.msrktz.app/live/02456966.m3u8",
-    poster: ""
-  },
-  "B3": {
-    url: "https://live5.msrktz.app/live/43612277.m3u8",
     poster: "#"
   },
   "S1": {
