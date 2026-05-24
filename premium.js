@@ -60,8 +60,8 @@ const streamMap = {
     url: "https://live5.msrktz.app/live/14707124.m3u8",
     poster: ""
   },
-  "U5": {
-    url: "https://live5.msrktz.app/live/02456966.m3u8",
+  "F1": {
+    url: "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Ea-ZJNO4MislqQ48ZpwttogdSlYR80gzxSS0JtSsIQEPLFAEOWm4dZ6PndFfOno8Rd97xBo3uyqucIOdkbjdpw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
     poster: ""
   },
   "S4": {
