@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "",
+    url: "https://nevazak.musiala.rest/ipl-hindi.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://files.catbox.moe/8u73dd.mp4",
+    url: "https://nevazak.musiala.rest/ipl-english.m3u8",
     poster: ""
   },
 };
