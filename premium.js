@@ -17,11 +17,11 @@ const streamMap = {
     poster: "#"
   },
   "E": {
-    url: "https://dai-partner.fancode.com/primary/140517_english_hls_40c91fbbcb59479_1ta-di_h264/index.m3u8",
+    url: "https://dai-partner.fancode.com/primary/142667_english_hls_a583759b9587118_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "H": {
-    url: "https://fncd.kuvuslov.cymru/",
+    url: "https://fncd.kuvuslov.cymru/mumbai/142667_english_hls_a583759b9587118_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "P": {
