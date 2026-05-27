@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://nevazak.musiala.rest/ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "PSL2": {
@@ -16,12 +16,12 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-  "J": {
+  "E": {
     url: "https://dai-partner.fancode.com/primary/140517_english_hls_40c91fbbcb59479_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "O": {
-    url: "https://dai-partner.fancode.com/primary/140517_english_hls_40c91fbbcb59479_1ta-di_h264/index.m3u8",
+  "H": {
+    url: "https://fncd.kuvuslov.cymru/",
     poster: ""
   },
   "P": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://nevazak.musiala.rest/ipl-english.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://nevazak.musiala.rest/fox501.m3u8",
+    url: "",
     poster: ""
   },
 };
