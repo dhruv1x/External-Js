@@ -69,11 +69,11 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.msdht.app/live/97312754.m3u8",
+    url: "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     poster: ""
   },
   "U4": {
-    url: "https://nevazak.musiala.rest/ipl-hindi.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://nevazak.musiala.rest/fox501.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
