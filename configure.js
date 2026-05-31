@@ -2,7 +2,7 @@ const DOMAIN_CONFIG = {
     allowedDomains: [
         "estrov.pages.dev",
         "estrow.pages.dev",
-        "estraww.pages.dev"
+        "estroow.pages.dev"
     ]
 };
 
