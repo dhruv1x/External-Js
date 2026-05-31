@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://nevazak.musiala.rest/fox501.m3u8",
+    url: "",
     poster: ""
   },
   "U6": {
