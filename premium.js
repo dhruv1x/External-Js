@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://live5.msrktz.app/live/87379114.m3u8",
+    url: "https://nevazak.musiala.rest/ipl-hindi.m3u8",
     poster: ""
   },
   "U2": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live5.msrktz.app/live/24561735.m3u8",
+    url: "https://nevazak.musiala.rest/fox501.m3u8",
     poster: "#"
   },
   "S1": {
