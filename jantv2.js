@@ -17,10 +17,10 @@ window.STREAMS = {
   },
 
   H1: {
-    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1778152425~exp=1778174025~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9aef0fa528d8d67c1d2d9bbd059908d625f52a7b9128d6ce6b7c02bbf4b29233",
+    mpd: "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1780302060~exp=1780323660~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=64e896c940914703b2f54cacd94e3959f07c52f599a044a14700d063152378ba",
     keyId: "400131994b445d8c8817202248760fda",
     key: "2d56cb6f07a75b9aff165d534ae2bfc4",
-    cookie: "__hdnea__=st=1778152425~exp=1778174025~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9aef0fa528d8d67c1d2d9bbd059908d625f52a7b9128d6ce6b7c02bbf4b29233"
+    cookie: "__hdnea__=st=1780302060~exp=1780323660~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=64e896c940914703b2f54cacd94e3959f07c52f599a044a14700d063152378ba"
   },
 
   E1: {
