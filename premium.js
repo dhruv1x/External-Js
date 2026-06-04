@@ -40,8 +40,8 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "U10": {
-    url: "https://live5.msrktz.app/live/68848594.m3u8",
+  "U5": {
+    url: "https://nevazak.musiala.rest/fra-v-ctd.m3u8",
     poster: ""
   },
   "U9": {
