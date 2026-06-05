@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U9": {
-    url: "https://live5.msrktz.app/live/88508431.m3u8",
+    url: "https://skycric.xojiv79335.workers.dev/chunks.m3u8",
     poster: ""
   },
   "U8": {
