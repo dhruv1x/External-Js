@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://nevazak.musiala.rest/fra-v-ctd.m3u8",
+    url: "",
     poster: ""
   },
   "U9": {
