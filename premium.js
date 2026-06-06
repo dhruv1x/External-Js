@@ -53,15 +53,15 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "",
+    url: "https://live05.msdht.app/live/99121525.m3u8",
     poster: ""
   },
   "U6": {
-    url: "https://live5.msrktz.app/live/14707124.m3u8",
+    url: "https://live05.msdht.app/live/87379114.m3u8",
     poster: ""
   },
-  "F1": {
-    url: "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Ea-ZJNO4MislqQ48ZpwttogdSlYR80gzxSS0JtSsIQEPLFAEOWm4dZ6PndFfOno8Rd97xBo3uyqucIOdkbjdpw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+  "U5": {
+    url: "https://live05.msdht.app/live/08552895.m3u8",
     poster: ""
   },
   "S4": {
