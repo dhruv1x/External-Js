@@ -80,8 +80,8 @@ const streamMap = {
     url: "https://live05.msdht.app/live/97312754.m3u8",
     poster: ""
   },
-  "U3": {
-    url: "",
+  "T1": {
+    url: "https://nevazak.musiala.rest/tennis.m3u8",
     poster: "#"
   },
   "S1": {
