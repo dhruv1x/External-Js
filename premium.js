@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "T1": {
-    url: "https://nevazak.musiala.rest/tennis.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
