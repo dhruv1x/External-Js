@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "",
+    url: "https://skycric.newpersonalities.workers.dev/chunks.m3u8",
     poster: ""
   },
 };
