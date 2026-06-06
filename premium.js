@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://pul-tenm.nbs3g.com/live/sd-1-4548224.m3u8?txSecret=a3c1ae3ede5d4710673c0bd44e7410e6&txTime=6A243413",
+    url: "https://live05.msdht.app/live/43612277.m3u8",
     poster: ""
   },
   "U2": {
