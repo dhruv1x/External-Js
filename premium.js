@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "U8": {
-    url: "https://live5.msrktz.app/live/82054853.m3u8",
+    url: "https://nevazak.musiala.rest/arg-v-hon.m3u8",
     poster: ""
   },
   "U7": {
