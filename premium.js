@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1035.m3u8",
+    url: "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
     poster: ""
   },
   "PSL2": {
@@ -36,8 +36,8 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "I": {
-    url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
+  "Tnt3": {
+    url: "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1035.m3u8",
     poster: ""
   },
   "U5": {
