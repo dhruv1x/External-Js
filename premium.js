@@ -44,8 +44,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "WWE": {
-    url: "https://handt.nuevasantino.xyz/wwe.m3u8",
+  "NBA": {
+    url: "https://handt.nuevasantino.xyz/nba.m3u8",
     poster: ""
   },
   "U8": {
