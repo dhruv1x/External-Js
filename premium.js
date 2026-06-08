@@ -44,8 +44,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "U9": {
-    url: "https://skycric.xojiv79335.workers.dev/chunks.m3u8",
+  "WWE": {
+    url: "https://handt.nuevasantino.xyz/wwe.m3u8",
     poster: ""
   },
   "U8": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.msdht.app/live/90725470.m3u8",
+    url: "https://handt.nuevasantino.xyz/friendlies-1.m3u8",
     poster: ""
   },
   "U3": {
