@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://handt.nuevasantino.xyz/ppv-2-es.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://handt.nuevasantino.xyz/ppv-2.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
