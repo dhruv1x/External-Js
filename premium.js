@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.msdht.app/live/97312754.m3u8",
+    url: "https://handt.nuevasantino.xyz/tjk-vs-ind.m3u8",
     poster: "#"
   },
   "S1": {
