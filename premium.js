@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://handt.nuevasantino.xyz/pt-vs-ng.m3u8",
     poster: ""
   },
   "U3": {
