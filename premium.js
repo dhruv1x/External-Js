@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://emilyzooije054.s3.us-east-1.amazonaws.com/btsport.m3u8",
+    url: "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
     poster: "#"
   },
   "S1": {
