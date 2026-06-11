@@ -76,11 +76,11 @@ const streamMap = {
     url: "https://160.bozztv.com/ssh101/ssh101/test1003/chunks.m3u8",
     poster: ""
   },
-  "U1": {
+  "U2": {
     url: "https://handt.nuevasantino.xyz/fifawc.m3u8",
     poster: ""
   },
-  "U2": {
+  "U1": {
     url: "https://601.sandhost.qzz.io/tsn.m3u8",
     poster: "#"
   },
