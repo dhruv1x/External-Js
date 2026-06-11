@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://160.bozztv.com/ssh101/ssh101/test1003/chunks.m3u8",
+    url: "https://emilyzooije054.s3.us-east-1.amazonaws.com/btsport.m3u8",
     poster: "#"
   },
   "S1": {
