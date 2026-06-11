@@ -68,7 +68,7 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "U1": {
+  "U3": {
     url: "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     poster: ""
   },
@@ -76,11 +76,11 @@ const streamMap = {
     url: "https://160.bozztv.com/ssh101/ssh101/test1003/chunks.m3u8",
     poster: ""
   },
-  "U2": {
+  "U1": {
     url: "https://handt.nuevasantino.xyz/fifawc.m3u8",
     poster: ""
   },
-  "U3": {
+  "U2": {
     url: "https://601.sandhost.qzz.io/tsn.m3u8",
     poster: "#"
   },
