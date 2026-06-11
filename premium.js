@@ -68,7 +68,7 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "U3": {
+  "U": {
     url: "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     poster: ""
   },
