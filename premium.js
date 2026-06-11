@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://handt.nuevasantino.xyz/pt-vs-ng.m3u8",
+    url: "",
     poster: ""
   },
   "U3": {
-    url: "https://handt.nuevasantino.xyz/tjk-vs-ind.m3u8",
+    url: "https://601.sandhost.qzz.io/tsn.m3u8",
     poster: "#"
   },
   "S1": {
