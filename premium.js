@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://handt.nuevasantino.xyz/fifawc.m3u8",
+    url: "https://160.bozztv.com/ssh101/ssh101/test1003/chunks.m3u8",
     poster: ""
   },
   "U2": {
