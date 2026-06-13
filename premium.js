@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "U8": {
-    url: "",
+    url: "https://tnt3.newpersonalities.workers.dev/",
     poster: ""
   },
   "U7": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.msdht.app/live/24561735.m3u8",
+    url: "",
     poster: ""
   },
   "U2": {
