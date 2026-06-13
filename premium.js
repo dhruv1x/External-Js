@@ -44,8 +44,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "F1": {
-    url: "https://fifawc.newpersonalities.workers.dev/",
+  "SF1": {
+    url: "https://formula1.newpersonalities.workers.dev/",
     poster: ""
   },
   "U8": {
