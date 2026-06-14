@@ -48,8 +48,8 @@ const streamMap = {
     url: "https://formula1.newpersonalities.workers.dev/",
     poster: ""
   },
-  "U8": {
-    url: "https://tnt3.newpersonalities.workers.dev/",
+  "NBA": {
+    url: "https://601.thelistener.pk/nba.m3u8",
     poster: ""
   },
   "U7": {
