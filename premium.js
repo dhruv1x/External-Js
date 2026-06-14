@@ -44,8 +44,8 @@ const streamMap = {
     url: "",
     poster: ""
   },
-  "F1": {
-    url: "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+  "NHL": {
+    url: "https://602.sandhost.dpdns.org/nhl.m3u8",
     poster: ""
   },
   "NBA": {
