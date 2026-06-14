@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://daffodil.thelistener.pk/fox.m3u8",
+    url: "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
     poster: "#"
   },
   "S1": {
