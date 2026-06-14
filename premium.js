@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "NBA": {
-    url: "https://601.thelistener.pk/nba.m3u8",
+    url: "https://skycric.newpersonalities.workers.dev",
     poster: ""
   },
   "U7": {
