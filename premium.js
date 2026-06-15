@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "",
+    url: "https://formula1.newpersonalities.workers.dev/",
     poster: ""
   },
   "NHL": {
@@ -52,8 +52,8 @@ const streamMap = {
     url: "https://skycric.newpersonalities.workers.dev",
     poster: ""
   },
-  "U7": {
-    url: "https://live05.msdht.app/live/99121525.m3u8",
+  "Tnt1": {
+    url: "https://formula1.newpersonalities.workers.dev/",
     poster: ""
   },
   "U6": {
