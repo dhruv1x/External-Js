@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "Tnt1": {
-    url: "https://formula1.newpersonalities.workers.dev/",
+    url: "https://cdn.colwert.it.com/hls/tnt1-uk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDI2IDI6MzI6MjAgQU0maGFzaF92YWx1ZT1CZTByQ0tHRFl1ZzB0ZHRhZXY4OW13PT0mdmFsaWRtaW51dGVzPTI4MA==",
     poster: ""
   },
   "U6": {
