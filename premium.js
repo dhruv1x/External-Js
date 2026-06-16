@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.msdht.app/live/97312754.m3u8",
+    url: "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
     poster: "#"
   },
   "S1": {
