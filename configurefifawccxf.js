@@ -7,5 +7,5 @@ const DOMAIN_CONFIG = {
 };
 
 const TELEGRAM_CONFIG = {
-    popupChannel: "https://telegram.me/fifawcbycxf"
+    popupChannel: "https://whatsapp.com/channel/0029Vb8CQb5IHphP4gmdBt17"
 };
