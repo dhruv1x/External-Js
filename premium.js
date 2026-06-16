@@ -72,8 +72,8 @@ const streamMap = {
     url: "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     poster: ""
   },
-  "U4": {
-    url: "https://160.bozztv.com/ssh101/ssh101/test1003/chunks.m3u8",
+  "U3": {
+    url: "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
     poster: ""
   },
   "U1": {
