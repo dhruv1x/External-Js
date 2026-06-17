@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.msdht.app/live/97312754.m3u8",
+    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://ogilbert.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
     poster: ""
   },
   "U2": {
