@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.msdht.app/live/08552895.m3u8",
+    url: "https://fgg-4le.pages.dev/fifawc-fox.m3u8",
     poster: "#"
   },
   "S1": {
