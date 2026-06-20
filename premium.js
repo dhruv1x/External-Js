@@ -56,8 +56,8 @@ const streamMap = {
     url: "https://cdn.colwert.it.com/hls/tnt1-uk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDI2IDI6MzI6MjAgQU0maGFzaF92YWx1ZT1CZTByQ0tHRFl1ZzB0ZHRhZXY4OW13PT0mdmFsaWRtaW51dGVzPTI4MA==",
     poster: ""
   },
-  "U6": {
-    url: "https://live05.msdht.app/live/87379114.m3u8",
+  "U4": {
+    url: "https://fgg-4le.pages.dev/fifawc-fs1.m3u8",
     poster: ""
   },
   "U5": {
