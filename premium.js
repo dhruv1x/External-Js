@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "",
+    url: "https://fgg-4le.pages.dev/fifawc-fs1.m3u8",
     poster: ""
   },
   "U5": {
