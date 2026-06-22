@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978f011941/manifest/video.m3u8",
+    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(dXBOux7HIkoMcxOuwYHnFWF7k4bzaUSO9RB4724hBuEI9ctQPt-7N6X29BsWqQ0QPqvyFRJm77S-1end5rkLlX9Vf7dOnn2ASyYpsjtU7iQxIvQF30JD92sEek_MOC9S)/cloud/3/x9ksaba/s/live-720.m3u8",
     poster: "#"
   },
   "S1": {
