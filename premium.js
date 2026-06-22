@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.apusport.com/live/24561735.m3u8",
+    url: "https://live05.apusport.com/live/08552895.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://live05.apusport.com/live/24561735.m3u8",
+    url: "https://live05.apusport.com/live/08552895.m3u8",
     poster: "#"
   },
   "S1": {
