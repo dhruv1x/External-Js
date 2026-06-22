@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.apusport.com/live/08552895.m3u8",
+    url: "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978f011941/manifest/video.m3u8",
     poster: "#"
   },
   "S1": {
