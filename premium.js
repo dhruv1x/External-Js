@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://live05.apusport.com/live/78905744.m3u8",
+    url: "https://inproviszon.st/fox.m3u8",
     poster: ""
   },
   "U5": {
