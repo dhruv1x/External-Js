@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://doret.s3.us-east-1.amazonaws.com/live/match_1.m3u8",
+    url: "https://wa.newzela.online/tooota1.m3u8",
     poster: "#"
   },
   "S1": {
