@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://wa.newzela.online/tooota1.m3u8",
+    url: "https://km.mznsria.space/eooors2.m3u8",
     poster: "#"
   },
   "S1": {
