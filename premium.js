@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://inproviszon.st/fox.m3u8",
+    url: "https://wa.newzela.online/tooota1.m3u8",
     poster: ""
   },
   "U5": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+    url: "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
     poster: ""
   },
   "U1": {
