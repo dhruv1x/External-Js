@@ -44,8 +44,8 @@ const streamMap = {
     url: "https://formula1.newpersonalities.workers.dev/",
     poster: ""
   },
-  "NHL": {
-    url: "https://602.sandhost.dpdns.org/nhl.m3u8",
+  "U7": {
+    url: "https://lidapotenmsbh.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8&i=1",
     poster: ""
   },
   "NBA": {
