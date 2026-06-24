@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(rISEotUgGFxxQclRZ0DesH4SUOWmbhi8lDrPimh0BNhlQBR23fKXyReD-caCr0dCJS3ZDaHoXXFQ92MA0ZiTgJ2wYSptNW1ULwhUlmW35G_BpoduL52MzFgo_n-aSOof)/cloud/3/x9ksaba/s/live-720.m3u8",
+    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(iQYb6nX6HL-5JUZqlFkTAMYHGxpGxmTBfIyfo_rbILDYAXgpakOCe0auRmR33bsz7oWdO_C5wo6IwC8s_Y5JuxUWXQvFSQ7YTGMloeXtrqaR7lZta8oOxj7Ohph5vRxE)/cloud/3/x9ksaba/s/live-720.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://inproviszon.st/fox.m3u8",
+    url: "https://live05.meung.app/live/78905744.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://km.mznsria.space/eooors2.m3u8",
+    url: "https://inproviszon.st/fox.m3u8",
     poster: "#"
   },
   "S1": {
