@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.meung.app/live/78905744.m3u8",
+    url: "https://inproviszon.st/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
