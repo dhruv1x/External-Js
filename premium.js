@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://inproviszon.st/fox.m3u8",
+    url: "https://inproviszon.st/fox-sports-1.m3u8",
     poster: "#"
   },
   "S1": {
