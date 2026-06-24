@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://wa.newzela.online/tooota1.m3u8",
+    url: "https://live05.meung.app/live/87547578.m3u8",
     poster: ""
   },
   "U5": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(iQYb6nX6HL-5JUZqlFkTAMYHGxpGxmTBfIyfo_rbILDYAXgpakOCe0auRmR33bsz7oWdO_C5wo6IwC8s_Y5JuxUWXQvFSQ7YTGMloeXtrqaR7lZta8oOxj7Ohph5vRxE)/cloud/3/x9ksaba/s/live-720.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
