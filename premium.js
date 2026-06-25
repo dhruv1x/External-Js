@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://ataide0.mercadodavoz.com.br/tsn.m3u8",
+    url: "https://mazy-flinez.s3.eu-north-1.amazonaws.com/reta/sa1_720p30.m3u8",
     poster: ""
   },
   "NBA": {
