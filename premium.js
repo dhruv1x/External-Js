@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/78905744.m3u8",
+    url: "https://live05.meung.app/live/87547578.m3u8",
     poster: ""
   },
   "U5": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/24561735.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://inproviszon.st/fox-sports-1.m3u8",
+    url: "https://live05.meung.app/live/87547578.m3u8",
     poster: "#"
   },
   "S1": {
