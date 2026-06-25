@@ -52,7 +52,7 @@ const streamMap = {
     url: "https://skycric.newpersonalities.workers.dev",
     poster: ""
   },
-  "U6": {
+  "U5": {
     url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VG5RnQfXyGbT70XinVuuK4XKZqQnFkXtIVC0PRZniMv3XkUvZdWiMaL_UgrrFypf1G1TAj7cvifIm38-DmOAuWOHhkjnxP6GmRUBlM841WuuGPUdva7gioqv0vZ7010t)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
@@ -60,7 +60,7 @@ const streamMap = {
     url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
-  "U5": {
+  "U6": {
     url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8RsquMrTJ9uGZWs_fz-A-qGWeJVnkoVImX-oYbIkNorO-pBY1iN4ZKkTakzieithhwn-fyzBci7LdRNGEV94tvfAvrl4x9Q7Dvxx1SV5jkMp7Thqr69jrIYYaWpMqj7s)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
