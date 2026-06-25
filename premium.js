@@ -40,7 +40,7 @@ const streamMap = {
     url: "https://602.formaturamaxi.com.br/tsn.m3u8",
     poster: ""
   },
-  "U5": {
+  "U": {
     url: "https://formula1.newpersonalities.workers.dev/",
     poster: ""
   },
@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VG5RnQfXyGbT70XinVuuK4XKZqQnFkXtIVC0PRZniMv3XkUvZdWiMaL_UgrrFypf1G1TAj7cvifIm38-DmOAuWOHhkjnxP6GmRUBlM841WuuGPUdva7gioqv0vZ7010t)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
     poster: ""
   },
   "U4": {
