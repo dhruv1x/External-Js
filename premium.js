@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.meung.app/live/87547578.m3u8",
+    url: "https://vildid.hundredmilesperhour.uk/1782425013/ccfce2b5e5944156a6e2dd0d94b52e74/dPW8YInOFCVI56DJvgAw9X8no6geER-zGx22lmCtRTk/fox-sports-1.m3u8",
     poster: "#"
   },
   "S1": {
