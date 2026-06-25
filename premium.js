@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(O2paBPHiOlMpgsGGvfiNwqfhbEbfjpMcsH5vXH_AGxvJxOisOvRArnknlZzcfr4fd8Tq0-cZadPwjcpPDtrq7L4a2vKedwMAwXgs5RV4B3wwweQ9hR1TXA3eo1LPAvZQ)/cloud/3/x9ksaba/s/live-720.m3u8",
+    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8RsquMrTJ9uGZWs_fz-A-qGWeJVnkoVImX-oYbIkNorO-pBY1iN4ZKkTakzieithhwn-fyzBci7LdRNGEV94tvfAvrl4x9Q7Dvxx1SV5jkMp7Thqr69jrIYYaWpMqj7s)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
   "S4": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://inproviszon.st/fox-usa.m3u8",
+    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8RsquMrTJ9uGZWs_fz-A-qGWeJVnkoVImX-oYbIkNorO-pBY1iN4ZKkTakzieithhwn-fyzBci7LdRNGEV94tvfAvrl4x9Q7Dvxx1SV5jkMp7Thqr69jrIYYaWpMqj7s)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
   "U2": {
