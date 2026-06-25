@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://lidapotenmsbh.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8&i=1",
+    url: "https://ataide0.mercadodavoz.com.br/tsn.m3u8",
     poster: ""
   },
   "NBA": {
