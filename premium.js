@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8RsquMrTJ9uGZWs_fz-A-qGWeJVnkoVImX-oYbIkNorO-pBY1iN4ZKkTakzieithhwn-fyzBci7LdRNGEV94tvfAvrl4x9Q7Dvxx1SV5jkMp7Thqr69jrIYYaWpMqj7s)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://vildid.hundredmilesperhour.uk/1782424831/153a789667274274b0f7d7de34cf5993/9ZLqlgVrFWN8-x4nHAoZYYARZdULyLiRj1WedqM1CAk/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
