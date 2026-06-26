@@ -33,7 +33,7 @@ const streamMap = {
     poster: ""
   },
   "S": {
-    url: "https://dai-partner.fancode.com/primary/140515_english_hls_49fd742e7342225_1ta-di_h264/index.m3u8",
+    url: "https://vildid.hundredmilesperhour.uk/1782487882/d05993d1ea8543ce963e23252f896dee/mlxbvf0PkJ3VhQhqYr7RXO22VU4Q0GfAbmxTr8VpCng/one-fc.m3u8",
     poster: ""
   },
   "U8": {
