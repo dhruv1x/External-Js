@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/87547578.m3u8",
+    url: "https://live05.meung.app/live/78905744.m3u8",
     poster: ""
   },
   "U6": {
@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.meung.app/live/75748097.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://vildid.hundredmilesperhour.uk/1782435938/6a8a6718831640b1bc2468cefb688883/myS2IF4bdKPUIXvouh8eLx09IIe7eZ4m7r8WcFyCDGM/fox-usa.m3u8",
+    url: "https://vildid.hundredmilesperhour.uk/1782448524/06d55f8059ac4bd4b2e88fb9f635c4cf/AeCTxDyasp5h3sjmiioUrjrKpNSVyoVan05oQOwt9S0/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://vildid.hundredmilesperhour.uk/1782435938/6a8a6718831640b1bc2468cefb688883/myS2IF4bdKPUIXvouh8eLx09IIe7eZ4m7r8WcFyCDGM/fox-sports-1.m3u8",
+    url: "https://vildid.hundredmilesperhour.uk/1782448524/06d55f8059ac4bd4b2e88fb9f635c4cf/AeCTxDyasp5h3sjmiioUrjrKpNSVyoVan05oQOwt9S0/fox-sports-1.m3u8",
     poster: "#"
   },
   "S1": {
