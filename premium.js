@@ -53,15 +53,15 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+    url: "https://storage.googleapis.com/bluejaysx/bsports/mux_video/index-1.m3u8&i=1",
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/78905744.m3u8",
+    url: "https://live05.meung.app/live/90865415.m3u8&i=1",
     poster: ""
   },
   "U6": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8RsquMrTJ9uGZWs_fz-A-qGWeJVnkoVImX-oYbIkNorO-pBY1iN4ZKkTakzieithhwn-fyzBci7LdRNGEV94tvfAvrl4x9Q7Dvxx1SV5jkMp7Thqr69jrIYYaWpMqj7s)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://mvz-s3.s3.eu-north-1.amazonaws.com/wuz/v2_720p60.m3u8",
     poster: ""
   },
   "S4": {
@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/75748097.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://vildid.hundredmilesperhour.uk/1782448524/06d55f8059ac4bd4b2e88fb9f635c4cf/AeCTxDyasp5h3sjmiioUrjrKpNSVyoVan05oQOwt9S0/fox-usa.m3u8",
+    url: "https://nhjjhhjhjjhfjj.pages.dev/1782510409/b21c76efc77741fda84b7225a4d5d0cc/OhQaRqN11ZwoGYlrn1XKSlZ6UXdUflY_LCyhrdIhS9k/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://vildid.hundredmilesperhour.uk/1782448524/06d55f8059ac4bd4b2e88fb9f635c4cf/AeCTxDyasp5h3sjmiioUrjrKpNSVyoVan05oQOwt9S0/fox-sports-1.m3u8",
+    url: "https://nhjjhhjhjjhfjj.pages.dev/1782510409/b21c76efc77741fda84b7225a4d5d0cc/OhQaRqN11ZwoGYlrn1XKSlZ6UXdUflY_LCyhrdIhS9k/fox-sports-1.m3u8",
     poster: "#"
   },
   "S1": {
