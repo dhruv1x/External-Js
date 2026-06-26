@@ -40,8 +40,8 @@ const streamMap = {
     url: "https://602.formaturamaxi.com.br/tsn.m3u8",
     poster: ""
   },
-  "U": {
-    url: "https://formula1.newpersonalities.workers.dev/",
+  "F1": {
+    url: "https://601.formaturamaxi.com.br/f1.m3u8",
     poster: ""
   },
   "U7": {
