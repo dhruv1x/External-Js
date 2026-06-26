@@ -53,15 +53,15 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://storage.googleapis.com/bluejaysx/bsports/mux_video/index-1.m3u8&i=1",
+    url: "https://live05.meung.app/live/78905744.m3u8",
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/90865415.m3u8&i=1",
+    url: "https://live05.meung.app/live/90865415.m3u8",
     poster: ""
   },
   "U6": {
-    url: "https://mvz-s3.s3.eu-north-1.amazonaws.com/wuz/v2_720p60.m3u8",
+    url: "https://live05.meung.app/live/90865415.m3u8",
     poster: ""
   },
   "S4": {
