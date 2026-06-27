@@ -53,11 +53,11 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(YeQREMteainC6pST5rllFsN_JL5MiHvssifTs6bTZaw6vFwm4LbRtYy7jMTfAM_O2egO2auEZowfmhFyeo5jmKLuMWCPPamTf0WvPXXSuHOrRMENjG1FQ-ibQ-KAZfJn)/cloud/3/x9ksaba/s/live-720.m3u8",
+    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(u7PtyhsrfoVNn1A2-MwGwRfjtPRZ6KlW0cezn02V3tM3ss29bNWXnsbMWcBks6gOGI-EvxGrBnzxgXAQWUqRGOLlhJdEPywKL-Z6029aMxly1cgERrdr-Yi0HBRP9Eik)/cloud/3/xage54a/s/live-720.m3u8",
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/78905744.m3u8",
+    url: "https://live05.meung.app/live/90865415.m3u8",
     poster: ""
   },
   "U6": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/75748097.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
