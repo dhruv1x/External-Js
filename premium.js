@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/75748097.m3u8",
+    url: "https://live05.meung.app/live/78905744.m3u8",
     poster: ""
   },
   "U6": {
@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.meung.app/live/75748097.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://nhjjhhjhjjhfjj.pages.dev/1782525120/f727c1465a6f46d69eaa40e953bf4316/XMUO4okRZ_8ESFBv8qRCeubWdtgUpPMZ5ryWElHTT8A/fox-usa.m3u8",
+    url: "https://nhjjhhjhjjhfjj.pages.dev/1782536853/d02c9d3d2fc2497587d418098d67dd8c/rCF8jb3H7roixrNgb79Dy19AgYY3hrIyHEuETDEJv04/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://nhjjhhjhjjhfjj.pages.dev/1782525120/f727c1465a6f46d69eaa40e953bf4316/XMUO4okRZ_8ESFBv8qRCeubWdtgUpPMZ5ryWElHTT8A/fox-sports-1.m3u8",
+    url: "https://nhjjhhjhjjhfjj.pages.dev/1782536853/d02c9d3d2fc2497587d418098d67dd8c/rCF8jb3H7roixrNgb79Dy19AgYY3hrIyHEuETDEJv04/fox-sports-1.m3u8",
     poster: "#"
   },
   "S1": {
