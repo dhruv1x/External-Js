@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://nhjjhhjhjjhfjj.pages.dev/1782536853/d02c9d3d2fc2497587d418098d67dd8c/rCF8jb3H7roixrNgb79Dy19AgYY3hrIyHEuETDEJv04/fox-usa.m3u8",
+    url: "https://nhjjhhjhjjhfjj.pages.dev/1782601576/0756571f4f7445859c0a96a5cb823e20/3E0ElGOQECq5Tjcyr23-pKcZkoiYfuqsd38FfNUbol4/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://nhjjhhjhjjhfjj.pages.dev/1782536853/d02c9d3d2fc2497587d418098d67dd8c/rCF8jb3H7roixrNgb79Dy19AgYY3hrIyHEuETDEJv04/fox-sports-1.m3u8",
+    url: "https://nhjjhhjhjjhfjj.pages.dev/1782601576/0756571f4f7445859c0a96a5cb823e20/3E0ElGOQECq5Tjcyr23-pKcZkoiYfuqsd38FfNUbol4/fox-sports-1.m3u8",
     poster: "#"
   },
   "S1": {
