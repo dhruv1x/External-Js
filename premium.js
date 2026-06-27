@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "U6": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(2b65pAYZk_lHLnp1BBlfynYlmmapewx_0hjfhT4MVH8R7bM8AaXS3vm65ghU8QsdRrmxhSg3LwX-dSqoEvteq4XMMtYV1Y-_xtxR4T5ryZWqpi8Jl-2xdw2hoAELyYIR)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://as.voodevon.xyz/noozile2.m3u8",
     poster: ""
   },
   "S4": {
