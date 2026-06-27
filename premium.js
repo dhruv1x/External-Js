@@ -37,7 +37,7 @@ const streamMap = {
     poster: ""
   },
   "U8": {
-    url: "https://602.formaturamaxi.com.br/tsn.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/m8uy-e0k3_1080p/chunklist_DVR.m3u8",
     poster: ""
   },
   "F1": {
