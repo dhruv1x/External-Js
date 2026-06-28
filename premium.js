@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://live05.meung.app/live/75748097.m3u8",
+    url: "https://live05.meung.app/live/59444581.m3u8",
     poster: ""
   },
   "U6": {
