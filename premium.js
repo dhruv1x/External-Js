@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(_Fb25QASEIGfdVVAQyNaNxmroZF0bNdjUHrUAWROvCylyPeOXXV_MFeSCe9gLG4B-5rif2E2KWOmKKQhOnomwQvJZH-u7eK3s4Qvxz4IqDW_S-LcoLf-v52yIv5cLRhT)/cloud/3/x9ksaba/s/live-720.m3u8",
+    url: "https://em.golatooa.site/Canads1.m3u8",
     poster: ""
   },
   "U4": {
