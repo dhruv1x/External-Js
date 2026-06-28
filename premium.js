@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://601.formaturamaxi.com.br/f1.m3u8",
+    url: "https://inproviszon.st/f1-on-apple.m3u8",
     poster: ""
   },
   "U7": {
