@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live2.eu-north-1a.cf.dmcdn.net/sec2(7iXlyRc12FpME8jBI2tZ5mujzJRuwHeHgcb1s50tkW19x6aJttJMVyAP30qwflUl0e2rPppO02xyL6ZFAU7vSr2AdyrtGcbmocXxeQxGjZt6GP1O6NxtMFYlFmmRve7P)/cloud/3/x9ksaba/s/live-720.m3u8",
+    url: "https://live05.paznhl.app/live/08552895.m3u8",
     poster: ""
   },
   "U4": {
@@ -73,11 +73,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.paznhl.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/m8uy-e0k3_1080p/chunklist_DVR.m3u8",
+    url: "https://live05.paznhl.app/live/08552895.m3u8",
     poster: ""
   },
   "U2": {
