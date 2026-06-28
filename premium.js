@@ -32,8 +32,8 @@ const streamMap = {
     url: "https://dai-partner.fancode.com/primary/140518_english_hls_9481b78c2323004_1ta-di_h264/index.m3u8",
     poster: ""
   },
-  "S": {
-    url: "https://vildid.hundredmilesperhour.uk/1782487882/d05993d1ea8543ce963e23252f896dee/mlxbvf0PkJ3VhQhqYr7RXO22VU4Q0GfAbmxTr8VpCng/one-fc.m3u8",
+  "F2": {
+    url: "https://dogiahuykg.s3.us-east-1.amazonaws.com/btsport_720p30.m3u8",
     poster: ""
   },
   "U8": {
