@@ -77,11 +77,11 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://nhjjhhjhjjhfjj.pages.dev/1782619924/ec88be7aa5d74886ac6169cc5790a9df/AkHAaM7wLTA9yK88uT6IRyGx1Bo2ZiYh0_NDI5ja4FE/fox-usa.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/m8uy-e0k3_1080p/chunklist_DVR.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://nhjjhhjhjjhfjj.pages.dev/1782619924/ec88be7aa5d74886ac6169cc5790a9df/AkHAaM7wLTA9yK88uT6IRyGx1Bo2ZiYh0_NDI5ja4FE/fox-sports-1.m3u8",
+    url: "https://live05.meung.app/live/59444581.m3u8",
     poster: "#"
   },
   "S1": {
