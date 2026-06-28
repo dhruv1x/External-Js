@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+    url: "https://inproviszon.st/sony-ten-3.m3u8",
     poster: ""
   },
   "PSL2": {
