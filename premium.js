@@ -33,7 +33,7 @@ const streamMap = {
     poster: ""
   },
   "F2": {
-    url: "https://a74.azplay39.me/hls/streama262462/index.m3u8?cst=10ce08088a5e8a076afcd1e9f4add0c4",
+    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-155/r0gr-9joe/chunklist.m3u8",
     poster: ""
   },
   "U8": {
