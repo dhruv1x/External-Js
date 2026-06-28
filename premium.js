@@ -33,7 +33,7 @@ const streamMap = {
     poster: ""
   },
   "F2": {
-    url: "https://dogiahuykg.s3.us-east-1.amazonaws.com/btsport_720p30.m3u8",
+    url: "https://a74.azplay39.me/hls/streama262462/index.m3u8?cst=10ce08088a5e8a076afcd1e9f4add0c4",
     poster: ""
   },
   "U8": {
