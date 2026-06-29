@@ -73,11 +73,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.paznhl.app/live/08552895.m3u8",
+    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/btsport_1080p30.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://storage.googleapis.com/xlakersm/bsporting/manifest.m3u8",
+    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/btsport_1080p30.m3u8",
     poster: ""
   },
   "U2": {
