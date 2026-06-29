@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/btsport_1080p30.m3u8",
+    url: "https://am.homom.store/braz1.m3u8",
     poster: ""
   },
   "U4": {
@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/btsport_1080p30.m3u8",
+    url: "https://cdn011.viaplus.site/fox-usa.m3u8",
     poster: ""
   },
   "U2": {
