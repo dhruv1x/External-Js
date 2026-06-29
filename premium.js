@@ -52,8 +52,8 @@ const streamMap = {
     url: "https://skycric.newpersonalities.workers.dev",
     poster: ""
   },
-  "U5": {
-    url: "https://am.homom.store/braz1.m3u8",
+  "U1": {
+    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/btsport_1080p30.m3u8",
     poster: ""
   },
   "U4": {
@@ -76,7 +76,7 @@ const streamMap = {
     url: "https://live05.paznhl.app/live/08552895.m3u8",
     poster: ""
   },
-  "U1": {
+  "U5": {
     url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(cJe1zKCrZjLzIdwmyhj7raFnkvFN8rmcU0LlV68rVHplJN8mi-KhQiWNgclNmnVfmbWqPDlwa9QuUY4oMamPsNg2KvRS7_NQXiSF1ismXFbc584eyfklJPna9faU0Wbn)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
