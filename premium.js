@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://cdn011.viaplus.site/sony-ten-1.m3u8",
+    url: "https://cdn011.viaplus.site/sky-sports-cricket.m3u8",
     poster: ""
   },
   "PSL2": {
