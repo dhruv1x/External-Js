@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://em.golatooa.site/Canads1.m3u8",
+    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/btsport_1080p30.m3u8",
     poster: ""
   },
   "U4": {
