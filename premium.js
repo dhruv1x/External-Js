@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(cJe1zKCrZjLzIdwmyhj7raFnkvFN8rmcU0LlV68rVHplJN8mi-KhQiWNgclNmnVfmbWqPDlwa9QuUY4oMamPsNg2KvRS7_NQXiSF1ismXFbc584eyfklJPna9faU0Wbn)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(xMITrgATGkRJ2SnPY4sQmygzTmMl8BAgQkc30AIELfZpP2b7a-klIivpgPXyto3ixIQPwr5MJUrG43fihDw5HzzSs74rvYV4Qt49VFy9N9oRJ4vMj-2ANoBsItmhUBTl)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
   "U2": {
