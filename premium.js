@@ -52,8 +52,8 @@ const streamMap = {
     url: "https://skycric.newpersonalities.workers.dev",
     poster: ""
   },
-  "U1": {
-    url: "https://mickiecy.s3.eu-central-1.amazonaws.com/sportsnet_1080p30.m3u8",
+  "U5": {
+    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(xMITrgATGkRJ2SnPY4sQmygzTmMl8BAgQkc30AIELfZpP2b7a-klIivpgPXyto3ixIQPwr5MJUrG43fihDw5HzzSs74rvYV4Qt49VFy9N9oRJ4vMj-2ANoBsItmhUBTl)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
   "U4": {
@@ -73,10 +73,10 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.paznhl.app/live/08552895.m3u8",
+    url: "https://live05.paznhl.app/live/75748097.m3u8",
     poster: ""
   },
-  "U5": {
+  "U1": {
     url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(cJe1zKCrZjLzIdwmyhj7raFnkvFN8rmcU0LlV68rVHplJN8mi-KhQiWNgclNmnVfmbWqPDlwa9QuUY4oMamPsNg2KvRS7_NQXiSF1ismXFbc584eyfklJPna9faU0Wbn)/cloud/3/x9ko9z8/s/live-720.m3u8",
     poster: ""
   },
