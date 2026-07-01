@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://skycric.newpersonalities.workers.dev",
+    url: "https://cricbuzz.newpersonalities.workers.dev/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/10532/129392/master.m3u8",
     poster: ""
   },
 };
