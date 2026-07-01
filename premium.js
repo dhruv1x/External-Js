@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://live05.koepgd.app/live/02456966.m3u8",
+    url: "https://ve.kooraa94.cfd/emoosa2.m3u8",
     poster: ""
   },
   "NBA": {
