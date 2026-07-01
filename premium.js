@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://cdn011.viaplus.site/sky-sports-cricket.m3u8",
+    url: "https://cricbuzz.newpersonalities.workers.dev/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/10532/129392/master.m3u8",
     poster: ""
   },
   "PSL2": {
