@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://am.kooran60.cfd/poole1.m3u8",
+    url: "https://we.kooraa28.cfd/yoznie2.m3u8",
     poster: ""
   },
   "U4": {
