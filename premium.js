@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://we.kooraa28.cfd/yoznie2.m3u8",
+    url: "https://live05.koepgd.app/live/08552895.m3u8",
     poster: ""
   },
   "U4": {
@@ -73,11 +73,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.koepgd.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.koepgd.app/live/08552895.m3u8",
     poster: ""
   },
   "U2": {
