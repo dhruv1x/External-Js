@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://us.kooraa12.cfd/strom1.m3u8",
+    url: "https://live05.koepgd.app/live/02456966.m3u8",
     poster: ""
   },
   "NBA": {
@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(QEj2Ay_zPrH8i6UEFTwESJsif5k00cWdIeEUgaREEcnmPCeXZ6s2h8sx0aknwMSPcWNJMCveoaOHuaDi8y7CTVT2i4Y-IFZzQEvXxBRY17HydP0YqCBHdVDwe7_QMT8-)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://live05.koepgd.app/live/02456966.m3u8",
     poster: ""
   },
   "U4": {
@@ -73,11 +73,11 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.koepgd.app/live/02456966.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://live2.eu-north-1b.cf.dmcdn.net/sec2(QEj2Ay_zPrH8i6UEFTwESJsif5k00cWdIeEUgaREEcnmPCeXZ6s2h8sx0aknwMSPcWNJMCveoaOHuaDi8y7CTVT2i4Y-IFZzQEvXxBRY17HydP0YqCBHdVDwe7_QMT8-)/cloud/3/x9ko9z8/s/live-720.m3u8",
+    url: "https://live05.koepgd.app/live/02456966.m3u8",
     poster: ""
   },
   "U2": {
