@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "U6": {
-    url: "https://as.voodevon.xyz/noozile2.m3u8",
+    url: "https://tsn.newpersonalities.workers.dev/",
     poster: ""
   },
   "S4": {
