@@ -1,6 +1,6 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
-        "cxfoot.pages.dev",
+        "cxfout.pages.dev",
         "cxfut.pages.dev",
         "cxfuut.pages.dev"
     ]
