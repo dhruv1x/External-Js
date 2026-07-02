@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://cricbuzz.newpersonalities.workers.dev/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/10532/129392/master_1848.m3u8",
+    url: "https://logs.xojiv79335.workers.dev/",
     poster: ""
   },
   "PSL2": {
