@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://logs.xojiv79335.workers.dev/",
+    url: "https://tsn.newpersonalities.workers.dev/",
     poster: ""
   },
   "U2": {
