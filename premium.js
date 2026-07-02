@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://cv.kooran72.cfd/donse1_360/index.m3u8",
+    url: "https://fox.newpersonalities.workers.dev/",
     poster: ""
   },
   "NBA": {
