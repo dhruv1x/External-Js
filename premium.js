@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    url: "https://cv.kooran72.cfd/donse1_360/index.m3u8",
     poster: ""
   },
   "NBA": {
@@ -53,7 +53,7 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://pe-p5-p-e-cl1-clrp.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_5000.m3u8?aid=5b8ea6f89ff52d0770a144c4&dnt=true&access_token=31CcErda2lIOMpzK9DlSwKzXK6o2TC45fLlTFYdQwySsTP3efVWKfsuHlYXolCAxxg15URqOE5B&uid=YZ128Qk7yQvbLqXhSrt1Msl25aNuAldI&sid=XdbbfqKeCgqAfwc3K2tcDx4FaLZlzmyI&pid=YpZkPe8xrIefIbd2spJu6CNDmV5ahFkG&ref=tvgo.americatv.com.pe&ext_pb=0&es=pe-p5-p-e-cl1-clrp.cdn.mdstrm.com&ote=1783021451469&ot=fz8hNvpBKoD_fuOl5YrtEw&proto=https&pz=us",
     poster: ""
   },
   "U4": {
