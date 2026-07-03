@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/14830711.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://sxdodgers.s3.us-east-1.amazonaws.com/abc.m3u8",
+    url: "https://sxdodgers.s3.us-east-1.amazonaws.com/main.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://live05.meung.app/live/59444581.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: "#"
   },
   "S1": {
