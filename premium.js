@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.koepgd.app/live/14830711.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://sxyanskees.s3.us-east-1.amazonaws.com/tsn2.m3u8",
+    url: "https://storage.googleapis.com/xwarriors/nbcsn2/manifest.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://live05.koepgd.app/live/14830711.m3u8",
+    url: "https://live05.meung.app/live/08552895.m3u8",
     poster: "#"
   },
   "S1": {
