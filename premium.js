@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-81/y4ts-2uef_1080p/chunklist.m3u8",
     poster: ""
   },
   "U7": {
