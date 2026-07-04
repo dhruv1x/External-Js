@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://tsn.newpersonalities.workers.dev/",
+    url: "https://fox.newpersonalities.workers.dev/",
     poster: ""
   },
 };
