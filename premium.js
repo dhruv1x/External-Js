@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://fox.newpersonalities.workers.dev/",
+    url: "https://live05.koepgd.app/live/87379114.m3u8",
     poster: ""
   },
   "U6": {
