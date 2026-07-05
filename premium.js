@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc.m3u8",
+    url: "https://live05.koepgd.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc.m3u8",
+    url: "https://live05.koepgd.app/live/08552895.m3u8",
     poster: "#"
   },
   "S1": {
