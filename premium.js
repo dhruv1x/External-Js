@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc.m3u8",
+    url: "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2.m3u8",
     poster: ""
   },
   "U2": {
