@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://xredsox.s3.eu-central-1.amazonaws.com/msg_1080p30.m3u8",
+    url: "https://xredsox.s3.eu-central-1.amazonaws.com/msg2.m3u8",
     poster: ""
   },
   "U2": {
