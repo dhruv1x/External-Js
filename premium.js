@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.grita.app/live/78905744.m3u8",
+    url: "https://d5zqfu288viyy.cloudfront.net/index_4.m3u8",
     poster: ""
   },
   "U2": {
