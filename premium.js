@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://rumble.com/live-hls-dvr/7ab2rm/playlist.m3u8",
+    url: "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
     poster: ""
   },
 };
