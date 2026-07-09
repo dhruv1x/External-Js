@@ -73,15 +73,15 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.grita.app/live/78905744.m3u8",
     poster: ""
   },
   "U1": {
-    url: "https://mscardinals.s3.us-east-1.amazonaws.com/france.m3u8",
+    url: "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
     poster: ""
   },
   "U2": {
-    url: "https://live05.meung.app/live/08552895.m3u8",
+    url: "https://live05.grita.app/live/78905744.m3u8",
     poster: "#"
   },
   "S1": {
