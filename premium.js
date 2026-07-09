@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.grita.app/live/78905744.m3u8",
+    url: "https://hls.live123.fans/live/4459808.m3u8",
     poster: ""
   },
   "U1": {
