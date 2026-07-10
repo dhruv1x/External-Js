@@ -48,8 +48,8 @@ const streamMap = {
     url: "https://fox.newpersonalities.workers.dev/",
     poster: ""
   },
-  "NBA": {
-    url: "https://skycric.newpersonalities.workers.dev",
+  "W1": {
+    url: "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/wimbledon-avod-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI2IDExOjI4OjM0IEFNJmhhc2hfdmFsdWU9ZlBOTGhIV3JBQkt4UWl5aE5EK25EQT09JnZhbGlkbWludXRlcz02MA%3D%3D",
     poster: ""
   },
   "U5": {
