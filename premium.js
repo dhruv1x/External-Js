@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://1a-1791.com/live/za4hy30t/slot-39/leh5-d2pi_1080p/chunklist.m3u8",
+    url: "https://azmny-0394.s3.us-east-1.amazonaws.com/amzn/4892.m3u8",
     poster: ""
   },
   "U2": {
