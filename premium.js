@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?bitrate=5692000",
+    url: "https://live05.grita.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
