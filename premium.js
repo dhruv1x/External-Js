@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://a122.azplay43.me/hls/streama262584/index.m3u8?cst=9df8c190368b21184d3e71338bf1c235",
+    url: "https://live05.grita.app/live/08552895.m3u8",
     poster: ""
   },
   "U2": {
