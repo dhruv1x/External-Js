@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://live05.grita.app/live/08552895.m3u8",
+    url: "https://live-n10.videostech.cloud/match/eastbengalfc_vs_tamlukkhelaghargeorgetelegraphsc/HLS/master.m3u8",
     poster: ""
   },
   "U2": {
