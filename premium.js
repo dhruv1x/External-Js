@@ -77,7 +77,7 @@ const streamMap = {
     poster: ""
   },
   "U1": {
-    url: "https://1a-1791.com/live/e6pv21nm/slot-107/soi7-l8dn_1080p/chunklist_DVR.m3u8",
+    url: "https://a122.azplay43.me/hls/streama262584/index.m3u8?cst=9df8c190368b21184d3e71338bf1c235",
     poster: ""
   },
   "U2": {
