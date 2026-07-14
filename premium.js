@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
+    url: "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/OUiUn3RkFHzPETO00VoHu7CR01MMGpzwkaieJQ3X00ob8FWxsxy4UP7khA01qnoMgb1ZZ75zqoLaVuK3Lqk1UnSaVhJLRbrZNx3O/rendition.m3u8?cdn=cloudflare&expires=1784109600&live=1&skid=default&signature=NmE1NzVhMjBfYjMxZTY5ZmYwYTBlODA3MDRkMWZkNjI1MjI0YzM3ODljMzFmYjdiODdlNjVmNDI4MTZmOGQxZDE3ODg3YzQwMA==",
     poster: ""
   },
 };
