@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.grita.app/live/08552895.m3u8",
+    url: "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8",
     poster: "#"
   },
   "S1": {
