@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8",
+    url: "https://live05.miekgo.app/live/08552895.m3u8",
     poster: ""
   },
   "U6": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-29/5hut-fygn_1080p/chunklist.m3u8",
+    url: "https://live05.miekgo.app/live/08552895.m3u8",
     poster: "#"
   },
   "S1": {
