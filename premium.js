@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8",
+    url: "https://live-n10.videostech.cloud/match/measurersclub_vs_policeathleticclub/HLS/master.m3u8",
     poster: ""
   },
   "U6": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://esd.zenithez.website/ypmf1.m3u8",
+    url: "https://live-n10.videostech.cloud/match/bidhannagarmsa_vs_eastbengalfc/HLS/master.m3u8",
     poster: ""
   },
   "U1": {
