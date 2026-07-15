@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-29/5hut-fygn_1080p/chunklist.m3u8",
     poster: "#"
   },
   "S1": {
