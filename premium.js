@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://hugh.cdn.rumble.cloud/live/k1ub38pe/slot-43/4drl-v7jp/chunklist.m3u8",
+    url: "",
     poster: ""
   },
 };
