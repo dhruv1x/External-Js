@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "S3": {
-    url: "https://logs.xojiv79335.workers.dev/",
+    url: "https%3A%2F%2Fstream.mux.com%2FKoxxjUGynnOrRH0054JSB702dX8pn4yAHUm6t02AowArnk.m3u8%3Ftoken%3DeyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiJLb3h4alVHeW5uT3JSSDAwNTRKU0I3MDJkWDhwbjR5QUhVbTZ0MDJBb3dBcm5rIiwiYXVkIjoidiIsImV4cCI6MTc4NDI4NjY0OH0.N9f2_VL8MTL7Lce4gcxRp4kTo-rC3YrAOSnNqMObTZzxC06Mbu5Z9GMz8VXCrMtHUMtchGkVGlBvcqOBz9BJC8d92393aCrerLsh_iMwYq1T9qtmo9sk2e1QuWOHwMx_THcmaVWie1LJuNx1wftxjob8q0SJtuXl6MviY95wt8hvacirKL-z9i7AbsL_4nwrC4M-ewDKOw0I9X7H8m2eK91O1YFlidpZSZqFgLcfe82yH2Ey2fYL-lIJgf5LbFq2jtAIElAP5Uu4arbuO7JF2cx9yr5SkaCixHUZI7p6Nwu122CS2jnVwxQJ8G9LcO6Aozl8cx-TxmbKF11OfbPOQA&autoplay=1&controls=auto&theme=default&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&no_download=1&width=responsive&aspect=16%3A9",
     poster: ""
   },
   "PSL2": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/OUiUn3RkFHzPETO00VoHu7CR01MMGpzwkaieJQ3X00ob8FWxsxy4UP7khA01qnoMgb1ZZ75zqoLaVuK3Lqk1UnSaVhJLRbrZNx3O/rendition.m3u8?cdn=cloudflare&expires=1784109600&live=1&skid=default&signature=NmE1NzVhMjBfYjMxZTY5ZmYwYTBlODA3MDRkMWZkNjI1MjI0YzM3ODljMzFmYjdiODdlNjVmNDI4MTZmOGQxZDE3ODg3YzQwMA==",
+    url: "https://hugh.cdn.rumble.cloud/live/k1ub38pe/slot-43/4drl-v7jp/chunklist.m3u8",
     poster: ""
   },
 };
