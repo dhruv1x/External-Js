@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "U6": {
-    url: "https://tsn.newpersonalities.workers.dev/",
+    url: "https://live-n10.videostech.cloud/match/eastbengalfc_vs_railwayfc/HLS/master.m3u8",
     poster: ""
   },
   "S4": {
