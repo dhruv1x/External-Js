@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-157/7dh0-iewo/chunklist.m3u8",
+    url: "https://fuck-you.kasin-tv.com/fc/proxy.php/https://in-mc-pdlive.fancode.com/mumbai/139470_english_hls_d2e8b7c33f30043_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "U7": {
