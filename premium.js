@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://customer-0a9dy4lca44vp867.cloudflarestream.com/c1edfa5f0cfbfd070ca925c1aab08463/manifest/video.m3u8",
+    url: "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
     poster: ""
   },
   "U1": {
