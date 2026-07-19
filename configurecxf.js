@@ -1,7 +1,7 @@
 const DOMAIN_CONFIG = {
     allowedDomains: [
         "cxftbul.pages.dev",
-        "cxftbol.pages.dev",
+        "cxfbl.pages.dev",
         "cxftbal.pages.dev"
     ]
 };
