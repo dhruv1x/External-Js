@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live-n10.videostech.cloud/match/bidhannagarmsa_vs_eastbengalfc/HLS/master.m3u8",
+    url: "https://customer-0a9dy4lca44vp867.cloudflarestream.com/c1edfa5f0cfbfd070ca925c1aab08463/manifest/video.m3u8",
     poster: ""
   },
   "U1": {
