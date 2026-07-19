@@ -61,7 +61,7 @@ const streamMap = {
     poster: ""
   },
   "U6": {
-    url: "https://live-n10.videostech.cloud/match/mohunbagansupergiant_vs_kalighatmilansangha/HLS/master.m3u8",
+    url: "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
     poster: ""
   },
   "S4": {
