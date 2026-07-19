@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    url: "https://cua.atharican.shop/menze1.m3u8",
     poster: ""
   },
   "U1": {
