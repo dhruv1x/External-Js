@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-  "E": {
-    url: "https://dai-partner.fancode.com/primary/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8",
+  "S3": {
+    url: "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8",
     poster: ""
   },
   "H": {
@@ -48,8 +48,8 @@ const streamMap = {
     url: "https://fox.newpersonalities.workers.dev/",
     poster: ""
   },
-  "S3": {
-    url: "https://stream.mux.com/KoxxjUGynnOrRH0054JSB702dX8pn4yAHUm6t02AowArnk.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiJLb3h4alVHeW5uT3JSSDAwNTRKU0I3MDJkWDhwbjR5QUhVbTZ0MDJBb3dBcm5rIiwiYXVkIjoidiIsImV4cCI6MTc4NDI4NjY0OH0.N9f2_VL8MTL7Lce4gcxRp4kTo-rC3YrAOSnNqMObTZzxC06Mbu5Z9GMz8VXCrMtHUMtchGkVGlBvcqOBz9BJC8d92393aCrerLsh_iMwYq1T9qtmo9sk2e1QuWOHwMx_THcmaVWie1LJuNx1wftxjob8q0SJtuXl6MviY95wt8hvacirKL-z9i7AbsL_4nwrC4M-ewDKOw0I9X7H8m2eK91O1YFlidpZSZqFgLcfe82yH2Ey2fYL-lIJgf5LbFq2jtAIElAP5Uu4arbuO7JF2cx9yr5SkaCixHUZI7p6Nwu122CS2jnVwxQJ8G9LcO6Aozl8cx-TxmbKF11OfbPOQA&autoplay=1&controls=auto&theme=default&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&no_download=1&width=responsive&aspect=16:9",
+  "S": {
+    url: ".N9f2_VL8MTL7Lce4gcxRp4kTo----TxmbKF11OfbPOQA&autoplay=1&controls=auto&theme=default&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&no_download=1&width=responsive&aspect=16:9",
     poster: ""
   },
   "U5": {
@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8",
+    url: "https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8",
     poster: ""
   },
 };
