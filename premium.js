@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://fuck-you.kasin-tv.com/fc/proxy.php/https://in-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8",
+    url: "https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8",
     poster: ""
   },
 };
