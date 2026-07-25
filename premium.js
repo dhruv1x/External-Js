@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://fuck-you.kasin-tv.com/fc/proxy.php/https://in-mc-pdlive.fancode.com/mumbai/139471_english_hls_bcb585673323107_1ta-di_h264/index.m3u8",
+    url: "https://a93.azplay46.me/hls/streama262462/index.m3u8?cst=90711b07658d666fdc19ed3ce02fbbe5",
     poster: ""
   },
   "U7": {
