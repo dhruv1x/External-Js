@@ -85,7 +85,7 @@ const streamMap = {
     poster: "#"
   },
   "S1": {
-    url: "https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8",
+    url: "https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8",
     poster: ""
   },
 };
