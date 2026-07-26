@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://a93.azplay46.me/hls/streama262462/index.m3u8?cst=90711b07658d666fdc19ed3ce02fbbe5",
+    url: "https://viss.vilevodules.uk/f1.m3u8",
     poster: ""
   },
   "U7": {
