@@ -41,7 +41,7 @@ const streamMap = {
     poster: ""
   },
   "F1": {
-    url: "https://viss.vilevodules.uk/f1.m3u8",
+    url: "",
     poster: ""
   },
   "U7": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://viss.vilevodules.uk/sony5.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
