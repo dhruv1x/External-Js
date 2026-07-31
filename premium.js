@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.meung.app/live/78905744.m3u8",
+    url: "https://newviva.vivatops.store/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzg1NTI0NjczLCJyYW5kIjoiMGI2NGEzMjMxMDNiOWJlYyJ9.847608f926f763b13065d9163e49a8b8ddab330b6d8ad943fe478754b1f9335f",
     poster: "#"
   },
   "S1": {
