@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
+    url: "https://live05.meung.app/live/78905744.m3u8",
     poster: "#"
   },
   "S1": {
