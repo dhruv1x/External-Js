@@ -45,7 +45,7 @@ const streamMap = {
     poster: ""
   },
   "U7": {
-    url: "https://fox.newpersonalities.workers.dev/",
+    url: "https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.ucjk4S9HM0jD.m3u8",
     poster: ""
   },
   "S": {
