@@ -20,8 +20,8 @@ const streamMap = {
     url: "https://oklive6-8.vkuser.net/cmaf/16975412333141/sig/86v9pvqQulE/expires/1785063321450/srcIp/66.78.59.15/urls/178.237.23.63/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8",
     poster: ""
   },
-  "V1": {
-    url: "https://in-mc-flive.fancode.com/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785669128~_GO=Generated~acl=/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/*~Signature=Aej9sTVEc_-agT_rhrst9Z4YF09vnnWWgSmzmAKdOqZjjHAAOHeX5WzTrEfO9erQsIaqpUp06hczrR_I68S7QuvY3pYN",
+  "E": {
+    url: "https://in-mc-flive.fancode.com/mumbai/4248016_english_hls_d97e92363555615_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785685444~_GO=Generated~acl=/mumbai/4248016_english_hls_d97e92363555615_1ta-di_h264/*~Signature=Aej9sTUBaKe7iZ-BPxX3xOal9Ig-Uu7AUlAQ8t69x9D7Ih4qIbBr819E-hIClUkogAeH33tfI-g71so-PAAcW8yRzJQB",
     poster: ""
   },
   "LPL": {
