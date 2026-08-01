@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://newviva.vivatops.store/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzg1NTI0NjczLCJyYW5kIjoiMGI2NGEzMjMxMDNiOWJlYyJ9.847608f926f763b13065d9163e49a8b8ddab330b6d8ad943fe478754b1f9335f",
+    url: "https://live-n10.videostech.cloud/match/calcuttacustomsclub_vs_mohunbagansupergiant/HLS/master.m3u8",
     poster: "#"
   },
   "S1": {
