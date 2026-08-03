@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live-n10.videostech.cloud/match/calcuttacustomsclub_vs_mohunbagansupergiant/HLS/master.m3u8",
+    url: "https://live-n10.videostech.cloud/match/behalasssportingclub_vs_eastbengalfc/HLS/master.m3u8",
     poster: "#"
   },
   "S1": {
