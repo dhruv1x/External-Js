@@ -81,11 +81,11 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://viss.vilevodules.uk/sony2.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
-    url: "https://viss.vilevodules.uk/fancode.m3u8",
+    url: "",
     poster: ""
   },
 };
