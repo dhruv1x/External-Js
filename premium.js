@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live-n10.videostech.cloud/match/behalasssportingclub_vs_eastbengalfc/HLS/master.m3u8",
+    url: "https://viss.vilevodules.uk/sony5.m3u8",
     poster: "#"
   },
   "S1": {
