@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.meung.app/live/41943555.m3u8",
+    url: "https://viss.vilevodules.uk/fifa2.m3u8",
     poster: ""
   },
   "U1": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://viss.vilevodules.uk/fifa1.m3u8",
     poster: "#"
   },
   "S1": {
