@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "https://in-mc-flive.fancode.com/mumbai/4248019_english_hls_392fbb236a92017_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786040349~_GO=Generated~acl=/mumbai/4248019_english_hls_392fbb236a92017_1ta-di_h264/*~Signature=AYCJ36QZFAGOwz8_aHukZxRmzlywc3e686G5xMeIzm66ZUkZwNWuyLb6Djiu6OpUS6WhYX6ldWiKOsz9XCthMNOO1OgM",
+    url: "https://in-mc-flive.fancode.com/mumbai/4248025_english_hls_ab699017ee88706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786189446~_GO=Generated~acl=/mumbai/4248025_english_hls_ab699017ee88706_1ta-di_h264/*~Signature=AYCJ36Qok874bOKeWcx7Ne9_Evu7YnUti5_pcbngCyl7nJE1lWW58YUBe3Qv1Qg0Ma-6BT-TjbLtqKXrrAEQKCXwh1AB",
     poster: ""
   },
   "LPL": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://viss.vilevodules.uk/fifa2.m3u8",
+    url: "",
     poster: ""
   },
   "U1": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://viss.vilevodules.uk/fifa1.m3u8",
+    url: "",
     poster: "#"
   },
   "S1": {
