@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://viss.vilevodules.uk/sony2.m3u8",
     poster: "#"
   },
   "S1": {
