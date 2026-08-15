@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "",
+    url: "https://live05.miekgo.app/live/02456966.m3u8",
     poster: "#"
   },
   "S1": {
