@@ -57,7 +57,7 @@ const streamMap = {
     poster: ""
   },
   "U4": {
-    url: "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    url: "https://viss.vilevodules.uk/sony2.m3u8",
     poster: ""
   },
   "U6": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.miekgo.app/live/02456966.m3u8",
+    url: "https://viss.vilevodules.uk/sony5.m3u8",
     poster: "#"
   },
   "S1": {
