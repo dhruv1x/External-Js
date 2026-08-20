@@ -4,7 +4,7 @@ const id = params.get("id");
 const streams = {
 
 S1: "https://players.akamai.com/players/hlsjs?streamUrl=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1786874841~acl=%2f*~id=2f25697f-7690-409f-a164-7263b9b3997b~data=hdntl~hmac=de679dcd724b58252270deb95d9b3b86e0ca8d7c75b5d9b99d1780869be21a33/master_3500.m3u8",
-S2: "https://players.akamai.com/players/hlsjs?streamUrl=https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1787034615~acl=%2f*~id=ec805ad5-46dc-4249-be6e-fbe4e32d005d~data=hdntl~hmac=736a231763b0ad3399de6d4a18f0a001b6089081dc7f992abcbbfe4a2d2b59de/master_3500.m3u8",
+S2: "https://players.akamai.com/players/hlsjs?streamUrl=https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1787293815~acl=%2f*~id=800d35b2-5239-41e4-83f7-e0c115105bf2~data=hdntl~hmac=7d51a0f804ae024d12ff9893e37f3075ad2ed877029afa5380ea6654183d0c0f/master_3500.m3u8",
 S3: "https://players.akamai.com/players/hlsjs?streamUrl=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1786874841~acl=%2f*~id=2f25697f-7690-409f-a164-7263b9b3997b~data=hdntl~hmac=de679dcd724b58252270deb95d9b3b86e0ca8d7c75b5d9b99d1780869be21a33/master_3500.m3u8",
 S4: "https://players.akamai.com/players/hlsjs?streamUrl=https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1785744438~acl=%2f*~id=0ef6a40b-2643-4d97-9b32-b94abda1ba73~data=hdntl~hmac=746fb0336b935b0476a3e6198b88834716800e1ee11c9a9c4222f0addf17966d/master_3500.m3u8",
 S5: "https://players.akamai.com/players/hlsjs?streamUrl=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1785744438~acl=%2f*~id=0ef6a40b-2643-4d97-9b32-b94abda1ba73~data=hdntl~hmac=746fb0336b935b0476a3e6198b88834716800e1ee11c9a9c4222f0addf17966d/master_3500.m3u8"
