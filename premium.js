@@ -21,7 +21,7 @@ const streamMap = {
     poster: ""
   },
   "E": {
-    url: "https://in-mc-flive.fancode.com/mumbai/4247571_english_hls_e3862f9fc526422_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787855945~_GO=Generated~acl=/mumbai/4247571_english_hls_e3862f9fc526422_1ta-di_h264/*~Signature=ARB3KG3akDBQuRsUlurpemRphnps1_Tvcy0zL_6X_1T_y-rINa7CwYBZyD6U6w6z2rc9rtmcpzwnqtllcwWoavMay1EJ",
+    url: "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788282238~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv3eJWbedlkWSpdQ2pBEowKSl429hrhPqnIqkVXCfayQ5WJgKax4dJ-1EC2sf7exVbLDRmKcc7M-ZMvJEYUYkKwO",
     poster: ""
   },
   "LPL": {
