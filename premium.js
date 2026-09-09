@@ -53,11 +53,11 @@ const streamMap = {
     poster: ""
   },
   "U5": {
-    url: "rda2lIOMpzK9DlSwKzXK6o2TC45fLlTFYdQwySsTP3efVWKfsuHlYXolCAxxg15URqOE5B&uid=YZ128Qk7yQvbLqXhSrt1Msl25aNuAldI&sid=XdbbfqKeCgqAfwc3K2tcDx4FaLZlzmyI&pid=YpZkPe8xrIefIbd2spJu6CNDmV5ahFkG&ref=tvgo.americatv.com.pe&ext_pb=0&es=pe-p5-p-e-cl1-clrp.cdn.mdstrm.com&ote=1783021451469&ot=fz8hNvpBKoD_fuOl5YrtEw&proto=https&pz=us",
+    url: "",
     poster: ""
   },
   "U4": {
-    url: "",
+    url: "https://live05.miekgo.app/live/33982309.m3u8",
     poster: ""
   },
   "U6": {
@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U3": {
-    url: "https://live05.miekgo.app/live/08552895.m3u8",
+    url: "https://live05.miekgo.app/live/87379114.m3u8",
     poster: ""
   },
   "U1": {
@@ -81,7 +81,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.miekgo.app/live/33982309.m3u8",
+    url: "https://live05.miekgo.app/live/08552895.m3u8",
     poster: "#"
   },
   "S1": {
