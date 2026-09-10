@@ -72,16 +72,16 @@ const streamMap = {
     url: "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     poster: ""
   },
-  "U3": {
-    url: "https://live05.miekgo.app/live/87379114.m3u8",
+  "U2": {
+    url: "https://live05.miekgo.app/live/08552895.m3u8",
     poster: ""
   },
   "U1": {
     url: "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
     poster: ""
   },
-  "U2": {
-    url: "https://live05.miekgo.app/live/08552895.m3u8",
+  "U3": {
+    url: "https://live05.miekgo.app/live/78905744.m3u8",
     poster: "#"
   },
   "S1": {
