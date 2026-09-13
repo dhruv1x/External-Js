@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://in-mc-flive.fancode.com/mumbai/4246729_english_hls_5446b7db6477233_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785677404~_GO=Generated~acl=/mumbai/4246729_english_hls_5446b7db6477233_1ta-di_h264/*~Signature=Aej9sTVht4Qv41GgWbSrnYBH4ZnpVgiRv_9Hw0ZuP1R2w49q8UTTX3rrbodmYdtAjTpO_vgV54Kaj1xRjF556pKNEMoN",
     poster: ""
   },
-  "C": {
-    url: "https://dai-partner.fancode.com/primary/140518_english_hls_9481b78c2323004_1ta-di_h264/index.m3u8",
+  "H": {
+    url: "https://in-mc-flive.fancode.com/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789392659~_GO=Generated~acl=/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/*~Signature=AWDec-HByQhk68qSCnCZyABpf45aQQnnay5WKHnruoErrGrN-vafHAIvAttH8kmxylYL3z2vHk2KCGSXRBizd32DMxwF",
     poster: ""
   },
   "F2": {
