@@ -40,8 +40,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/m8uy-e0k3_1080p/chunklist_DVR.m3u8",
     poster: ""
   },
-  "MMA": {
-    url: "https://tsn.newpersonalities.workers.dev/",
+  "CC": {
+    url: "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8",
     poster: ""
   },
   "MMA2": {
