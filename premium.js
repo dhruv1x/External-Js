@@ -29,7 +29,7 @@ const streamMap = {
     poster: ""
   },
   "H": {
-    url: "https://in-mc-flive.fancode.com/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789392659~_GO=Generated~acl=/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/*~Signature=AWDec-HByQhk68qSCnCZyABpf45aQQnnay5WKHnruoErrGrN-vafHAIvAttH8kmxylYL3z2vHk2KCGSXRBizd32DMxwF",
+    url: "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248492_hindi_109112/ad-h264/index__1080p.m3u8?hdntl=Expires=1789738118~_GO=Generated~acl=/out/v1/ap-south-1/4248492_hindi_109112/ad-h264/*~Signature=AVl424PTnCHKQVLqIu_BmdWfNJxgF3e3b03BLT9NCj6os4GDZbgTOtqFf7trjd2ll0XSzACkVk-ok64REfo9GQsCG8gL",
     poster: ""
   },
   "F2": {
