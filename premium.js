@@ -73,7 +73,7 @@ const streamMap = {
     poster: ""
   },
   "U2": {
-    url: "https://live05.miekgo.app/live/08552895.m3u8",
+    url: "https://sonyliv-beta.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1791311334~acl=/*~id=55405308115556155490371464951090~hmac=38013187fe524c7e64d7206ca8ac851dcd860cde71305a9e440b7af17431860b",
     poster: ""
   },
   "U1": {
