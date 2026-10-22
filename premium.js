@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1792681242~acl=/*~id=99028577477750314670764750921943~hmac=e8984aa43136efc55e7a012c8156f565494ee87616725afbcec851a96aad65bc",
     poster: ""
   },
   "U": {
