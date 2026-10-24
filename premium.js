@@ -16,7 +16,7 @@ const streamMap = {
     url: "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     poster: "#"
   },
-  "S3": {
+  "S": {
     url: "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8",
     poster: ""
   },
@@ -48,8 +48,8 @@ const streamMap = {
     url: "https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.ucjk4S9HM0jD.m3u8",
     poster: ""
   },
-  "S": {
-    url: ".N9f2_VL8MTL7Lce4gcxRp4kTo----TxmbKF11OfbPOQA&autoplay=1&controls=auto&theme=default&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&no_download=1&width=responsive&aspect=16:9",
+  "S3": {
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792840818~acl=/*~id=1d8a980e325c883d5eee163146440bb5-1792797618518~hmac=6a60549a80429687d4a6ae23c24658a97457bbba518f3cb7aed9461b29946cbe",
     poster: ""
   },
   "U5": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1792681242~acl=/*~id=99028577477750314670764750921943~hmac=e8984aa43136efc55e7a012c8156f565494ee87616725afbcec851a96aad65bc",
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1792840818~acl=/*~id=1d8a980e325c883d5eee163146440bb5-1792797618518~hmac=6a60549a80429687d4a6ae23c24658a97457bbba518f3cb7aed9461b29946cbe",
     poster: ""
   },
   "U": {
