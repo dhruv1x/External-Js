@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1792840818~acl=/*~id=1d8a980e325c883d5eee163146440bb5-1792797618518~hmac=6a60549a80429687d4a6ae23c24658a97457bbba518f3cb7aed9461b29946cbe",
+    url: "https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
     poster: ""
   },
   "U": {
