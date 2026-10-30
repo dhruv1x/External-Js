@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "S3": {
-    url: "https://qwrvdz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8?session_id=aefd63ba-f810-4b5b-b88b-1cd135206342-1793260264960&device_id=ad9f1602bb8504ff",
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1793381005~acl=/*~id=d05a3315f69543e78a4f1d80b9ca0f1d-1784018925346~hmac=53687ca4b9a706192e61cdccfea237348764e89d82be04002263978d92c4159c",
     poster: ""
   },
   "U5": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1793381005~acl=/*~id=d05a3315f69543e78a4f1d80b9ca0f1d-1784018925346~hmac=53687ca4b9a706192e61cdccfea237348764e89d82be04002263978d92c4159c",
     poster: ""
   },
   "U": {
