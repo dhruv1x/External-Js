@@ -84,8 +84,8 @@ const streamMap = {
     url: "https://live05.miekgo.app/live/78905744.m3u8",
     poster: "#"
   },
-  "S1": {
-    url: "",
+  "S5": {
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1793375873~acl=*~id=1556784484fancode~hmac=4471552a8b24ec7defb1ca783ebcbbb485cbc20a93825d81f9ba439af34a7334",
     poster: ""
   },
 };
