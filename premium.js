@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "S3": {
-    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1793381005~acl=/*~id=d05a3315f69543e78a4f1d80b9ca0f1d-1784018925346~hmac=53687ca4b9a706192e61cdccfea237348764e89d82be04002263978d92c4159c",
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1793551967~acl=/*~id=19103294540150491564921638178158~hmac=d6c38d0d9815cf7e881b8c3747be0b2f8500d4f7705ad11a5907c3de793c650b",
     poster: ""
   },
   "U5": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1793381005~acl=/*~id=d05a3315f69543e78a4f1d80b9ca0f1d-1784018925346~hmac=53687ca4b9a706192e61cdccfea237348764e89d82be04002263978d92c4159c",
+    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1793551967~acl=/*~id=19103294540150491564921638178158~hmac=d6c38d0d9815cf7e881b8c3747be0b2f8500d4f7705ad11a5907c3de793c650b",
     poster: ""
   },
   "U": {
