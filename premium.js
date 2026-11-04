@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "S3": {
-    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1793551967~acl=/*~id=19103294540150491564921638178158~hmac=d6c38d0d9815cf7e881b8c3747be0b2f8500d4f7705ad11a5907c3de793c650b",
+    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1793822444~acl=%2f*~id=2998b4bf-160a-40ba-ac2d-58eabd6efa98~data=hdntl~hmac=55de47cd0f0f87bfade79a3d2dd14602cb4d0dce4f5745a0dfe69490d03be07e/master_3500.m3u8",
     poster: ""
   },
   "U5": {
