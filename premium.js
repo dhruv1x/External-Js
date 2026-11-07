@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "S3": {
-    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1793822444~acl=%2f*~id=2998b4bf-160a-40ba-ac2d-58eabd6efa98~data=hdntl~hmac=55de47cd0f0f87bfade79a3d2dd14602cb4d0dce4f5745a0dfe69490d03be07e/master_3500.m3u8",
+    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794054398~acl=/*~id=35083061525596278690298080425087~hmac=1ddff2b1e82c3da0240a8170a1b6bc9e61226ac5466a9881835ff71e7c52dfb1",
     poster: ""
   },
   "U5": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1793551967~acl=/*~id=19103294540150491564921638178158~hmac=d6c38d0d9815cf7e881b8c3747be0b2f8500d4f7705ad11a5907c3de793c650b",
+    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1794088809~acl=%2f*~id=4fddb3a6-9607-4fd6-9a3e-1e1f66f9ca7a~data=hdntl~hmac=fe272ff17597bf1ed167bc17bb2a1a0756c51b5aaca98be42d7a4089249a4a27/master_3500.m3u8",
     poster: ""
   },
   "U": {
