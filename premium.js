@@ -49,7 +49,7 @@ const streamMap = {
     poster: ""
   },
   "S3": {
-    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1794348024~acl=%2f*~id=528900f2-8aed-4dfc-81c9-5d5e1b125a2e~data=hdntl~hmac=a766d445ff3bf1766cdf44263172fa2b3ae7787c5ebf3706c755f6648f46bf4b/master_3500.m3u8",
+    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1794567618~acl=%2f*~id=019dea22-ea80-4ba3-9ca4-6651a7c2d7e8~data=hdntl~hmac=b844af7b150daa40b69c8260594dc924569c0ba73b51aa4361cf08fdb4210b01/master_3500.m3u8",
     poster: ""
   },
   "U5": {
@@ -65,7 +65,7 @@ const streamMap = {
     poster: ""
   },
   "S4": {
-    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1794088809~acl=%2f*~id=4fddb3a6-9607-4fd6-9a3e-1e1f66f9ca7a~data=hdntl~hmac=fe272ff17597bf1ed167bc17bb2a1a0756c51b5aaca98be42d7a4089249a4a27/master_3500.m3u8",
+    url: "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1794567618~acl=%2f*~id=019dea22-ea80-4ba3-9ca4-6651a7c2d7e8~data=hdntl~hmac=b844af7b150daa40b69c8260594dc924569c0ba73b51aa4361cf08fdb4210b01/master_3500.m3u8",
     poster: ""
   },
   "U": {
